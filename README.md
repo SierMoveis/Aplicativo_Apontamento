@@ -85,17 +85,30 @@ function menuToggle() {
         menuArea.style.width = '200px';
     }
 }
+```
 
 Descrição: Esta função controla a abertura e fechamento do menu lateral. Ela altera dinamicamente a largura do contêiner do menu (menu-area) entre 0 e 200px, conforme o estado atual.
 
-### 2 Função mudarDataUR(unidade) **
+### 2. **Função `mudarDataUR(unidade)`**
 
+```javascript
 function mudarDataUR(unidade) {
     let dia = document.getElementById('data' + unidade).value;
     alert('O dia escolhido para a ' + unidade + ' foi: ' + dia);
 }
+```
 
 Descrição: Essa função é acionada quando o usuário seleciona uma data para uma unidade específica (como UR1, UR2, etc.). Ela captura o valor da data escolhida e exibe um alert informando a data e a unidade correspondente.
+ 
+---
 
-3. Função mudarSetorUR(unidade)
+
+### 3. **Função `mudarSetorUR(unidade)`**
+
+```javascript
+function mudarDataUR(unidade) {
+    let dia = document.getElementById('data' + unidade).value;
+    alert('O dia escolhido para a ' + unidade + ' foi: ' + dia);
+}
+```
 
