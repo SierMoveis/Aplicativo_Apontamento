@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+
+    <link rel="shortcut icon" href="Logo Sier.ico" type="image/x-icon">
+    <link rel="stylesheet" href="front__inicial.css">
+    <script src="back__incial.js"></script>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <title>Retrabalhos</title>
+</head>
+<body>
+    <header class="inicial__hd ocultar">
+        <img style="height: 6rem;" id="logo" src="Logo Sier.jpg" alt="LOGO">
+
+        <button id="open__menu">&#9776;</button>
+
+        <nav class="inicial__nv" id="bt__menu">
+            <button id="close__menu">X</button>
+            <a class="link__ centralizar" href="instruções.html">Instruções de uso</a>
+            <a class="link__ centralizar" href="index.html">Início</a>
+            <a class="link__ centralizar" href="Assistencia.html">Assistência Técnica</a>
+            <a class="link__ centralizar" href="Consumo.html">Consumo de material</a>
+            <a class="link__ centralizar" href="Disperdicio.html">Disperdício de material</a>
+            <a class="link__ centralizar" href="Metas.html">Metas de Produção</a>
+            <a class="link__ centralizar" href="PQT.html">Notas PQT</a>
+            <a class="link__ centralizar" href="Produtividade.html">Produtividade</a>
+            <a class="link__ centralizar" href="Qualidade.html">Qualidade do fornecedor</a>
+            <a class="link__ centralizar" href="Retrabalhos.html">Retrabalhos</a>
+            <a class="link__ centralizar" href="Tempo_parado.html">Tempo parado</a>
+        </nav>
+    </header>
+
+    <!-- <aside class="inicial__as" class="inicio">
+    <section style="width: 100%;"><h6 class="centralizar">Menu</h6>
+        <article>
+            <div class="links centralizar">
+                <div class="layout_links_1">
+                    <a class="link__menu centralizar" href="index.html">Início</a>
+                    <a class="link__menu centralizar" href="Produtividade.html">Produtividade</a>
+                    <a class="link__menu centralizar" href="Assistencia.html">Assistência</a>
+                    <a class="link__menu centralizar" href="Tempo_parado.html">Improdutividade</a>
+                </div>
+                <div class="layout_links_2">
+                    <a class="link__menu centralizar" href="Disperdicio.html">Disperdício</a>
+                    <a class="link__menu centralizar" href="Qualidade.html">Fornecedor</a>
+                    <a class="link__menu centralizar" href="PQT.html">PQT</a>
+                </div>
+            </div>
+        </article>
+        </section>
+    </aside> -->
+    
+    <main class="inicial__mn">
+        <section id="inicio"><h5 class="titulo__h5">RETRABALHOS</h5>
+
+            <nav class="inicial__menu" id="bt__menu">
+                <a class="link__menu" href="#UR1">Unidade 1</a>
+                <a class="link__menu" href="#UR2">Unidade 2</a>
+                <a class="link__menu" href="#UR3">Unidade 3</a>
+                <a class="link__menu" href="#UR4">Unidade 4</a>
+                <a class="link__menu" href="#UR5">ADM</a>
+            </nav>
+
+            <article id="UR1" class="unidade">
+                <h6 class="titulo_h6 ocultar">UNIDADE 1</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_UR1">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_UR1">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_UR1">
+                        </div>
+                        
+
+                            <div class="centralizar ocultar">
+                                <label class="label__" for="setorSelect_UR1">Selecione um setor:</label> 
+                                <select class="select__" id="setorSelect_UR1" onchange="atualizarInputData('UR1')">
+                                    <option class="option__" ></option>
+                                    <option class="option__" value="Cab_fundo">Cabine de fundo</option>
+                                    <option class="option__" value="Lix_Osso">Lix. Osso</option>
+                                    <option class="option__" value="exp1">Expedição</option>
+                                    <option class="option__" value="Usinagem">Usinagem</option>
+                                    <option class="option__" value="Banda_Larga">Banda Larga</option>
+                                </select>                    
+                            </div>
+                    
+
+                        <div id="detalhesContainer_UR1" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('UR1')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('UR1')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('UR1')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('UR1')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('UR1')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_UR1" class="centralizar estilo__alerta"></div>
+                        
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="UR2" class="unidade">
+                <h6 class="titulo_h6 ocultar">UNIDADE 2</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_UR2">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_UR2">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_UR2">
+                        </div>
+                        
+
+                            <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_UR2">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_UR2" onchange="atualizarInputData('UR2')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Estofaria">Estofaria</option>
+                                <option class="option__" value="Tecido">Tecido</option>
+                                <option class="option__" value="exp2">Expedição</option>
+                                <option class="option__" value="Us_un2">Usinagem 3 → 2</option>
+                                <option class="option__" value="Us_curvado">Usinagem Curvados</option>
+                                <option class="option__" value="Restauracao">Restauração</option>
+                                <option class="option__" value="Mont_Osso">Montagem Osso</option>
+                            </select>                    
+                            </div>
+
+                        <div id="detalhesContainer_UR2" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('UR2')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('UR2')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('UR2')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('UR2')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('UR2')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_UR2" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="UR3" class="unidade">
+                <h6 class="titulo_h6 ocultar">UNIDADE 3</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_UR3">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="dataInput_UR3">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_UR3">
+                        </div>
+                            
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_UR3">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_UR3" onchange="atualizarInputData('UR3')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Un_3">Unidade 3</option>
+                            </select>                    
+                            </div>
+
+                        <div id="detalhesContainer_UR3" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('UR3')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('UR3')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('UR3')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('UR3')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('UR3')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_UR3" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="UR4" class="unidade">
+                <h6 class="titulo_h6 ocultar">UNIDADE 4</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_UR4">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="dataInput_UR4">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_UR4">
+                        </div>
+                        
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_UR4">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_UR4"onchange="atualizarInputData('UR4')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Un_4">Unidade 4</option>
+                            </select>                    
+                            </div>
+
+                    <div id="detalhesContainer_UR4" class="estilo__detalhes"></div>
+
+                        <div
+                         class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('UR4')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('UR4')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('UR4')">⇾</button>
+                        </div>
+
+                        <div
+                         class="btt__nav">
+                            <button class="botao__" onclick="voltar('UR4')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('UR4')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_UR4" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="UR5" class="unidade">
+                <h6 class="titulo_h6 ocultar">ADM</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_UR5">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="dataInput_UR5">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_UR5">
+                        </div>
+                        
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_UR5">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_UR5"onchange="atualizarInputData('UR5')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="PeG">P&G</option>
+                            </select>                    
+                        </div>
+
+                    <div id="detalhesContainer_UR5" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('UR5')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('UR5')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('UR5')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('UR5')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('UR5')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_UR5" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+        </section>
+        
+    </main>
+    
+    <footer class="inicial__ft">
+        <section>
+            <h5 class="centralizar">Sier - PCP - Apontamento</h5>
+        </section>
+    </footer>
+</body>
+</html>

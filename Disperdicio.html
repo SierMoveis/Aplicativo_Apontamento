@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+
+    <meta name="author" content="Gerson f. Ribeiro">
+
+    <link rel="shortcut icon" href="Logo Sier.ico" type="image/x-icon">
+    <link rel="stylesheet" href="front__inicial.css">
+    <script src="back__incial.js"></script>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <title>Disperdício de matéria-prima</title>
+</head>
+<body>
+    <header class="inicial__hd ocultar">
+        <img style="height: 6rem;" id="logo" src="Logo Sier.jpg" alt="LOGO">
+
+        <button id="open__menu">&#9776;</button>
+
+        <nav class="inicial__nv" id="bt__menu">
+            <button id="close__menu">X</button>
+            <a class="link__ centralizar" href="instruções.html">Instruções de uso</a>
+            <a class="link__ centralizar" href="index.html">Início</a>
+            <a class="link__ centralizar" href="Assistencia.html">Assistência Técnica</a>
+            <a class="link__ centralizar" href="Consumo.html">Consumo de material</a>
+            <a class="link__ centralizar" href="Disperdicio.html">Disperdício de material</a>
+            <a class="link__ centralizar" href="Metas.html">Metas de Produção</a>
+            <a class="link__ centralizar" href="PQT.html">Notas PQT</a>
+            <a class="link__ centralizar" href="Produtividade.html">Produtividade</a>
+            <a class="link__ centralizar" href="Qualidade.html">Qualidade do fornecedor</a>
+            <a class="link__ centralizar" href="Retrabalhos.html">Retrabalhos</a>
+            <a class="link__ centralizar" href="Tempo_parado.html">Tempo parado</a>
+        </nav>
+    </header>
+
+    <!-- <aside class="inicial__as" class="inicio">
+    <section style="width: 100%;"><h6 class="centralizar">Menu</h6>
+        <article>
+            <div class="links centralizar">
+                <div class="layout_links_1">
+                    <a class="link__menu centralizar" href="index.html">Pág inicial</a>
+                    <a class="link__menu centralizar" href="Produtividade.html">Produtividade</a>
+                    <a class="link__menu centralizar" href="Retrabalhos.html">Retrabalhos</a>
+                    <a class="link__menu centralizar" href="Tempo_parado.html">Improdutividade</a>
+                </div>
+                <div class="layout_links_2">
+                    <a class="link__menu centralizar" href="Assistencia.html">Assistência</a>
+                    <a class="link__menu centralizar" href="Disperdicio.html">Disperdício</a>
+                    <a class="link__menu centralizar" href="Qualidade.html">Fornecedor</a>
+                    <a class="link__menu centralizar" href="PQT.html">PQT</a>
+                </div>
+            </div>
+        </article>
+        </section>
+    </aside> -->
+    
+    <main class="inicial__mn">
+        <section id="inicio"><h5 class="titulo__h5 ocultar">DISPERDÍCIOS DE MATERIAL</h5>
+            <nav class="inicial__menu">
+                <a class="link__menu" href="#DS1">Unidade 1</a>
+                <a class="link__menu" href="#DS2">Unidade 2</a>
+                <a class="link__menu" href="#DS3">Unidade 3</a>
+                <a class="link__menu" href="#DS4">Unidade 4</a>
+                <a class="link__menu" href="#DS5">Unidade 5</a>
+            </nav>
+
+            <article id="DS1" class="unidade">
+                <h6 class="titulo_h6">UNIDADE 1</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_DS1">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_DS1">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_DS1">
+                        </div>
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_DS1">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_DS1" onchange="atualizarInputData('DS1')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Tampos">Tampos</option>
+                            </select>                    
+                        </div>
+
+                        <div id="detalhesContainer_DS1" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('DS1')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('DS1')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('DS1')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('DS1')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('DS1')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_DS1" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="DS2" class="unidade">
+                <h6 class="titulo_h6">UNIDADE 2</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_DS2">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_DS2">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_DS2">
+                        </div>
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_DS2">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_DS2" onchange="atualizarInputData('DS2')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Tampos">Tampos</option>
+                            </select>                    
+                        </div>
+
+                        <div id="detalhesContainer_DS2" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('DS2')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('DS2')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('DS2')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('DS2')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('DS2')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_DS2" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="DS3" class="unidade">
+                <h6 class="titulo_h6">UNIDADE 3</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_DS3">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_DS3">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_DS3" >
+                        </div>
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_DS3">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_DS3" onchange="atualizarInputData('DS3')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Tampos">Tampos</option>
+                            </select>                    
+                        </div>
+
+                        <div id="detalhesContainer_DS3" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('DS3')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('DS3')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('DS3')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('DS3')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('DS3')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_DS3" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="DS4" class="unidade">
+                <h6 class="titulo_h6">UNIDADE 4</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_DS4">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_DS4">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_DS4">
+                        </div>
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_DS4">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_DS4" onchange="atualizarInputData('DS4')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="Tampos">Tampos</option>
+                            </select>                    
+                        </div>
+
+                        <div id="detalhesContainer_DS4" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('DS4')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('DS4')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('DS4')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('DS4')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('DS4')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_DS4" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+            <article id="DS5" class="unidade">
+                <h6 class="titulo_h6">UNIDADE 5</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_DS5">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__ " for="dataInput_DS5">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_DS5">
+                        </div>
+
+                        <div class="centralizar ocultar">                            
+                            <label class="label__" for="setorSelect_DS5">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_DS5" onchange="atualizarInputData('DS5')">
+                                <option class="option__" value="Tampos">Tampos</option>
+                            </select>                    
+                        </div>
+
+                        <div id="detalhesContainer_DS5" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('DS5')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('DS5')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('DS5')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('DS5')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('DS5')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_DS5" class="centralizar estilo__alerta"></div>
+                            
+                    </div>
+                </div>
+                
+            </article>
+
+        </section>
+        
+    </main>
+    
+    <footer class="inicial__ft">
+        <section>
+            <h5 class="centralizar">Sier - PCP - Apontamento</h5>
+            <h6 class="centralizar"><strong style="text-decoration: underline;">By: Gerson f. Ribeiro - 2023</strong></h6>
+        </section>
+    </footer>
+</body>
+</html>

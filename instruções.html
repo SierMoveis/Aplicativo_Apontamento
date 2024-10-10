@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+
+    <meta name="author" content="Gerson f. Ribeiro">
+
+    <link rel="shortcut icon" href="Logo Sier.ico" type="image/x-icon">
+    <link rel="stylesheet" href="front__inicial.css">
+    <script src="back__index.js"></script>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <title>Instruções</title>
+</head>
+<body>
+  <header class="inicial__hd ocultar">
+    <img style="height: 6rem;" id="logo" src="Logo Sier.jpg" alt="LOGO">
+
+    <button id="open__menu">&#9776;</button>
+
+    <nav class="inicial__nv" id="bt__menu">
+      <button id="close__menu">X</button>
+      <a class="link__ centralizar" href="instruções.html">Instruções de uso</a>
+      <a class="link__ centralizar" href="index.html">Início</a>
+      <a class="link__ centralizar" href="Assistencia.html">Assistência Técnica</a>
+      <a class="link__ centralizar" href="Consumo.html">Consumo de material</a>
+      <a class="link__ centralizar" href="Disperdicio.html">Disperdício de material</a>
+      <a class="link__ centralizar" href="Metas.html">Metas de Produção</a>
+      <a class="link__ centralizar" href="PQT.html">Notas PQT</a>
+      <a class="link__ centralizar" href="Produtividade.html">Produtividade</a>
+      <a class="link__ centralizar" href="Qualidade.html">Qualidade do fornecedor</a>
+      <a class="link__ centralizar" href="Retrabalhos.html">Retrabalhos</a>
+      <a class="link__ centralizar" href="Tempo_parado.html">Tempo parado</a>
+  </nav>
+</header>
+
+    <!-- <aside class="inicial__as" class="inicio">
+        <section style="width: 100%;"><h6 class="centralizar">Menu</h6>
+            <article>
+                <div class="links centralizar">
+                    <div class="layout_links_1">
+                        <a class="link__menu centralizar" href="Produtividade.html">Produtividade</a>
+                        <a class="link__menu centralizar" href="Retrabalhos.html">Retrabalhos</a>
+                        <a class="link__menu centralizar" href="Tempo_parado.html">Tempo parado</a>
+                    </div>
+                    <div class="layout_links_2">
+                        <a class="link__menu centralizar" href="Assistencia.html">Assistência</a>
+                        <a class="link__menu centralizar" href="Disperdicio.html">Disperdício</a>
+                        <a class="link__menu centralizar" href="Qualidade.html">Fornecedor</a>
+                        <a class="link__menu centralizar" href="PQT.html">PQT</a>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </aside> -->
+    
+    <main class="inicial__mn">
+
+      <nav class="inicial__nv" id="bt__menu">
+        <button id="close__menu">X</button>
+        <a class="link__" href="#pg2" style="text-align: center;">Instruções de uso</a>
+        <a class="link__" href="#pg3" style="text-align: center;">Informações da plataforma</a>
+        <a class="link__" href="#pg4" style="text-align: center;">Horário de entrega</a>
+      </nav>
+
+        <section>
+            <article id="pg2">
+                <h5 class="centralizar">Instruções para o uso</h5>
+                <ol style="list-style: decimal ; margin-left: 2rem;">
+                    <li>Selecione no menu qual o apontamento deseja acompanhar, exemplo: <a href="Produtividade.html" style="font-variant: small-caps; color: white;">Produtividade</a>;</li>
+                    
+                    <li>Escolha a Unidade e qual o Setor deseja visualizar, a Data da última atualização será preenchida automaticamente;</li>
+                    
+                    <li>A informação que procura será exibida após pressionar o botão 🔍, em caso de não existir a informação será exibida a seguinte mensagem: <br>
+                      <strong style="color: red;" >"Apontamento não finalizado"</strong>;
+                    </li>
+                    
+                    <li>Para melhor navegabilidade existem os seguintes botões: Voltar, Limpar, ⇽ (Dia anterior) e (Próximo dia) ⇾ ;</li>
+                    
+                    <li>Os dados semanais e mensais não possuem botões de próximo, os semanais são definidos em todos os dias da semana específica, enquanto os mensais no último dia do mês;</li>
+                    
+                    <li>É possível fazer o download das imagens em caso de necessidade, basta pressionar logo acima da mesma para que sejam visualizadas as opções.</li>
+                    <li style="text-decoration: underline;">Exemplo de uso da plataforma: Primeiro clique no botão do menu → &#9776; → Produtividade → Unidade → Setor → 🔍</li>
+                </ol>
+            </article>
+
+            <article id="pg3">
+                <h5 class="centralizar">Informações da plataforma</h5>
+                <p>
+                    <strong style="color: red;">Atenção:</strong> todas as informações aqui publicadas estão sujeitas a alterações mas a plataforma não possui capacidade de alteração dos dados em si,
+                    qualquer necessidade de alteração deverá ser passada para os responsáveis pela atualização da ferramenta! <br>
+                    Disponível para o acesso 24 horas, ressalva em caso de falhas técnicas onde houver a necessidade da retirada da plataforma do ar para manutenção. <br>
+                    Em caso de manutenção as informações seram passadas manualmente e diretamente para os gerentes responsáveis pelos setores.
+                </p>
+            </article>
+
+            <article id="pg4">
+                <h4 class="centralizar" style="margin-bottom: 2rem; text-align: center;">Itinerário de atualizações de produtividade.</h4>
+
+                <h5 class="centralizar"><strong>Gerson f. Ribeiro</strong></h5>
+                <table class="table" style="max-width: 100%;">
+                  <thead>
+                    <tr>
+                      <th scope="col">Setor</th>
+                      <th scope="col">Gerente</th>
+                      <th scope="col">Prazo</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Telinha</td>
+                      <td>Fabricío</td>
+                      <td>9:30</td>
+                    </tr>
+
+                    <tr>
+                      <td>Estofaria</td>
+                      <td>Tiago A.</td>
+                      <td>9:30</td>
+                    </tr>
+
+                    <tr>
+                        <td>CNC</td>
+                        <td>Tiago S.</td>
+                        <td>10:30</td>
+                    </tr>
+
+                    <tr>
+                        <td>Usinagem Tiago</td>
+                        <td>Tiago S.</td>
+                        <td>14:30</td>
+                    </tr>
+
+                    <tr>
+                        <td>Usinagem 3 → 2</td>
+                        <td>Lucas</td>
+                        <td>15:00</td>
+                    </tr>
+
+                    <tr>
+                        <td>Unidade 3</td>
+                        <td>Marcelo</td>
+                        <td>15:00</td>
+                    </tr>
+                  </tbody>
+                </table> 
+
+                <h5 class="centralizar" style="margin-top: 4rem;"><strong>Weverson L. Teixeira</strong></h5>
+                <table class="table" style="max-width: 100%;">
+                    <thead>
+                      <tr>
+                        <th scope="col">Setor</th>
+                        <th scope="col">Gerente</th>
+                        <th scope="col">Prazo</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Lix. Metal</td>
+                        <td>Geraldo</td>
+                        <td>10:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Montagem Un1</td>
+                        <td>Ivair</td>
+                        <td>10:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Tupia</td>
+                        <td>Charles</td>
+                        <td>10:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Filetadeira</td>
+                        <td>Charles</td>
+                        <td>10:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Expedição Un1</td>
+                        <td>Italo</td>
+                        <td>10:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Acabamento Un1</td>
+                        <td>Geraldo</td>
+                        <td>10:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Lixção Fundo</td>
+                        <td>Fabricío</td>
+                        <td>13:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Lix. Pé Frente</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Lix. Pé Trás</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Mont. Acabamento</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Tingidor</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Cab. Fundo</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Insp. Qualidade</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Robô</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Cabine de verniz</td>
+                        <td>Fabricío</td>
+                        <td>14:30</td>
+                      </tr>
+
+                      <tr>
+                        <td>Unidade 4</td>
+                        <td>Francisco</td>
+                        <td>15:00</td>
+                      </tr>
+
+                      <tr>
+                        <td>Retrabalhos</td>
+                        <td>Geral</td>
+                        <td>16:48</td>
+                      </tr>
+                    </tbody>
+                  </table> 
+            </article>
+
+            <article id="pg5">
+                <p class="centralizar" style="text-align: center;"> &copy; 2023 Sier Móveis. Todos os direitos reservados.</p>
+            </article>
+
+        </section>
+        
+    </main>
+    
+    <footer class="inicial__ft">
+        <section>
+            <h5 class="centralizar">Sier - PCP - Apontamento</h5>
+            <h6 class="centralizar"><strong style="text-decoration: underline;">By: Gerson f. Ribeiro - 2023</strong></h6>
+        </section>
+    </footer>
+</body>
+</html>
