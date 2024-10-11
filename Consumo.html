@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="images/Logo Sier.ico" type="image/x-icon">
     <link rel="stylesheet" href="style/front__inicial.css">
     <script src="scripts/back__incial.js"></script>
-    
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     
@@ -19,18 +19,18 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-    <title>Disperdício de matéria-prima</title>
+    <title>Consumo de matéria-prima</title>
 </head>
 <body>
     <header class="inicial__hd ocultar">
-        <img style="height: 6rem;" id="logo" src="Logo Sier.jpg" alt="LOGO">
+        <img style="height: 6rem;" id="logo" src="images/Logo Sier.jpg" alt="LOGO">
 
         <button id="open__menu">&#9776;</button>
 
         <nav class="inicial__nv" id="bt__menu">
             <button id="close__menu">X</button>
             <a class="link__ centralizar" href="instruções.html">Instruções de uso</a>
-            <a class="link__ centralizar" href="index.html">Início</a>
+            <a class="link__ centralizar" href="homepage.html">Início</a>
             <a class="link__ centralizar" href="Assistencia.html">Assistência Técnica</a>
             <a class="link__ centralizar" href="Consumo.html">Consumo de material</a>
             <a class="link__ centralizar" href="Disperdicio.html">Disperdício de material</a>
@@ -44,222 +44,225 @@
     </header>
 
     <main class="inicial__mn">
-        <section id="inicio"><h5 class="titulo__h5 ocultar">DISPERDÍCIOS DE MATERIAL</h5>
+        <section id="inicio"><h5 class="titulo__h5 ocultar">CONSUMO DE MATERIAL</h5>
             <nav class="inicial__menu">
-                <a class="link__menu" href="#DS1">Unidade 1</a>
-                <a class="link__menu" href="#DS2">Unidade 2</a>
-                <a class="link__menu" href="#DS3">Unidade 3</a>
-                <a class="link__menu" href="#DS4">Unidade 4</a>
-                <a class="link__menu" href="#DS5">Unidade 5</a>
+                <a class="link__menu" href="#CS1">Unidade 1</a>
+                <a class="link__menu" href="#CS2">Unidade 2</a>
+                <a class="link__menu" href="#CS3">Unidade 3</a>
+                <a class="link__menu" href="#CS4">Unidade 4</a>
+                <a class="link__menu" href="#CS5">Unidade 5</a>
             </nav>
 
-            <article id="DS1" class="unidade">
+            <article id="CS1" class="unidade">
                 <h6 class="titulo_h6">UNIDADE 1</h6>
-                <div class="centralizar estilo__carregando" id="loadingMessage_DS1">
+                <div class="centralizar estilo__carregando" id="loadingMessage_CS1">
                     <div class="spinner-border text-success" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
                 </div>
-                
+
                 <div class="setores centralizar">
                     <div>
                         <div class="centralizar ocultar">
-                            <label class="label__ " for="dataInput_DS1">Selecione uma data:</label> 
-                            <input class="input__" type="date" id="dataInput_DS1">
+                            <label class="label__ " for="dataInput_CS1">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_CS1">
                         </div>
 
-                        <div class="centralizar ocultar">
-                            <label class="label__" for="setorSelect_DS1">Selecione um setor:</label> 
-                            <select class="select__" id="setorSelect_DS1" onchange="atualizarInputData('DS1')">
+                        <div class="center ocultar">
+                            <label class="label__" for="setorSelect_CS1">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_CS1" onchange="atualizarInputData('CS1')">
                                 <option class="option__" ></option>
                                 <option class="option__" value="Tampos">Tampos</option>
                             </select>                    
                         </div>
 
-                        <div id="detalhesContainer_DS1" class="estilo__detalhes"></div>
+                        <div id="detalhesContainer_CS1" class="estilo__detalhes"></div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="diaAnterior('DS1')">⇽</button>
-                            <button class="botao__" onclick="exibirInformação('DS1')">🔍</button>
-                            <button class="botao__" onclick="proximoDia('DS1')">⇾</button>
+                            <button class="botao__" onclick="diaAnterior('CS1')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('CS1')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('CS1')">⇾</button>
                         </div>
-
+                        
                         <div class="btt__nav">
-                            <button class="botao__" onclick="voltar('DS1')">Voltar</button>
-                            <button class="botao__" onclick="limparDetalhes('DS1')">Limpar</button>
+                            <button class="botao__" onclick="voltar('CS1')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('CS1')">Limpar</button>
                         </div>
 
-                        <div id="detalhesContainer_alert_DS1" class="centralizar estilo__alerta"></div>
+                        <div id="detalhesContainer_alert_CS1" class="centralizar estilo__alerta"></div>
                             
                     </div>
                 </div>
                 
             </article>
 
-            <article id="DS2" class="unidade">
+            <article id="CS2" class="unidade">
                 <h6 class="titulo_h6">UNIDADE 2</h6>
-                <div class="centralizar estilo__carregando" id="loadingMessage_DS2">
+                <div class="centralizar estilo__carregando" id="loadingMessage_CS2">
                     <div class="spinner-border text-success" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
                 </div>
-                
+
                 <div class="setores centralizar">
                     <div>
                         <div class="centralizar ocultar">
-                            <label class="label__ " for="dataInput_DS2">Selecione uma data:</label> 
-                            <input class="input__" type="date" id="dataInput_DS2">
+                            <label class="label__ " for="dataInput_CS2">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_CS2">
                         </div>
 
-                        <div class="centralizar ocultar">
-                            <label class="label__" for="setorSelect_DS2">Selecione um setor:</label> 
-                            <select class="select__" id="setorSelect_DS2" onchange="atualizarInputData('DS2')">
+                        <div class="center ocultar">
+                            <label class="label__" for="setorSelect_CS2">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_CS2" onchange="atualizarInputData('CS2')">
                                 <option class="option__" ></option>
                                 <option class="option__" value="Tampos">Tampos</option>
                             </select>                    
                         </div>
 
-                        <div id="detalhesContainer_DS2" class="estilo__detalhes"></div>
+                        <div id="detalhesContainer_CS2" class="estilo__detalhes"></div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="diaAnterior('DS2')">⇽</button>
-                            <button class="botao__" onclick="exibirInformação('DS2')">🔍</button>
-                            <button class="botao__" onclick="proximoDia('DS2')">⇾</button>
+                            <button class="botao__" onclick="diaAnterior('CS2')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('CS2')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('CS2')">⇾</button>
                         </div>
-
+                        
                         <div class="btt__nav">
-                            <button class="botao__" onclick="voltar('DS2')">Voltar</button>
-                            <button class="botao__" onclick="limparDetalhes('DS2')">Limpar</button>
+                            <button class="botao__" onclick="voltar('CS2')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('CS2')">Limpar</button>
                         </div>
 
-                        <div id="detalhesContainer_alert_DS2" class="centralizar estilo__alerta"></div>
+                        <div id="detalhesContainer_alert_CS2" class="centralizar estilo__alerta"></div>
                             
                     </div>
                 </div>
                 
             </article>
 
-            <article id="DS3" class="unidade">
+            <article id="CS3" class="unidade">
                 <h6 class="titulo_h6">UNIDADE 3</h6>
-                <div class="centralizar estilo__carregando" id="loadingMessage_DS3">
+                <div class="centralizar estilo__carregando" id="loadingMessage_CS3">
                     <div class="spinner-border text-success" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
                 </div>
-                
+
                 <div class="setores centralizar">
                     <div>
                         <div class="centralizar ocultar">
-                            <label class="label__ " for="dataInput_DS3">Selecione uma data:</label> 
-                            <input class="input__" type="date" id="dataInput_DS3" >
+                            <label class="label__ " for="dataInput_CS3">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_CS3">
                         </div>
-                        <div class="centralizar ocultar">
-                            <label class="label__" for="setorSelect_DS3">Selecione um setor:</label> 
-                            <select class="select__" id="setorSelect_DS3" onchange="atualizarInputData('DS3')">
+
+                        <div class="center ocultar">
+                            <label class="label__" for="setorSelect_CS3">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_CS3" onchange="atualizarInputData('CS3')">
                                 <option class="option__" ></option>
                                 <option class="option__" value="Tampos">Tampos</option>
                             </select>                    
                         </div>
 
-                        <div id="detalhesContainer_DS3" class="estilo__detalhes"></div>
+                        <div id="detalhesContainer_CS3" class="estilo__detalhes"></div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="diaAnterior('DS3')">⇽</button>
-                            <button class="botao__" onclick="exibirInformação('DS3')">🔍</button>
-                            <button class="botao__" onclick="proximoDia('DS3')">⇾</button>
+                            <button class="botao__" onclick="diaAnterior('CS3')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('CS3')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('CS3')">⇾</button>
                         </div>
-
+                        
                         <div class="btt__nav">
-                            <button class="botao__" onclick="voltar('DS3')">Voltar</button>
-                            <button class="botao__" onclick="limparDetalhes('DS3')">Limpar</button>
+                            <button class="botao__" onclick="voltar('CS3')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('CS3')">Limpar</button>
                         </div>
 
-                        <div id="detalhesContainer_alert_DS3" class="centralizar estilo__alerta"></div>
+                        <div id="detalhesContainer_alert_CS3" class="centralizar estilo__alerta"></div>
                             
                     </div>
                 </div>
                 
             </article>
 
-            <article id="DS4" class="unidade">
+            <article id="CS4" class="unidade">
                 <h6 class="titulo_h6">UNIDADE 4</h6>
-                <div class="centralizar estilo__carregando" id="loadingMessage_DS4">
+                <div class="centralizar estilo__carregando" id="loadingMessage_CS4">
                     <div class="spinner-border text-success" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
                 </div>
-                
+
                 <div class="setores centralizar">
                     <div>
                         <div class="centralizar ocultar">
-                            <label class="label__ " for="dataInput_DS4">Selecione uma data:</label> 
-                            <input class="input__" type="date" id="dataInput_DS4">
+                            <label class="label__ " for="dataInput_CS4">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_CS4">
                         </div>
-
+                        
                         <div class="centralizar ocultar">
-                            <label class="label__" for="setorSelect_DS4">Selecione um setor:</label> 
-                            <select class="select__" id="setorSelect_DS4" onchange="atualizarInputData('DS4')">
+                            <label class="label__" for="setorSelect_CS4">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_CS4" onchange="atualizarInputData('CS4')">
                                 <option class="option__" ></option>
-                                <option class="option__" value="Tampos">Tampos</option>
+                                <option class="option__" value="Chapas">Chapas</option>
                             </select>                    
                         </div>
 
-                        <div id="detalhesContainer_DS4" class="estilo__detalhes"></div>
+                        <div id="detalhesContainer_CS4" class="estilo__detalhes"></div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="diaAnterior('DS4')">⇽</button>
-                            <button class="botao__" onclick="exibirInformação('DS4')">🔍</button>
-                            <button class="botao__" onclick="proximoDia('DS4')">⇾</button>
+                            <button class="botao__" onclick="diaAnterior('CS4')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('CS4')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('CS4')">⇾</button>
                         </div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="voltar('DS4')">Voltar</button>
-                            <button class="botao__" onclick="limparDetalhes('DS4')">Limpar</button>
+                            <button class="botao__" onclick="voltar('CS4')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('CS4')">Limpar</button>
                         </div>
 
-                        <div id="detalhesContainer_alert_DS4" class="centralizar estilo__alerta"></div>
+                        <div id="detalhesContainer_alert_CS4" class="centralizar estilo__alerta"></div>
                             
                     </div>
                 </div>
                 
             </article>
 
-            <article id="DS5" class="unidade">
+            <article id="CS5" class="unidade">
                 <h6 class="titulo_h6">UNIDADE 5</h6>
-                <div class="centralizar estilo__carregando" id="loadingMessage_DS5">
+                <div class="centralizar estilo__carregando" id="loadingMessage_CS5">
                     <div class="spinner-border text-success" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
                 </div>
-                
+
                 <div class="setores centralizar">
                     <div>
                         <div class="centralizar ocultar">
-                            <label class="label__ " for="dataInput_DS5">Selecione uma data:</label> 
-                            <input class="input__" type="date" id="dataInput_DS5">
+                            <label class="label__ " for="dataInput_CS5">Selecione uma data:</label> 
+                            <input class="input__" type="date" id="dataInput_CS5">
                         </div>
 
-                        <div class="centralizar ocultar">                            
-                            <label class="label__" for="setorSelect_DS5">Selecione um setor:</label> 
-                            <select class="select__" id="setorSelect_DS5" onchange="atualizarInputData('DS5')">
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_CS5">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_CS5" onchange="atualizarInputData('CS5')">
+                                <option class="option__" ></option>
                                 <option class="option__" value="Tampos">Tampos</option>
                             </select>                    
+                            </div>
                         </div>
 
-                        <div id="detalhesContainer_DS5" class="estilo__detalhes"></div>
+                        <div id="detalhesContainer_CS5" class="estilo__detalhes"></div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="diaAnterior('DS5')">⇽</button>
-                            <button class="botao__" onclick="exibirInformação('DS5')">🔍</button>
-                            <button class="botao__" onclick="proximoDia('DS5')">⇾</button>
+                            <button class="botao__" onclick="diaAnterior('CS5')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('CS5')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('CS5')">⇾</button>
                         </div>
 
                         <div class="btt__nav">
-                            <button class="botao__" onclick="voltar('DS5')">Voltar</button>
-                            <button class="botao__" onclick="limparDetalhes('DS5')">Limpar</button>
+                            <button class="botao__" onclick="voltar('CS5')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('CS5')">Limpar</button>
                         </div>
 
-                        <div id="detalhesContainer_alert_DS5" class="centralizar estilo__alerta"></div>
+                        <div id="detalhesContainer_alert_CS5" class="centralizar estilo__alerta"></div>
                             
                     </div>
                 </div>
@@ -272,7 +275,7 @@
     
     <footer class="inicial__ft">
         <section>
-            <h5 class="centralizar">Sier - PCP - Apontamento</h5>
+            <h6 class="centralizar"><strong style="text-decoration: underline;">Plataforma de apontamentos - Sier</strong></h6>
         </section>
     </footer>
 </body>
