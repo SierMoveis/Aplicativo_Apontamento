@@ -411,9 +411,9 @@ const unidades = {
             { data: "04/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/04.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/4.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/4.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/4.jpeg"] },
             { data: "08/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/8.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/8.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/8.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/8.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/8.png", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/8.png", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/8.png"] },
             { data: "10/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/10.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/10.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/10.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/10.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/10.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/10.jpeg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/10.jpeg"] },
+            { data: "14/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/14.jpg"] },
 
-
-            // { data: "", captura: ["", "", "", "", "", "", ""] },
+            '// { data: "", captura: ["", "", "", "", "", "", ""] },'
             // { data: "", captura: ["", "", "", "", "", "", ""] },
         ],
     },
