@@ -238,9 +238,8 @@ const unidades = {
             { data: "04/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/04.jpeg"] },
             { data: "08/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/08.jpeg"] },
             { data: "09/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/9.jpeg"] },
-            { data: "10/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/10.jpeg"] },
-            { data: "11/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/11.jpg"] },
-
+            { data: "14/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/14.jpg"] },
+            
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
