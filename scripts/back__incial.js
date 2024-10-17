@@ -171,6 +171,7 @@ const unidades = {
             { data: "11/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/11.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/11.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/11.jpg"] },
             { data: "14/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/14.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/14.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/14.jpg"] },
             { data: "15/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/15.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/15.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/15.jpg"] },
+            { data: "16/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/16.jpg"] },
             
 
             // { data: "", captura: ["", "", ""] },
@@ -352,6 +353,7 @@ const unidades = {
             { data: "03/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/3-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/3-pt2.png"] },
             { data: "04/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/7-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/7-pt2.png"] },
             { data: "10/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/10-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/10-pt2.png"] },
+            { data: "16/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/16-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/16-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
