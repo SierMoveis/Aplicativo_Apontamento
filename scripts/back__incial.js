@@ -244,8 +244,9 @@ const unidades = {
             { data: "09/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/9.jpeg"] },
             { data: "14/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/14.jpg"] },
             { data: "15/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/15.jpg"] },
+            { data: "16/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/16.jpg"] },
 
-
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
