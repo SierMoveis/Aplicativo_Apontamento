@@ -314,6 +314,7 @@ const unidades = {
             { data: "03/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/3.png"] },
             { data: "04/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/4.png"] },
             { data: "08/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/8.png"] },
+            { data: "15/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/15.png"] },
 
 
             // { data: "", captura: [""] },
