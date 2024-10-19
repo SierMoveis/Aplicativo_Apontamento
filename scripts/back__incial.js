@@ -173,6 +173,8 @@ const unidades = {
             { data: "15/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/15.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/15.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/15.jpg"] },
             { data: "16/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/16.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/16.jpg"] },
             { data: "17/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/17.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/17.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/17.jpg"] },
+            { data: "18/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/18.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/18.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/18.jpg"] },
+
 
 
             // { data: "", captura: ["", "", ""] },
@@ -248,6 +250,7 @@ const unidades = {
             { data: "15/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/15.jpg"] },
             { data: "16/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/16.jpg"] },
             { data: "17/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/17.jpg"] },
+            { data: "18/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/18.jpg"] },
 
             
             // { data: "", captura: [""] },
