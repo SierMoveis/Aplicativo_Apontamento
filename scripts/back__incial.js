@@ -368,6 +368,7 @@ const unidades = {
             { data: "10/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/10-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/10-pt2.png"] },
             { data: "16/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/16-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/16-pt2.png"] },
             { data: "19/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/19-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/19-pt2.png"] },
+            { data: "21/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/21-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/21-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -406,6 +407,7 @@ const unidades = {
             { data: "16/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/16.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/16.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Mont.Us/16.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/MM/16.png"] },
             { data: "17/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/17.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/17.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Usinagem/17.png"] },
             { data: "19/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Usinagem/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Mont.Us/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/MM/19.png"] },
+            { data: "21/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Usinagem/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Mont.Us/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/MM/21.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
