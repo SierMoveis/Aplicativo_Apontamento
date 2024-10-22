@@ -295,6 +295,7 @@ const unidades = {
             { data: "16/10/2024", captura: ["capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/16pt1.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/16pt2.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Colagem/16.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Costura/16.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Percinta/16.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/zBordadeira/16.png"] },
             { data: "17/10/2024", captura: ["capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/17pt1.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/17pt2.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Colagem/17.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Costura/17.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Percinta/17.png"] },
             { data: "19/10/2024", captura: ["capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/19pt1.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/19pt2.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Colagem/19.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Costura/19.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Percinta/19.png"] },
+            { data: "21/10/2024", captura: ["capturas/Unidade 2/Estofaria/2024/10- Outubro/Estofadores/21pt1.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Colagem/21.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Costura/21.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/Percinta/21.png", "capturas/Unidade 2/Estofaria/2024/10- Outubro/zBordadeira/21.png"] },
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -332,6 +333,7 @@ const unidades = {
             { data: "16/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/16.png"] },
             { data: "17/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/17.png"] },
             { data: "19/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/19.png"] },
+            { data: "21/10/2024", captura: ["capturas/Unidade 2/Expedição/2024/10- Outubro/21.png"] }, 
 
 
             // { data: "", captura: [""] },
@@ -444,6 +446,7 @@ const unidades = {
             { data: "14/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/14.jpg"] },
             { data: "16/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/16.jpg"] },
 
+
             // { data: "", captura: ["", "", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", "", ""] },
         ],
@@ -477,10 +480,11 @@ const unidades = {
             { data: "11/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/11.png"] },
             { data: "16/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/16.png"] },
             { data: "17/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/17.png"] },
-            { data: "19/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/19.png"] },
+            { data: "18/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/18.png"] },
+            { data: "21/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/21.png"] }, 
 
 
-            // { data: "", captura: [""] },
+            // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
         ],
     },
