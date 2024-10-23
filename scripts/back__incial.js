@@ -490,6 +490,7 @@ const unidades = {
             { data: "17/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/17.png"] },
             { data: "18/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/18.png"] },
             { data: "21/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/21.png"] }, 
+            { data: "22/10/2024", captura: ["capturas/Unidade 3/Usinagem/2024/10- Outubro/22.png"] },
 
 
             // { data: "", captura: [""] }, 
