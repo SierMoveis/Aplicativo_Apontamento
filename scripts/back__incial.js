@@ -215,7 +215,7 @@ const unidades = {
             { data: "11/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/11.jpg"] },
             { data: "15/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/15.jpg", "capturas/Unidade 1/2024/10- Outubro/Usinagem/Tupia/15.jpg"] },
             { data: "18/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/18.jpg", "capturas/Unidade 1/2024/10- Outubro/Usinagem/Tupia/18.jpg"] },
-            { data: "22/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/22.jpg"] },
+            { data: "22/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/22.jpg", "capturas/Unidade 1/2024/10- Outubro/Usinagem/Tupia/22.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -377,6 +377,7 @@ const unidades = {
             { data: "19/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/19-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/19-pt2.png"] },
             { data: "21/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/21-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/21-pt2.png"] },
             { data: "22/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/22-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/22-pt2.png"] },
+            { data: "23/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/23-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/23-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -417,6 +418,7 @@ const unidades = {
             { data: "19/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Usinagem/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Mont.Us/19.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/MM/19.png"] },
             { data: "21/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Usinagem/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Mont.Us/21.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/MM/21.png"] },
             { data: "22/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/22.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/22.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Usinagem/22.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Mont.Us/22.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/MM/22.png"] },
+            { data: "23/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/Rolinho/23.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/Roquite/23.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
@@ -453,7 +455,9 @@ const unidades = {
             { data: "14/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/14.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/14.jpg"] },
             { data: "16/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/16.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/16.jpg"] },
             { data: "21/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/21.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/21.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/21.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/21.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/21.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/21.jpg"] },
+            { data: "22/10/2024", captura: ["capturas/Unidade 2/Acabamento/2024/10- Outubro/Tingidor/22.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Robô/22.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéTras/22.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/PéFrente/22.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/Montagem/22.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoMaquininha/22.jpg", "capturas/Unidade 2/Acabamento/2024/10- Outubro/LixaçãoFundoManual/22.jpg"] },
 
+            
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -527,6 +531,7 @@ const unidades = {
             { data: "04/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/04.jpeg"] },
             { data: "08/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/8.jpeg"] },
             { data: "11/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/11.jpg"] },
+            { data: "23/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/23.jpg"] },
 
 
             // { data: "", captura: [""] },
