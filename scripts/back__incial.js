@@ -178,7 +178,7 @@ const unidades = {
             { data: "17/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/17.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/17.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/17.jpg"] },
             { data: "18/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/18.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/18.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/18.jpg"] },
             { data: "22/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/22.jpg", "capturas/Unidade 1/2024/10- Outubro/LixaçãoOsso/22.jpg", "capturas/Unidade 1/2024/10- Outubro/Lix.Fundo/22.jpg"] },
-
+            { data: "", captura: ["capturas/Unidade 1/2024/10- Outubro/LixaçãoMetal/23.jpg"] },
 
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", ""] },
@@ -258,6 +258,8 @@ const unidades = {
             { data: "18/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/18.jpg"] },
             { data: "19/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/19.jpg"] },
             { data: "22/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/22.jpg"] },
+            { data: "23/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Montagem/23.jpg"] },
+
 
             
             // { data: "", captura: [""] },
@@ -534,7 +536,7 @@ const unidades = {
             { data: "23/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/23.jpg"] },
 
 
-            // { data: "", captura: [""] },
+            // { data: "", captura: [""] },A4
             // { data: "", captura: [""] },
         ],
 
@@ -564,6 +566,8 @@ const unidades = {
             { data: "04/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Prensas/04.jpeg"] },
             { data: "08/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Prensas/8.jpeg"] },
             { data: "11/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Prensas/11.jpg"] },
+            { data: "23/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Prensas/23.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -1038,6 +1042,15 @@ const unidades = {
             { data: "09/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/09 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/09 italpresse.jpg"] },
             { data: "10/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/10 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/10 italpresse.jpg"] },
             { data: "11/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/11 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/11 italpresse.jpg"] },
+            { data: "14/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/14 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/14 italpresse.jpg"] },
+            { data: "15/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/15 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/15 italpresse.jpg"] },
+            { data: "16/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/16maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/16 italpresse.jpg"] },
+            { data: "17/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/17 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/17 italpresse.jpg"] },
+            { data: "18/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/18 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/18 italpresse.jpg"] },
+            { data: "19/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/19 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/19 italpresse.jpg"] },
+            { data: "21/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/21 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/22 italpresse.jpg"] },
+            { data: "22/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/22 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/22 italpresse.jpg"] },
+            { data: "23/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/23 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/23 italpresse.jpg"] },
 
             
 
@@ -2666,6 +2679,8 @@ const unidades = {
             { data: "01/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/01 company.jpeg"] },
             { data: "11/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/11 company.jpeg"] },
             { data: "18/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/14 company.jpg"] },
+            { data: "25/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/21 company.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -2726,7 +2741,10 @@ const unidades = {
             { data: "01/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/1 fast glass.jpeg"] },
             { data: "11/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/11 fast glass.jpeg"] },
             { data: "18/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/14 fast glass.jpg"] },
-            
+            { data: "25/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/21fast glass.jpg"] },
+
+
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
