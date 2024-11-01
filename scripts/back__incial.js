@@ -138,7 +138,7 @@ const unidades = {
             { data: "22/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Expedição/Embalagem/22.jpg", "capturas/Unidade 1/2024/10- Outubro/Expedição/MetasTv/22.jpg"] },
             { data: "25/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Expedição/Embalagem/25.jpg", "capturas/Unidade 1/2024/10- Outubro/Expedição/MetasTv/25.jpg"] },
             { data: "29/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Expedição/MetasTv/29.jpg", "capturas/Unidade 1/2024/10- Outubro/Expedição/MetasTv/29.jpg"] },
-
+            { data: "30/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Expedição/MetasTv/30.jpg", "capturas/Unidade 1/2024/10- Outubro/Expedição/Embalagem/30.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -225,7 +225,7 @@ const unidades = {
             { data: "22/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/22.jpg", "capturas/Unidade 1/2024/10- Outubro/Usinagem/Tupia/22.jpg"] },
             { data: "25/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Tupia/25.jpg", "capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/25.jpg"] },
             { data: "29/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Tupia/29.jpg", "capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/29.jpg"] },
-
+            { data: "29/10/2024", captura: ["capturas/Unidade 1/2024/10- Outubro/Usinagem/Filetação/30.jpg"] },
             
 
             // { data: "", captura: ["", ""] },
