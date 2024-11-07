@@ -419,6 +419,7 @@ const unidades = {
             { data: "31/10/2024", captura: ["capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/31-pt1.png", "capturas/Unidade 2/Usinagem/2024/10- Outubro/CNC/31-pt2.png"] },
 
             { data: "05/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/CNC/5-pt1.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/CNC/5-pt2.png"] },
+            { data: "06/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/CNC/6-pt1.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/CNC/6-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
