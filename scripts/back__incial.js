@@ -285,6 +285,8 @@ const unidades = {
 
             { data: "05/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/5.jpg"] },
             { data: "06/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/6.jpg"] },
+            { data: "07/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/7.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
