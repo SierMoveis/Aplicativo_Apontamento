@@ -2776,7 +2776,7 @@ const unidades = {
             { data: "25/10/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/21 company.jpg"] },
         
             { data: "01/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/01 company.jpg"] },
-
+            { data: "08/11/2024", captura: [""] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
