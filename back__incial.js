@@ -143,7 +143,7 @@ const unidades = {
             
             { data: "05/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Expedição/Embalagem/5.jpg", "capturas/Unidade 1/2024/11-Novembro/Expedição/MetasTv/5.jpg"] },
             { data: "07/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Expedição/Embalagem/7.jpg", "capturas/Unidade 1/2024/11-Novembro/Expedição/MetasTv/7.jpg"] },
-            { data: "08/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Expedição/Embalagem/8.jpg", "capturas/Unidade 1/2024/11-Novembro/Expedição/MetasTv/8.jpg"] }
+            { data: "08/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Expedição/Embalagem/8.jpg", "capturas/Unidade 1/2024/11-Novembro/Expedição/MetasTv/8.jpg"] },
             { data: "09/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Expedição/Embalagem/09.jpg", "capturas/Unidade 1/2024/11-Novembro/Expedição/MetasTv/9.jpg"] },
 
             // { data: "", captura: ["", ""] },
