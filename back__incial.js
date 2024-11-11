@@ -530,7 +530,7 @@ const unidades = {
             { data: "06/11/2024", captura: ["capturas/Unidade 2/Acabamento/2024/11 -Novembro/Tingidor/6.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Robô/06.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéTras/6.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéFrente/6.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Montagem/06.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoMaquininha", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoManual/06.jpg"] },
             { data: "07/11/2024", captura: ["capturas/Unidade 2/Acabamento/2024/11 -Novembro/Tingidor/7.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Robô/7.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéTras/7.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéFrente/7.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Montagem/7.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoMaquininha/7.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoManual/7.jpg"] },
             { data: "08/11/2024", captura: ["capturas/Unidade 2/Acabamento/2024/11 -Novembro/Tingidor/8.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Robô/8.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéTras/8.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéFrente/8.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Montagem/8.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoMaquininha/8.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoManual/8.jpg"] },
-
+            { data: "09/11/2024", captura: ["capturas/Unidade 2/Acabamento/2024/11 -Novembro/Tingidor/9.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Robô/9.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéTras/9.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéFrente/9.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Montagem/9.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoMaquininha/09.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoManual/09.jpg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -612,7 +612,9 @@ const unidades = {
             { data: "08/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/8.jpeg"] },
             { data: "11/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/11.jpg"] },
             { data: "23/10/2024", captura: ["capturas/Unidade 4/Usinagem/2024/10-Outubro/Calibradora/23.jpg"] },
-            { data: "31/10/2024", captura: [""] },
+            
+            
+            { data: "09/11/024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/09.jpg"] },
 
 
             // { data: "", captura: [""] },A4
