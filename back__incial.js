@@ -296,6 +296,7 @@ const unidades = {
             { data: "07/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/7.jpg"] },
             { data: "08/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/8.jpg"] },
             { data: "09/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/9.jpg"] },
+            { data: "11/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/11.jpg"] },
 
             
 
@@ -1024,6 +1025,7 @@ const unidades = {
             { data: "31/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/Gabianne julho.jpeg"] },
             { data: "31/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/gabianne.jpeg"] },
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/09 MÊS GABIANNE.jpeg"] },
+            { data: "31/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/gabianne  outubro.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -3002,6 +3004,7 @@ const unidades = {
             { data: "31/07/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/JULHO.jpeg"] },
             { data: "31/08/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/AGOSTO.jpeg"] },
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/SETEMBRO.jpeg"] },
+            { data: "31/10/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/outubro.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -3054,7 +3057,7 @@ const unidades = {
             { data: "31/07/2024", captura: ["capturas/Unidade 4/Consumo/2024/julho 23 chapas.jpeg"] },
             { data: "31/08/2024", captura: ["capturas/Unidade 4/Consumo/2024/AGOSTO.jpeg"] },
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Consumo/2024/SETEMBRO CHAPAS.jpeg"] },
-
+            { data: "31/10/", captura: ["capturas/Unidade 4/Consumo/2024/outubro chapa.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
