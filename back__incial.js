@@ -399,6 +399,7 @@ const unidades = {
             { data: "06/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/6.png"] },
             { data: "07/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/7.png"] },
             { data: "08/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/8.png"] },
+            { data: "11/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/11.png"] },
 
             
             // { data: "", captura: [""] },
@@ -493,6 +494,7 @@ const unidades = {
             { data: "06/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/6.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Mont.Us/6.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/6.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/6.png"] },
             { data: "07/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/7.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/7.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/7.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/7.png"] },
             { data: "09/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/9.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Mont.Us/9.png"] },
+            { data: "11/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/11.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/11.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/11.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
@@ -584,6 +586,8 @@ const unidades = {
 
             { data: "06/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/6.png"] }, 
             { data: "07/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/7.png"] }, 
+            { data: "11/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/11.png"] },
+            { data: "12/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/12.png"] },
 
 
             // { data: "", captura: [""] }, 
