@@ -504,6 +504,7 @@ const unidades = {
             { data: "07/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/7.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/7.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/7.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/7.png"] },
             { data: "09/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/9.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Mont.Us/9.png"] },
             { data: "11/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/11.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/11.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/11.png"] },
+            { data: "14/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/14.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/14.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
