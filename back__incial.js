@@ -2593,6 +2593,8 @@ const unidades = {
 
             { data: "01/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/Unidade 4/1 pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 4/1 pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 4/1 g.jpg"] },
             { data: "09/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/Unidade 4/09 pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 4/09 pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 4/09 g.jpg"] },
+            { data: "14/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/Unidade 4/14 pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 4/14 pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 4/14 g.jpg" ] },
+
 
             //   { data: "", captura: [""] },
             //   { data: "", captura: [""] },
