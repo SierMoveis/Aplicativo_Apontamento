@@ -202,8 +202,9 @@ const unidades = {
             { data: "09/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/09.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/9.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/9.jpg"] },
             { data: "11/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/11.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/11.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/11.jpg"] },
             { data: "12/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/12.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/12.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/12.jpg"] },
-            { data: "14/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/14.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/14.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/16.jpg"] },
+            { data: "18/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/18.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/18.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/18.jpg"] },
 
+            
 
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", ""] },
