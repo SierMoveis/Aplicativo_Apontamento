@@ -658,7 +658,7 @@ const unidades = {
             
             { data: "09/11/024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/09.jpg"] },
             { data: "18/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/18.jpg"] },
-
+            { data: "19/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/19.jpg"] },
 
 
             // { data: "", captura: [""] },
