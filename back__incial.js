@@ -378,6 +378,8 @@ const unidades = {
             { data: "14/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/14-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/14-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/14.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/14.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/14.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/zBordadeira/14.png"] },
             { data: "18/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/18-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/18-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/18.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/18.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/18.png"] },
             { data: "19/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/19-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/19-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/19.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/19.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/19.png"] },
+            { data: "21/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/21-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/21-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/21.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/21.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/21.png"] },
+            
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
         ],
@@ -427,6 +429,8 @@ const unidades = {
             { data: "14/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/14.png"] },
             { data: "18/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/18.png"] },
             { data: "19/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/20.png"] },
+            { data: "21/11/2024", captura: ["capturas/Unidade 2/Expedição/2024/11-Novembro/21.png"] },
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -527,6 +531,7 @@ const unidades = {
             { data: "14/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/14.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/14.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/14.png"] },
             { data: "18/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/18.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/18.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/18.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/18.png","capturas/Unidade 2/Usinagem/2024/11- Novembro/Mont.Us/18.png"] },
             { data: "19/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/Roquite/19.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Rolinho/19.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Mont.Us/19.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/Usinagem/19.png", "capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/19.png"] },
+            { data: "21/11/2024", captura: ["capturas/Unidade 2/Usinagem/2024/11- Novembro/MM/21.png"] },
             
             
             // { data: "", captura: ["", "", "", "", ""] },
@@ -628,7 +633,7 @@ const unidades = {
             { data: "12/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/12.png"] },
             { data: "18/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/18.png"] }, 
             { data: "19/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/19.png"] },
-            
+            { data: "21/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/21.png"] }, 
             
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
