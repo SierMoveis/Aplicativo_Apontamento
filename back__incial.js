@@ -2881,7 +2881,7 @@ const unidades = {
             { data: "01/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/01 company.jpg"] },
             { data: "08/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/08 company.jpg"] },
             { data: "14/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/14 company.jpg"] },
-
+            { data: "23/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 company.jpg"] },
             
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -2946,7 +2946,10 @@ const unidades = {
             { data: "01/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/10-Outubro/21fast glass.jpg"] },
             { data: "08/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/08 fast glass.jpg"] },
             { data: "14/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/14 fast glass.jpg"] },
-            
+            { data: "23/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 fast glass.jpg"] },
+
+
+
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -3010,7 +3013,10 @@ const unidades = {
             { data: "01/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/01 fast glass.jpg", "capturas/Qualidade fornecedor/vidros/2024/11-Novembro/01 company.jpg"] },
             { data: "08/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/08 fast glass.jpg", "capturas/Qualidade fornecedor/vidros/2024/11-Novembro/08 company.jpg"] },
             { data: "14/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/14 fast glass.jpg", "capturas/Qualidade fornecedor/vidros/2024/11-Novembro/14 company.jpg"] },
+            { data: "23/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 fast glass.jpg", "capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 company.jpg"] },
 
+
+            
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
