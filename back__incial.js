@@ -1432,8 +1432,9 @@ const unidades = {
             { data: "23/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/Unidade 1/Cab.Fundo/23 pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 1/Cab.Fundo/23 pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 1/Cab.Fundo/23 pt3.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 1/Cab.Fundo/23 pt4.jpg", "capturas/Retrabalhos/2024/11-Novembro/Unidade 1/Cab.Fundo/23 g.jpg"] },
 
 
+
             // { data: "", captura: ["", "", "", "", ""] },
-            
+        ],
 
         exp1: [
             { data: "25/11/2023", captura: ["capturas/Retrabalhos/unidade 1/Expedição/11- Novembro/20-25.png"] },
