@@ -388,7 +388,7 @@ const unidades = {
             { data: "21/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/21-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/21-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/21.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/21.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/21.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/zBordadeira/21.png"] },
             { data: "22/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/22-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/22-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/22.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/22.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/22.png"] },
             { data: "23/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/23-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/23-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/23.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/23.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/23.png"] },
-            
+            { data: "25/11/2024", captura: ["capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/25-pt1.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Estofadores/25-pt2.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Colagem/25.png", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Costura/25.png", "", "capturas/Unidade 2/Estofaria/2024/11- Novembro/Percinta/25.png"] },
             
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -657,7 +657,7 @@ const unidades = {
             { data: "19/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/19.png"] },
             { data: "21/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/21.png"] }, 
             { data: "22/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/22.png"] },
-            
+            { data: "25/11/2024", captura: ["capturas/Unidade 3/Usinagem/2024/11- Novembro/25.png"] },
             
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
