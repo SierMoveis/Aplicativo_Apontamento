@@ -218,6 +218,7 @@ const unidades = {
             { data: "23/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/23.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/23.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/23.jpg"] },
             { data: "25/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/25.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/25.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/25.jpg"] },
             { data: "26/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/26.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/26.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/26.jpg"] },
+            { data: "27/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/LixaçãoOsso/27.jpg", "capturas/Unidade 1/2024/11-Novembro/LixaçãoMetal/27.jpg", "capturas/Unidade 1/2024/11-Novembro/Lix.Fundo/27.jpg"] },
 
 
 
@@ -719,7 +720,7 @@ const unidades = {
             { data: "22/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/22.jpg"] },
             { data: "25/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/25.jpg"] },
             { data: "26/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/26.jpg"] },
-            
+            { data: "27/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/27.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
