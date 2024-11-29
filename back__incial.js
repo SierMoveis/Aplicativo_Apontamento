@@ -3229,7 +3229,7 @@ const unidades = {
             { data: "31/07/2024", captura: ["capturas/Unidade 4/Consumo/2024/julho 23 chapas.jpeg"] },
             { data: "31/08/2024", captura: ["capturas/Unidade 4/Consumo/2024/AGOSTO.jpeg"] },
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Consumo/2024/SETEMBRO CHAPAS.jpeg"] },
-            { data: "31/10/", captura: ["capturas/Unidade 4/Consumo/2024/outubro chapa.jpg"] },
+            { data: "31/10/2024", captura: ["capturas/Unidade 4/Consumo/2024/outubro chapa.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
