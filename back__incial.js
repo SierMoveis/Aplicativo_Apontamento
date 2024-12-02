@@ -346,7 +346,7 @@ const unidades = {
             { data: "25/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/25.jpg"] },
             { data: "26/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/26.jpg"] },
             { data: "27/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/27.jpg"] },
-            { data: "28/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Tupia/28.jpg"] },
+            { data: "28/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/28.jpg"] },
 
 
             
