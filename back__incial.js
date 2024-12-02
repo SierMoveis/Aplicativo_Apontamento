@@ -284,7 +284,7 @@ const unidades = {
             { data: "26/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Filetação/26.jpg", "capturas/Unidade 1/2024/11-Novembro/Usinagem/Tupia/26.jpg"] },
             { data: "27/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Montagem/27.jpg", "capturas/Unidade 1/2024/11-Novembro/Usinagem/Tupia/27.jpg"] },
             { data: "28/11/2024", captura: ["capturas/Unidade 1/2024/11-Novembro/Usinagem/Filetação/28.jpg", "capturas/Unidade 1/2024/11-Novembro/Usinagem/Tupia/28.jpg"] },
-
+            { data: "30/11/2024", captura: ["", ""] }
 
             // { data: "", captura: ["", ""] }
             // { data: "", captura: ["", ""] },
