@@ -2764,7 +2764,7 @@ const unidades = {
            
             { data: "07/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/01 PT  ASSIS TEC.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/02 PT  ASSIS TEC.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/01 PT PCP.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/02 PT PCP.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/01 PT TRASP.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/02 PT TRASP.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana2/G GERAL.jpg"] },
             { data: "23/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/ADM/semana3/trasp pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana3/trasp pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana3/23 g.jpg"] },
-
+            { data: "30/11/2024", captura: ["capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/almox pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/almox pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/compras pt01.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/compras pt02.jpg","capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/transporte pt1.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/transporte pt2.jpg", "capturas/Retrabalhos/2024/11-Novembro/ADM/semana4/geral.jpg"] },
             
         //    { data: "", captura: ["", "", "", ""] },
         //    { data: "", captura: ["", "", "", ""] },
