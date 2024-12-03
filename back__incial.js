@@ -3222,7 +3222,7 @@ const unidades = {
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/SETEMBRO.jpeg"] },
             { data: "31/10/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/outubro.jpg"] },
             
-            { data: "02/12/2024", captura: [""] },
+            { data: "02/12/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/NOVEMBRO.jpg"] },
 
             // { data: "", captura: ["", ""] },
         ],
