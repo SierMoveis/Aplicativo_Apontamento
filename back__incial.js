@@ -665,7 +665,7 @@ const unidades = {
             { data: "30/11/2024", captura: ["capturas/Unidade 2/Acabamento/2024/11 -Novembro/Tingidor/30.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Robô/30.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéTras/30.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/PéFrente/30.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/Montagem/30.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoMaquininha/30.jpg", "capturas/Unidade 2/Acabamento/2024/11 -Novembro/LixaçãoFundoManual/30.jpg"] },
            
             { data: "02/12/2024", captura: ["capturas/Unidade 2/Acabamento/2024/12-Dezembro/Tingidor/2.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéTras/02.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéTras/02.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéFrente/2.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Montagem/2.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoMaquininha/2.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoManual/2.jpg"] },
-            { data: "03/12/2024", captura: ["capturas/Unidade 2/Acabamento/2024/12-Dezembro/Tingidor/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Robô/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéTras/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéFrente/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Montagem/3.jpg", "", ""] },
+            { data: "03/12/2024", captura: ["capturas/Unidade 2/Acabamento/2024/12-Dezembro/Tingidor/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Robô/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéTras/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéFrente/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Montagem/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoMaquininha/3.jpg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoManual/3.jpg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -769,6 +769,8 @@ const unidades = {
             { data: "26/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/26.jpg"] },
             { data: "27/11/2024", captura: ["capturas/Unidade 4/Usinagem/2024/11-Novembro/Calibradora/27.jpg"] },
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/2.jpg"] },
+            { data: "03/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/03.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
