@@ -894,6 +894,8 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/9- Setembro/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/9- Setembro/11.jpeg"] },
             { data: "12/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/9- Setembro/12.jpeg"] },
+
+            
             // { data: "/09/2024", captura: [""] },
             // { data: "/09/2024", captura: [""] },
             // { data: "/09/2024", captura: [""] },
