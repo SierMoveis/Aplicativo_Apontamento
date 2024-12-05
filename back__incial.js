@@ -903,14 +903,10 @@ const unidades = {
             { data: "11/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/9- Setembro/11.jpeg"] },
             { data: "12/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/9- Setembro/12.jpeg"] },
 
+            { data: "04/12/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/12-Dezembro/04-12 unid 01.jpg"] },
+            { data: "05/12/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/12-Dezembro/05-12 unid 01.jpg"] },
+            { data: "06/12/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/12-Dezembro/06-12 unid 01.jpg"] },
 
-            // { data: "/09/2024", captura: [""] },
-            // { data: "/09/2024", captura: [""] },
-            // { data: "/09/2024", captura: [""] },
-            // { data: "/09/2024", captura: [""] },
-            // { data: "/09/2024", captura: [""] },
-            // { data: "/09/2024", captura: [""] },
-            // { data: "/09/2024", captura: [""] },
 
 
             // { data: "", captura: [""] },
@@ -950,7 +946,7 @@ const unidades = {
             { data: "30/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/planejamento/planejamento_30.jpeg"] },
             { data: "05/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/planejamento/planejamento_31.jpeg"] },
             { data: "09/09/2024", captura: ["capturas/Metas produção/Unidade 1/2024/planejamento/planejamento_32.jpeg"] },
-
+            { data: "04/12/2024", captura: ["capturas/Metas produção/Unidade 1/2024/planejamento/planej -06.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
