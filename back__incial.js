@@ -793,6 +793,8 @@ const unidades = {
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/2.jpg"] },
             { data: "03/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/03.jpg"] },
             { data: "04/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/4.jpg"] },
+            { data: "05/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/05.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1317,7 +1319,7 @@ const unidades = {
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/2 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/2 italpresse.jpg"] },
             { data: "03/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/03 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/3 italpresse.jpg"] },
             { data: "04/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/04 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/4 italpresse.jpg"] },
-
+            { data: "05/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 italpresse.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -3062,6 +3064,9 @@ const unidades = {
             { data: "14/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/14 company.jpg"] },
             { data: "23/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 company.jpg"] },
             { data: "28/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/28 company.jpg"] },
+           
+            { data: "06/12/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/12-Dezembro/02 comp.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -3129,6 +3134,7 @@ const unidades = {
             { data: "23/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 fast glass.jpg"] },
             { data: "28/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/28 fast glass.jpg"] },
             
+            { data: "06/12/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/12-Dezembro/02 fast.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -3196,7 +3202,7 @@ const unidades = {
             { data: "23/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 fast glass.jpg", "capturas/Qualidade fornecedor/vidros/2024/11-Novembro/23 company.jpg"] },
             { data: "28/11/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/11-Novembro/28 fast glass.jpg", "capturas/Qualidade fornecedor/vidros/2024/11-Novembro/28 company.jpg"] },
 
-            
+            { data: "06/12/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/12-Dezembro/02 fast.jpg", "capturas/Qualidade fornecedor/vidros/2024/12-Dezembro/02 comp.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
