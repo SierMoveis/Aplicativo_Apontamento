@@ -806,8 +806,9 @@ const unidades = {
             { data: "03/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/03.jpg"] },
             { data: "04/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/4.jpg"] },
             { data: "05/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/05.jpg"] },
+            { data: "06/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/6.jpg"] },
 
-
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -1325,14 +1326,14 @@ const unidades = {
             { data: "21/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/21 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/22 italpresse.jpg"] },
             { data: "22/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/22 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/22 italpresse.jpg"] },
             { data: "23/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/23 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/10-Outubro/23 italpresse.jpg"] },
-            { data: "31/10/2024", captura: ["", ""] },
+            { data: "31/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 italpresse.jpg"] },
            
             { data: "01/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/01 mq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/01 italpresse.jpg"] },
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/2 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/2 italpresse.jpg"] },
             { data: "03/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/03 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/3 italpresse.jpg"] },
             { data: "04/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/04 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/4 italpresse.jpg"] },
             { data: "05/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 italpresse.jpg"] },
-
+            { data: "06/12/2024", captura: ["", ""] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
