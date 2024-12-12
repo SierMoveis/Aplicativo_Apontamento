@@ -302,8 +302,8 @@ const unidades = {
             { data: "04/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/4.jpg","capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Tupia/04.jpg"] },
             { data: "05/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/05.jpg "] },
             { data: "06/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/06.jpg"] },
-            { data: "07/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/7.jpg","tupia não entregou"] },
-            
+            { data: "07/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/7.jpg"] },
+            { data: "11/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/11.jpg"] },
             
             // { data: "", captura: ["",""] },
         
