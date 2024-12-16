@@ -850,7 +850,7 @@ const unidades = {
             { data: "06/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/6.jpg"] },
             { data: "11/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/11.jpg"] },
             { data: "12/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/12.jpeg"] },
-
+            { data: "14/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/14.jpeg"] }
             
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
