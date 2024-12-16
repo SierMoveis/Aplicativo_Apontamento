@@ -307,7 +307,9 @@ const unidades = {
             { data: "06/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/06.jpg"] },
             { data: "07/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/7.jpg"] },
             { data: "11/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/11.jpg"] },
-            
+            { data: "13/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Filetação/13.jpeg","NÃO ENTREGARAM"] },
+
+
             // { data: "", captura: ["",""] },
         
             
