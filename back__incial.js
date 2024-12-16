@@ -379,11 +379,15 @@ const unidades = {
             { data: "06/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Montagem/6.jpg"] },
             { data: "07/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Montagem/7.jpg"] },
             { data: "12/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Montagem/12.jpeg"] },
+            { data: "14/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/Usinagem/Montagem/14.jpeg"] },
+            
 
 
-            // { data: "", captura: [""] },
-            // { data: "", captura: [""] },
         ],
+
+            // { data: "", captura: [""] },
+            // { data: "", captura: [""] },
+    
     },
     
     UA2: {
