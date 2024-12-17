@@ -458,7 +458,7 @@ const unidades = {
             { data: "12/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/12-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/12-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/12.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/12.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/12.png"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/13-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/13-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/13.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/13.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/13.png"] },
             { data: "14/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/14-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/14-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/14.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/13.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/14.png"] },
-
+            { data: "16/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/16-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/16-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/16.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/16.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/16.png"] },
 
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -530,7 +530,7 @@ const unidades = {
             { data: "12/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/12.png"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/13.png"] },
             { data: "14/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/14.png"] },
-
+            { data: "16/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/16.png"] },
 
 
 
@@ -603,6 +603,8 @@ const unidades = {
             { data: "12/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/12-pt1.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/12-pt2.png"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/13-pt1.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/13-pt2.png"] },
             { data: "14/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/14-pt1.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/14-pt2.png"] },
+            { data: "16/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/16-pt1.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/CNC/16-pt2.png"] },
+
 
             // { data: "", captura: ["", "", "", "", ""] },
             // { data: "", captura: ["", ""] },
@@ -676,7 +678,7 @@ const unidades = {
             { data: "12/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/12.jpeg", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/12.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/12.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/MM/12.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/12.png"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/13.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/13.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/13.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/13.png"] },
             { data: "14/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/14.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/14.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/14.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/MM/13.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/13.png"] },
-
+            { data: "16/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/MM/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/16.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
@@ -809,7 +811,7 @@ const unidades = {
             { data: "11/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/11.png"] },
             { data: "12/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/12.png"] }, 
             { data: "13/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/13.png"] },
-
+            { data: "16/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/14.png"] }, 
 
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
