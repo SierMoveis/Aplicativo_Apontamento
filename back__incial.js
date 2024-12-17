@@ -1386,7 +1386,7 @@ const unidades = {
             { data: "05/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 italpresse.jpg"] },
             { data: "06/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/6 italpresse.jpg"] },
             { data: "07/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/7maq.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/7 italpresse.jpg"] },
-            { data: "08/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/8maq.jpg"], "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/8 italp.jpg" },
+            { data: "08/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/8 italp.jpg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/8maq.jpg"] },
             { data: "09/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/09 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/09 maq.jpeg"] },
             { data: "10/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/10 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/10 maq.jpeg"] },
             { data: "11/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/11 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/11 maq.jpeg"] },
