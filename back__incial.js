@@ -866,7 +866,8 @@ const unidades = {
             { data: "06/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/6.jpg"] },
             { data: "11/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/11.jpg"] },
             { data: "12/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/12.jpeg"] },
-            { data: "14/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/14.jpeg"] }
+            { data: "14/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/14.jpeg"] },
+            { data: "17/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/17.jpeg"] },
             
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -902,6 +903,9 @@ const unidades = {
 
             { data: "07/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/07.jpeg"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/13.jpeg"] },
+            { data: "17/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/17.jpeg"] },
+
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1399,8 +1403,10 @@ const unidades = {
             { data: "11/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/11 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/11 maq.jpeg"] },
             { data: "12/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/12 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/12 maq.jpeg"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/13 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/13 maq.jpeg"] },
-
-
+            { data: "14/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/14 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/14 maq.jpeg"] },
+            { data: "15/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/15 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/15 MAQ.jpeg"] },
+            { data: "16/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/16 ITALP.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/16 MAQ.jpeg"] },
+            { data: "17/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/17 ITALP.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/17 MAQ.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
