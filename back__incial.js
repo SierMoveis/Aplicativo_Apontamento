@@ -244,6 +244,8 @@ const unidades = {
             { data: "12/12/2024", captura: ["", "capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoMetal/12.jpeg", "capturas/Unidade 1/2024/12-DEZEMBRO/Lix.Fundo/12.jpeg"] },
             { data: "14/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoOsso/14.jpeg", "capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoMetal/14.jpeg", ""] },
             { data: "16/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoOsso/16.jpeg", "capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoMetal/16.jpeg", ""] },
+            { data: "17/12/2024", captura: ["capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoOsso/17.jpeg", "capturas/Unidade 1/2024/12-DEZEMBRO/LixaçãoMetal/17.jpeg", "capturas/Unidade 1/2024/12-DEZEMBRO/Lix.Fundo/17.jpeg"] },
+
 
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", ""] },
