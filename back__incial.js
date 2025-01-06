@@ -690,6 +690,9 @@ const unidades = {
             { data: "14/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/14.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/14.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/14.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/MM/13.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/13.png"] },
             { data: "16/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/MM/16.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/16.png"] },
             { data: "17/12/2024", captura: ["capturas/Unidade 2/Usinagem/2024/12-Dezembro/Mont.Us/17.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Rolinho/17.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Roquite/17.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/MM/17.png", "capturas/Unidade 2/Usinagem/2024/12-Dezembro/Usinagem/17.png"] },
+            { data: "18/12/2024", captura: ["", "", "", "", ""] },
+
+
 
             // { data: "", captura: ["", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", ""] },
