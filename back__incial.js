@@ -469,6 +469,8 @@ const unidades = {
             { data: "17/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/17-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/17-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/17.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/17.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/17.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/zBordadeira/17.png"] },
             { data: "18/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/18-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/18-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/18.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/18.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/18.png"] },
 
+            { data: "06/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/06.png", "capturas/Unidade 2/Estofaria/2025/Costura/06.png", "capturas/Unidade 2/Estofaria/2025/Percinta/06.png"] },
+
 
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -543,6 +545,8 @@ const unidades = {
             { data: "16/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/16.png"] },
             { data: "17/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/17.png"] },
             { data: "18/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/18.png"] },
+
+            { data: "06/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/06.png"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -763,7 +767,7 @@ const unidades = {
             { data: "17/12/2024", captura: ["capturas/Unidade 2/Acabamento/2024/12-Dezembro/Tingidor/17.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Robô/17.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéTras/17.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéFrente/17.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Montagem/17.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoMaquininha/17.png", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoManual/17.png"] },
             { data: "18/12/2024", captura: ["capturas/Unidade 2/Acabamento/2024/12-Dezembro/Tingidor/18.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Robô/18.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéTras/18.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/PéFrente/18.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/Montagem/18.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoMaquininha/18.jpeg", "capturas/Unidade 2/Acabamento/2024/12-Dezembro/LixaçãoFundoManual/18.jpeg"] },
            
-            { data: "01/01/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/janeiro/06.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/janeiro/06.jpeg"] },
+            { data: "06/01/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/janeiro/6.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/janeiro/06.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/janeiro/06.jpeg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -833,7 +837,7 @@ const unidades = {
             { data: "17/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/17.png"] }, 
             { data: "18/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/18.png"] },
 
-
+            { data: "06/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/06.png"] },
 
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
