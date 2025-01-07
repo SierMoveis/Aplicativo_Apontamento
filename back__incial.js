@@ -3438,7 +3438,7 @@ const unidades = {
         ],
 
             // { data: "", captura: ["", ""] },
-        ],
+        
     },
 
     DS5: {    // Disperdício de matérial:
