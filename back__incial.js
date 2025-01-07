@@ -886,7 +886,9 @@ const unidades = {
             { data: "12/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/12.jpeg"] },
             { data: "14/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/14.jpeg"] },
             { data: "17/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/17.jpeg"] },
-            
+            { data: "18/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Calibradora/18.jpeg"] },
+
+
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -922,7 +924,7 @@ const unidades = {
             { data: "07/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/07.jpeg"] },
             { data: "13/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/13.jpeg"] },
             { data: "17/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/17.jpeg"] },
-
+            { data: "18/12/2024", captura: ["capturas/Unidade 4/Usinagem/2024/12-DEZEMBRO/Prensas/18.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -1298,7 +1300,8 @@ const unidades = {
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/09 MÊS GABIANNE.jpeg"] },
             { data: "31/10/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/10-Outubro/gabianne  outubro.jpg"] },
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/Novembro/gabianne.jpg"] },
-
+            
+            { data: "18/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/gabianne dezembro.jpeg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1425,7 +1428,9 @@ const unidades = {
             { data: "15/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/15 ital.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/15 MAQ.jpeg"] },
             { data: "16/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/16 ITALP.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/16 MAQ.jpeg"] },
             { data: "17/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/17 ITALP.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/17 MAQ.jpeg"] },
-
+            { data: "18/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/18MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/18 ital.jpeg"] },
+            { data: "19/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/19 maq.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/19 ITALP.jpeg"] },
+            { data: "20/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/20 maq.jpeg", "capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/20 ITALP.jpeg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
@@ -3429,7 +3434,8 @@ const unidades = {
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/SETEMBRO.jpeg"] },
             { data: "31/10/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/outubro.jpg"] },
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/NOVEMBRO.jpg"] },
-
+            { data: "18/12/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/DEZEMBRO.jpeg"] },
+        ],
 
             // { data: "", captura: ["", ""] },
         ],
@@ -3482,6 +3488,8 @@ const unidades = {
             { data: "31/08/2024", captura: ["capturas/Unidade 4/Consumo/2024/AGOSTO.jpeg"] },
             { data: "30/09/2024", captura: ["capturas/Unidade 4/Consumo/2024/SETEMBRO CHAPAS.jpeg"] },
             { data: "31/10/2024", captura: ["capturas/Unidade 4/Consumo/2024/outubro chapa.jpg"] },
+            { data: "01/12/2024", captura: ["capturas/Unidade 4/Consumo/CONSUMO DE CHAPAS DEZEMBRO 2023.png"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
