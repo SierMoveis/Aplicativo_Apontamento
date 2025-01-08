@@ -480,7 +480,7 @@ const unidades = {
             { data: "18/12/2024", captura: ["capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/18-pt1.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Estofadores/18-pt2.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Colagem/18.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Costura/18.png", "capturas/Unidade 2/Estofaria/2024/12-Dezembro/Percinta/18.png"] },
 
             { data: "06/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/06.png", "capturas/Unidade 2/Estofaria/2025/Costura/06.png", "capturas/Unidade 2/Estofaria/2025/Percinta/06.png"] },
-
+            { data: "07/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-pt2.png", "capturas/Unidade 2/Estofaria/2025/Bordadeira/06.png", "capturas/Unidade 2/Estofaria/2025/Colagem/07.png", "capturas/Unidade 2/Estofaria/2025/Costura/07.png", "capturas/Unidade 2/Estofaria/2025/Percinta/07.png"] },
 
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -557,6 +557,8 @@ const unidades = {
             { data: "18/12/2024", captura: ["capturas/Unidade 2/Expedição/2024/12-Dezembro/18.png"] },
 
             { data: "06/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/06.png"] },
+            { data: "07/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/07.png"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -852,7 +854,9 @@ const unidades = {
             { data: "18/12/2024", captura: ["capturas/Unidade 3/Usinagem/2024/12-Dezembro/18.png"] },
 
             { data: "06/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/06.png"] },
-
+            { data: "07/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/07.png"] },
+            
+            
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
         ],
