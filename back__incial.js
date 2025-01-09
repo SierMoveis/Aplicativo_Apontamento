@@ -486,6 +486,8 @@ const unidades = {
 
             { data: "06/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/06.png", "capturas/Unidade 2/Estofaria/2025/Costura/06.png", "capturas/Unidade 2/Estofaria/2025/Percinta/06.png"] },
             { data: "07/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-pt2.png", "capturas/Unidade 2/Estofaria/2025/Bordadeira/06.png", "capturas/Unidade 2/Estofaria/2025/Colagem/07.png", "capturas/Unidade 2/Estofaria/2025/Costura/07.png", "capturas/Unidade 2/Estofaria/2025/Percinta/07.png"] },
+            { data: "08/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/08-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/08.png", "capturas/Unidade 2/Estofaria/2025/Costura/08.png", "capturas/Unidade 2/Estofaria/2025/Percinta/08.png"] },
+
 
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -563,6 +565,7 @@ const unidades = {
 
             { data: "06/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/06.png"] },
             { data: "07/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/07.png"] },
+            { data: "08/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/08.png"] },
 
 
             // { data: "", captura: [""] },
@@ -864,7 +867,7 @@ const unidades = {
 
             { data: "06/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/06.png"] },
             { data: "07/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/07.png"] },
-            
+            { data: "08/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/08.png"] }, 
             
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
