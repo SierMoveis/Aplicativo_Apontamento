@@ -172,8 +172,9 @@ const unidades = {
            
             { data: "07/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/7.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/7.jpeg"] },
             { data: "08/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/8.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/8.jpeg"] },
+            { data: "09/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/9.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/9.jpeg"] },
 
-
+            
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
 
@@ -254,6 +255,7 @@ const unidades = {
             { data: "06/01/2025", captura: ["capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/6.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/6.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/6.jpeg"] },
             { data: "07/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/7.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/7.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/7.jpeg"] },
             { data: "08/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/8.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/8.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/8.jpeg"] },
+            { data: "08/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/9.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/09.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/9.jpeg"] },
 
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", ""] },
@@ -327,6 +329,7 @@ const unidades = {
            
             { data: "07/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/07.jpeg",""] },
             { data: "08/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/8.jpeg",""] },
+            { data: "09/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/9.jpeg",""] },
 
             // { data: "", captura: ["",""] },
         
@@ -407,7 +410,7 @@ const unidades = {
             { data: "06/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/6.jpeg"] },
             { data: "07/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/7.jpeg"] },
             { data: "08/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/8.jpeg"] },
-
+            { data: "09/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/09.jpeg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
