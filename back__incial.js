@@ -330,6 +330,7 @@ const unidades = {
             { data: "07/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/07.jpeg",""] },
             { data: "08/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/8.jpeg",""] },
             { data: "09/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/9.jpeg",""] },
+            { data: "10/01/2025", captura: ["","","capturas/Unidade 1/2025/Usinagem/Cnc/10.jpeg"] },
 
             // { data: "", captura: ["",""] },
         
