@@ -498,7 +498,7 @@ const unidades = {
             { data: "08/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/08-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/08.png", "capturas/Unidade 2/Estofaria/2025/Costura/08.png", "capturas/Unidade 2/Estofaria/2025/Percinta/08.png"] },
             { data: "09/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/09-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/09-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/09.png", "capturas/Unidade 2/Estofaria/2025/Costura/09.png", "capturas/Unidade 2/Estofaria/2025/Percinta/09.png"] },
             { data: "10/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/10.png", "capturas/Unidade 2/Estofaria/2025/Costura/10.png", "capturas/Unidade 2/Estofaria/2025/Percinta/10.png"] },
-
+            { data: "13/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/13-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/13-pt2.png", "capturas/Unidade 2/Estofaria/2025/Bordadeira/13.png", "capturas/Unidade 2/Estofaria/2025/Colagem/13.png", "capturas/Unidade 2/Estofaria/2025/Costura/13.png", "capturas/Unidade 2/Estofaria/2025/Percinta/13.png"] },
 
 
 
@@ -581,6 +581,9 @@ const unidades = {
             { data: "08/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/08.png"] },
             { data: "09/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/09.png"] },
             { data: "10/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/10.png"] },
+            { data: "13/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/13.png"] },               
+           
+           
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -886,6 +889,8 @@ const unidades = {
             { data: "08/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/08.png"] }, 
             { data: "09/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/09.png"] },
             { data: "10/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/10.png"] }, 
+            { data: "13/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/13.png"] },
+
 
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
