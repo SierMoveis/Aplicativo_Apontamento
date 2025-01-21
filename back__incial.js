@@ -510,7 +510,10 @@ const unidades = {
             { data: "15/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/15-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/15-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/15.png", "capturas/Unidade 2/Estofaria/2025/Costura/15.png", "capturas/Unidade 2/Estofaria/2025/Percinta/15.png"] },
             { data: "16/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/16-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/16-pt2.png", "capturas/Unidade 2/Estofaria/2025/Bordadeira/15.png", "capturas/Unidade 2/Estofaria/2025/Colagem/16.png", "capturas/Unidade 2/Estofaria/2025/Costura/16.png", "capturas/Unidade 2/Estofaria/2025/Percinta/16.png"] },
             { data: "17/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/17-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/17-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/17.png", "capturas/Unidade 2/Estofaria/2025/Costura/17.png", "capturas/Unidade 2/Estofaria/2025/Percinta/17.png"] },
-           
+            { data: "20/01/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/20-pt1.png", "capturas/Unidade 2/Estofaria/2025/Estofaria/20-pt2.png", "capturas/Unidade 2/Estofaria/2025/Colagem/20.png", "capturas/Unidade 2/Estofaria/2025/Costura/20.png", "capturas/Unidade 2/Estofaria/2025/Percinta/20.png"] },
+
+
+
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
         ],
@@ -595,6 +598,8 @@ const unidades = {
             { data: "15/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/15.png"] },
             { data: "16/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/16.png"] },
             { data: "17/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/17.png"] },
+            { data: "20/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/20.png"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -924,7 +929,7 @@ const unidades = {
             { data: "15/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/15.png"] }, 
             { data: "16/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/16.png"] }, 
             { data: "17/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/17.png"] },
-
+            { data: "20/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/20.png"] }, 
 
 
             // { data: "", captura: [""] }, 
