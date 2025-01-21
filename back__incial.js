@@ -3357,7 +3357,7 @@ const unidades = {
             { data: "14/12/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/12-Dezembro/14 colpany.jpeg"] },
             
             { data: "10/01/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/06-01 COLPANY.jpeg"] },
-            { data: "17/01*2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/17 COLPANY.jpg"] },
+            { data: "17/01/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/17 COLPANY.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
