@@ -1033,7 +1033,7 @@ const unidades = {
             { data: "08/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/8.jpeg"] },
             { data: "09/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/09.jpeg"] },
             { data: "13/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/13.jpeg"] },
-
+            { data: "20/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/20.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
