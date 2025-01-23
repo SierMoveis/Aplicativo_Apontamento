@@ -261,10 +261,10 @@ const unidades = {
             { data: "15/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/15.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/15.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/15.jpeg"] },
             { data: "20/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/20.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/20.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/20.jpg"] },
             { data: "21/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/21.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/21.jpg", ""] },
-            { data: "22/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/22.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/22.jpg", ""] },
+            { data: "22/01/2025", captura: ["capturas/Unidade 1/2025/Stone/22.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/22.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/22.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/22.jpg"] },
 
-            // { data: "", captura: ["", "", ""] },
-            // { data: "", captura: ["", "", ""] },
+            // { data: "", captura: ["", "", "", ""] },
+            
         ],
 
         Usinagem: [
