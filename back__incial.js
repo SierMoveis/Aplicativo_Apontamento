@@ -176,7 +176,7 @@ const unidades = {
             { data: "13/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/13.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/13.jpeg"] },
             { data: "15/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/15.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/15.jpeg"] },
             { data: "20/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/20.jpg", ""] },
-           ,
+            { data: "22/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/22.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/22.jpg"] },
             // { data: "", captura: ["", ""] },
 
 
