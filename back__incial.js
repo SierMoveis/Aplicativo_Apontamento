@@ -968,6 +968,8 @@ const unidades = {
             { data: "22/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/22.png"] }, 
             { data: "23/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/23.png"] }, 
             { data: "24/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/24.png"] }, 
+            { data: "27/01/2025", captura: ["capturas/Unidade 3/Usinagem/2025/01-JANEIRO/27.png"] }, 
+
 
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
