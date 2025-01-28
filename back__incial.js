@@ -352,7 +352,8 @@ const unidades = {
             { data: "22/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/22.jpg","capturas/Unidade 1/2025/Usinagem/Cnc/22.jpg"] },
             { data: "23/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/23.jpg","capturas/Unidade 1/2025/Usinagem/Cnc/23.jpg", ""] },
             { data: "24/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Cnc/24.jpg","capturas/Unidade 1/2025/Usinagem/Filetação/24.jpg"] },
-
+            { data: "27/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/27.jpg", "capturas/Unidade 1/2025/Usinagem/Cnc/27.jpg"] },
+        
             // { data: "", captura: ["","", ""] },
         
             
