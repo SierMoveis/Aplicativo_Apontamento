@@ -1610,6 +1610,7 @@ const unidades = {
             { data: "13/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/13.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ITAL 13.jpeg"] },
             { data: "23/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/23 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/23 itlpresse.jpg"] },
             { data: "27/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/27 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/27 itlpresse.jpg"] },
+            { data: "28/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/28 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/28 itlpresse.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
