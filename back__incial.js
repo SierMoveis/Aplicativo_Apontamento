@@ -270,6 +270,7 @@ const unidades = {
             { data: "23/01/2025", captura: ["capturas/Unidade 1/2025/Stone/23.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/23.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/23.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/23.jpg"] },
             { data: "24/01/2025", captura: ["capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/24.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/24.jpg", "capturas/Unidade 1/2025/Stone/24.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/24.jpg"] },
             { data: "27/01/2025", captura: ["capturas/Unidade 1/2025/Stone/27.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/27.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/27.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/27.jpg"] },
+            { data: "28/01/2025", captura: ["", "", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/28.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/27.jpg"] },
 
             // { data: "", captura: ["", "", "", ""] },
 
@@ -1601,7 +1602,7 @@ const unidades = {
             { data: "11/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAQ 11.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ITAL 11.jpeg"] },
             { data: "13/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/13.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ITAL 13.jpeg"] },
             { data: "23/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/23 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/23 itlpresse.jpg"] },
-
+            { data: "27/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/27 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/27 itlpresse.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
