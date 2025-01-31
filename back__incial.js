@@ -182,7 +182,9 @@ const unidades = {
             { data: "27/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/27.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/27.jpg"] },
             { data: "28/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/28.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/28.jpg"] },
             { data: "29/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/29.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/29.jpg"] },
-           
+            { data: "30/01/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/30.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/30.jpg"] },
+
+            
             // { data: "", captura: ["", ""] },
 
 
@@ -274,10 +276,13 @@ const unidades = {
             { data: "27/01/2025", captura: ["capturas/Unidade 1/2025/Stone/27.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/27.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/27.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/27.jpg"] },
             { data: "28/01/2025", captura: ["capturas/Unidade 1/2025/Stone/28.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/28.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/28.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/28.jpg"] },
             { data: "29/01/2025", captura: ["capturas/Unidade 1/2025/Stone/29.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/29.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/29.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/29.jpg"] },
-            
+            { data: "30/01/2025", captura: ["capturas/Unidade 1/2025/Stone/30.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/JANEIRO/30.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/JANEIRO/30.jpg", "capturas/Unidade 1/2025/Lix.Fundo/JANEIRO/30.jpg"] },
 
+
+            // { data: "", captura: ["", "", "", ""] },
+           
             
-        ],
+        ], 
 
         Usinagem: [
             { data: "30/11/2023", captura: ["capturas/Unidade 1/11- Novembro/Usinagem/Filetação/30.png", "capturas/Unidade 1/11- Novembro/Usinagem/Tupia/30.png"] },
@@ -358,7 +363,9 @@ const unidades = {
             { data: "27/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/27.jpg", "capturas/Unidade 1/2025/Usinagem/Cnc/27.jpg"] },
             { data: "28/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/28.jpg", "capturas/Unidade 1/2025/Usinagem/Cnc/28.jpg"] },
             { data: "29/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Cnc/29.jpg", "capturas/Unidade 1/2025/Usinagem/Filetação/29.jpg"] },
-           
+            { data: "30/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/30.png", "capturas/Unidade 1/2025/Usinagem/Cnc/30.jpg", ""] },
+
+            
              // { data: "", captura: ["", "", ""] },
             
         ],
@@ -446,7 +453,9 @@ const unidades = {
             { data: "24/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/24-01.jpg"] },
             { data: "27/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/27.jpg"] },
 
-            { data: "28/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/28.jpg"] },            
+            { data: "28/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/28.jpg"] },  
+            { data: "30/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/30.jpg"] },
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1057,7 +1066,8 @@ const unidades = {
             { data: "23/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Janeiro/23.jpg"] },
             { data: "27/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Janeiro/27.png"] },
             { data: "28/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Janeiro/28.jpg"] },
-            
+            { data: "30/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Janeiro/30.jpg"] },
+
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -1104,7 +1114,7 @@ const unidades = {
             { data: "23/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/23.jpg"] },
             { data: "27/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/27.jpg"] },
             { data: "28/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/28.jpg"] },
-
+            { data: "30/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/30.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
