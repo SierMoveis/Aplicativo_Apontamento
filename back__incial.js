@@ -3745,6 +3745,10 @@ const unidades = {
             { data: "31/10/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/outubro.jpg"] },
             { data: "02/12/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/NOVEMBRO.jpg"] },
             { data: "18/12/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/DEZEMBRO.jpeg"] },
+
+            { data: "31/01/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/janeiro.jpg"] },
+        
+
         ],
 
             // { data: "", captura: ["", ""] },
@@ -3800,6 +3804,7 @@ const unidades = {
             { data: "31/10/2024", captura: ["capturas/Unidade 4/Consumo/2024/outubro chapa.jpg"] },
             { data: "01/12/2024", captura: ["capturas/Unidade 4/Consumo/CONSUMO DE CHAPAS DEZEMBRO 2023.png"] },
 
+            { data: "31/01/2025", captura: ["capturas/Unidade 4/Consumo/2025/CONSUMO GABIANNE.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
