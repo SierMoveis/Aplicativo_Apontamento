@@ -370,7 +370,8 @@ const unidades = {
             { data: "29/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Cnc/29.jpg", "capturas/Unidade 1/2025/Usinagem/Filetação/29.jpg"] },
             { data: "30/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/30.png", "capturas/Unidade 1/2025/Usinagem/Cnc/30.jpg", ""] },
             { data: "31/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/31.jpg", "capturas/Unidade 1/2025/Usinagem/Cnc/31.jpg"] },
-            
+           
+            { data: "05/01/2025", captura: ["", "capturas/Unidade 1/2025/Usinagem/Filetação/FEVEREIRO/05.jpg"] },
             
              // { data: "", captura: ["", "", ""] },
             
