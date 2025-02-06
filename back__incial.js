@@ -462,6 +462,8 @@ const unidades = {
             { data: "28/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/28.jpg"] },  
             { data: "30/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/30.jpg"] },
             { data: "31/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/Janeiro/31.jpg"] },
+           
+            { data: "05/01/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/05.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
