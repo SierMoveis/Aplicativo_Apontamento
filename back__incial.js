@@ -664,7 +664,7 @@ const unidades = {
             { data: "31/01/2025", captura: ["capturas/Unidade 2/Expedição/2025/01-JANEIRO/31.png"] },
             { data: "03/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/03.png"] },
             { data: "04/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/04.jpg"] },
-
+            { data: "06/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/06.jpg"] },
 
 
             // { data: "", captura: [""] },
