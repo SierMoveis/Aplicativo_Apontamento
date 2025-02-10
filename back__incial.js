@@ -1169,6 +1169,8 @@ const unidades = {
             { data: "30/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/30.jpg"] },
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/31.jpg"] },
 
+            { data: "07/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/07.jpg"] },
+
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
