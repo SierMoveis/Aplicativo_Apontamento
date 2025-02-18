@@ -1742,7 +1742,7 @@ const unidades = {
             { data: "13/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/13 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/13  ITAL.jpg"] },
             { data: "14/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/14 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/14 ITAL.jpg"] },
             { data: "15/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/15 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/15 ITAL.jpg"] },
-            { data: "17/02/2025", captura: ["Aplicativo_Apontamento/capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/17 MAQ.jpg", "Aplicativo_Apontamento/capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/17 ITAL.jpg"] },
+            { data: "17/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/17 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/17 ITAL.jpg"] },
             
 
             // { data: "", captura: ["", ""] },
