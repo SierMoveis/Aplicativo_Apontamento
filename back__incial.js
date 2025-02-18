@@ -1154,6 +1154,10 @@ const unidades = {
             { data: "30/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Janeiro/30.jpg"] },
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Janeiro/31.jpg"] },
 
+            { data: "14/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/14.jpg"] },
+
+
+
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -1204,6 +1208,8 @@ const unidades = {
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/Janeiro/31.jpg"] },
 
             { data: "07/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/07.jpg"] },
+            { data: "14/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/15.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1724,6 +1730,18 @@ const unidades = {
             { data: "29/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/29 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/29 itlpresse.jpg"] },
             { data: "30/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/30 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2025/30 itlpresse.jpg"] },
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/31italpresse.jpg", "capturas/Unidade 4/Tempo_parado/2025/31 maquimovel.jpg"] },
+            
+            { data: "03/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/03 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/03 ITAL.jpg"] },
+            { data: "04/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/04 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/04 ITAL.jpg"] },
+            { data: "05/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/05 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/05 ITAL.jpg"] },
+            { data: "06/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/06 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/06 ITAL.jpg"] },
+            { data: "07/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/07 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/07 ITAL.jpg"] },
+            { data: "10/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/10 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/10 ITAL.jpg"] },
+            { data: "11/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/11 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/11  ITAL.jpg"] },
+            { data: "12/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/12 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/12  ITAL.jpg"] },
+            { data: "13/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/13 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/13  ITAL.jpg"] },
+            { data: "14/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/14 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/14 ITAL.jpg"] },
+            { data: "15/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/15 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/15 ITAL.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
@@ -2648,7 +2666,7 @@ const unidades = {
             { data: "31/01/2025", captura: ["capturas/Retrabalhos/2025/JANEIRO/Unidade 2/Estofaria/31  pt01.jpg", "capturas/Retrabalhos/2025/JANEIRO/Unidade 2/Estofaria/31 pt02.jpg", "capturas/Retrabalhos/2025/JANEIRO/Unidade 2/Estofaria/31 g.jpg"] },
 
             { data: "07/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/07 pt01.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/07 pt02.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/07 g.jpg"] },
-            { data: "14/02/2025", captura: ["Aplicativo_Apontamento/capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/14 pt01.jpg", "Aplicativo_Apontamento/capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/14 pt02.jpg", "Aplicativo_Apontamento/capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/14 G.jpg"] },
+            { data: "14/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/14 pt01.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/14 pt02.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/14 G.jpg"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
