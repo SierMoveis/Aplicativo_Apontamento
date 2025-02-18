@@ -689,7 +689,7 @@ const unidades = {
             { data: "10/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/10.png"] },
             { data: "13/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/13.png"] },
             { data: "14/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/14.png"] },
-
+            { data: "17/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/17.png"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
