@@ -1181,8 +1181,9 @@ const unidades = {
 
             { data: "14/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/14.jpg"] },
             { data: "17/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/17.jpg"] },
-            { data: "18/02/205", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/18.jpg"] },
-
+            { data: "18/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/18.jpg"] },
+            { data: "19/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/19.jpg"] },
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -1236,7 +1237,7 @@ const unidades = {
             { data: "14/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/15.jpg"] },
             { data: "17/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/17.jpg"] },
             { data: "18/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/18.jpg"] },
-
+            { data: "19/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/19.jpg"] },
             
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1771,6 +1772,7 @@ const unidades = {
             { data: "15/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/15 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/15 ITAL.jpg"] },
             { data: "17/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/17 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/17 ITAL.jpg"] },
             { data: "18/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/18 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/18 ITAL.jpg"] },
+            { data: "19/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/19 ITAL.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/19 MAQ.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
