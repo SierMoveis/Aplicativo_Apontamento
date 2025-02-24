@@ -2580,7 +2580,7 @@ const unidades = {
 
             { data: "07/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/07 pt1.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/07 pt2.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/7 g.jpg"] },
             { data: "14/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/14 pt1.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/14 pt2.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/14 g.jpg"] },
-            { data: "21/02/2025", captura: ["capturas/Retrabalhos2025/FEVEREIRO/Unidade 2/Curvados/21 pt1.jpg", "capturas/Retrabalhos2025/FEVEREIRO/Unidade 2/Curvados/21 pt2.jpg", "capturas/Retrabalhos2025/FEVEREIRO/Unidade 2/Curvados/21 g.jpg"] }
+            { data: "21/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/21 pt1.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/21 pt2.jpg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/21 g.jpg"] },
 
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", "", "", ""] },
