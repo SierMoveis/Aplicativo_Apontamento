@@ -713,6 +713,10 @@ const unidades = {
             { data: "18/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/18.png"] },
             { data: "19/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/19.png"] },
             { data: "20/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/20.png"] },
+            { data: "21/02/2025", captura: ["capturas/Unidade 2/Expedição/2025/02-FEVEREIRO/21.png"] },
+
+
+
 
 
             // { data: "", captura: [""] },
