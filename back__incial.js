@@ -193,6 +193,8 @@ const unidades = {
             { data: "20/02/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/FEVEREIRO/20.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/FEVEREIRO/20.jpg"] },
             { data: "21/02/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/FEVEREIRO/21.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/FEVEREIRO/21.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/FEVEREIRO/24.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/FEVEREIRO/24.jpg"] },
+            { data: "25/02/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/FEVEREIRO/25.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/FEVEREIRO/25.jpg"] },
+
 
             // { data: "", captura: ["", ""] },
 
