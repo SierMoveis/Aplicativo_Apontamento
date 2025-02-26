@@ -1224,8 +1224,8 @@ const unidades = {
             { data: "19/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/19.jpg"] },
             { data: "20/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/20.jpg"] },
             { data: "21/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/21.jpg"] },
-            { data: "24/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/24.jpg"] }
-
+            { data: "24/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/24.jpg"] },
+            { data: "25/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/25.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1283,8 +1283,8 @@ const unidades = {
             { data: "19/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/19.jpg"] },
             { data: "20/02/20205", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/20.jpg"] },
             { data: "21/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/21.jpg"] },
-            { data: "24/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/24.jpg"] }
-
+            { data: "24/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/24.jpg"] },
+            { data: "25/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/25.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1823,7 +1823,7 @@ const unidades = {
             { data: "20/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/20 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/20 ITAL.jpg"] },
             { data: "21/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/21 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/21 ITAL.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/24 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/24 ITAL.jpg"] },
-
+            { data: "25/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/25 ITAL.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/25 MAQ.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
