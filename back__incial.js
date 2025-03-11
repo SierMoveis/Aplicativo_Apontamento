@@ -303,6 +303,7 @@ const unidades = {
             { data: "21/02/2025", captura: ["capturas/Unidade 1/2025/Stone/FEVEREIRO/21.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/FEVEREIRO/21.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/FEVEREIRO/21.jpg", "capturas/Unidade 1/2025/Lix.Fundo/FEVEREIRO/21.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 1/2025/Stone/FEVEREIRO/24.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/FEVEREIRO/24.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/FEVEREIRO/24.jpg", "capturas/Unidade 1/2025/Lix.Fundo/FEVEREIRO/24.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 1/2025/Stone/FEVEREIRO/25.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/FEVEREIRO/25.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/FEVEREIRO/25.jpg", "capturas/Unidade 1/2025/Lix.Fundo/FEVEREIRO/25.jpg"] },
+            { data: "26/02/2025", captura: ["capturas/Unidade 1/2025/Stone/FEVEREIRO/26.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/FEVEREIRO/26.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/FEVEREIRO/26.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/FEVEREIRO/26.jpeg"] },
 
             // { data: "", captura: ["", "", "", ""] },
 
@@ -505,7 +506,7 @@ const unidades = {
             { data: "22/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/22.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/24.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/25.jpg"] },
-
+            { data: "26/02/2025", captura: [""] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
