@@ -403,6 +403,7 @@ const unidades = {
             { data: "21/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/FEVEREIRO/21.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/FEVEREIRO/24.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/FEVEREIRO/25.jpg"] },
+            { data: "26/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/30.png"] },
 
             // { data: "", captura: ["", "", ""] },
 
@@ -506,7 +507,7 @@ const unidades = {
             { data: "22/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/22.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/24.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/25.jpg"] },
-            { data: "26/02/2025", captura: [""] },
+            { data: "26/02/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/FEVEREIRO/26.jpeg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
