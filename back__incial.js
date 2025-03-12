@@ -1236,6 +1236,8 @@ const unidades = {
             { data: "21/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/21.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/24.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/25.jpg"] },
+            { data: "26/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/26.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1295,6 +1297,8 @@ const unidades = {
             { data: "21/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/21.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/24.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/25.jpg"] },
+            { data: "26/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/26.jpeg"] },
+            
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1672,7 +1676,8 @@ const unidades = {
 
             { data: "18/12/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/12-Dezembro/gabianne dezembro.jpeg"] },
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/jan gabianne.jpg"] },
-
+            { data: "26/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/GABIANE FEV.jpeg"] },
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -1834,6 +1839,9 @@ const unidades = {
             { data: "21/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/21 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/21 ITAL.jpg"] },
             { data: "24/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/24 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/24 ITAL.jpg"] },
             { data: "25/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/25 ITAL.jpg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/25 MAQ.jpg"] },
+            { data: "26/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/MAQ 26.jpeg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/ITALP 26.jpeg"] },
+            { data: "27/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/MAQ 27.jpeg", "capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/ITALP 27.jpeg"] },
+            { data: "28/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/MAQ 28.jpeg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
@@ -3992,7 +4000,7 @@ const unidades = {
             { data: "18/12/2024", captura: ["capturas/Unidade 4/Disperdicio/tampos/2024/DEZEMBRO.jpeg"] },
 
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/janeiro.jpg"] },
-
+            { data: "26/02/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/mes fevereiro.jpeg"] },
 
         ],
 
@@ -4050,7 +4058,8 @@ const unidades = {
             { data: "01/12/2024", captura: ["capturas/Unidade 4/Consumo/CONSUMO DE CHAPAS DEZEMBRO 2023.png"] },
 
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Consumo/2025/CONSUMO GABIANNE.jpg"] },
-
+            { data: "26/02/2025", captura: ["capturas/Unidade 4/Consumo/2025/mes fev.jpeg"] },
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
