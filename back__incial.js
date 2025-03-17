@@ -1277,6 +1277,8 @@ const unidades = {
             { data: "25/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/25.jpg"] },
             { data: "26/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/Fevereiro/26.jpeg"] },
             { data: "13/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/março/13.jpeg"] },
+            { data: "14/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/março/14.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1338,6 +1340,8 @@ const unidades = {
             { data: "25/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/25.jpg"] },
             { data: "26/02/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/fevereiro/26.jpeg"] },
             { data: "13/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MARÇO/13.jpeg"] },
+            { data: "14/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MARÇO/14.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1884,6 +1888,8 @@ const unidades = {
             { data: "11/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 11.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITAL 11.jpeg"] },
             { data: "12/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 12.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP12.jpeg"] },
             { data: "13/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 13.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP13.jpeg"] },
+            { data: "14/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 14.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP14.jpeg"] },
+            { data: "15/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 15.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP15.jpeg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
