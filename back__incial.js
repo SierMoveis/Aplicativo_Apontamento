@@ -2186,7 +2186,7 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Cab.Fundo/26 pt01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Cab.Fundo/26 pt02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Cab.Fundo/26 pt03.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Cab.Fundo/26 pt04.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Cab.Fundo/26 g.jpeg"] },
            
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/14 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/14 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/14 pt3.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/14 pt4.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/14 g.jpeg"] },
-           
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/20 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/20 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/20 pt3.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/20 pt4.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Cab.Fundo/20g.jpeg"] },
 
             // { data: "", captura: ["", "", "", "", ""] },
         ],
@@ -2325,7 +2325,7 @@ const unidades = {
             { data: "28/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Expedição/28 pt01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Expedição/28 pt02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Expedição/28 pt03.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Expedição/28 pt04.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Expedição/28 g.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/14 PT01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/14 PT02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/14 PT03.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/14 PT04.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/14.jpeg"] },
-            
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/20 PT01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/20 PT02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/20 PT03.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/20 PT04.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Expedição/20 g.jpeg"] },
 
             // { data: "", captura: ["", "", "", "", ""] },
 
@@ -2462,7 +2462,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Osso/26 pt01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Osso/26 pt02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Osso/26 pt03.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Osso/26 pt04.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Osso/26 g.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/14PT01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/14PT02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/14PT03.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/14PT04.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/14 G.jpeg"] },
-            
+            { data: "18/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/18PT01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/18PT02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/18PT03.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/18PT04.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Osso/18 G.jpeg"] },
+
 
             // { data: "", captura: ["", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -2600,6 +2601,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Usinagem/26 pt 01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Usinagem/26 pt 02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Usinagem/26 pt 03.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Usinagem/26 pt 04.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 1/Usinagem/26 g.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/14pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/14pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/14pt3.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/14pt4.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/14g.jpeg"] },
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/20pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/20pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/20pt3.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/20pt4.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 1/Usinagem/20G.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -2745,7 +2748,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/26 pt 01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/26 pt 02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Curvados/26 g.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Curvados/14 PT1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Curvados/14 PT2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Curvados/14 G.jpeg"] },
-
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Curvados/20 PT1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Curvados/20PT2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Curvados/20 g.jpeg"] },
+            
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", "", "", ""] },
         ],
@@ -2885,6 +2889,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/26 PT1.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/26 PT2.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Estofaria/26 G.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Estofaria/14 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Estofaria/14 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Estofaria/14 pt.jpeg"] },
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Estofaria/20 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Estofaria/20 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Estofaria/20 g.jpeg"] },
+
 
             // { data: "", captura: ["", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", ""] },
@@ -3030,6 +3036,7 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Expedição/26 PT 01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Expedição/26 PT 02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Expedição/26 G.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Expedição/14 pt01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Expedição/14 pt02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Expedição/14g.jpeg"] },
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Expedição/20 pt01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Expedição/20 pt02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Expedição/20 g.jpeg"] },
 
             // { data: "", captura: ["", "", ""] },
             // { data: "", captura: ["", "", ""] },
@@ -3169,6 +3176,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Osso/26 pt01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Osso/26 pt02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 2/Osso/26 g.jpeg"] },
             
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Osso/14 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Osso/14 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Osso/14 g.jpeg"] },
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Osso/20 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Osso/20 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Osso/20 G.jpeg"] },
+
 
             //{ data: "", captura: ["", "", ""] },
 
@@ -3205,7 +3214,7 @@ const unidades = {
             { data: "02/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/02 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/02 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/3 g.jpeg"] },
             { data: "12/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/09 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/09 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/09g.jpeg"] },
             { data: "16/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/16 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/16 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Restauração/16 g.jpeg"] },
-
+            { data: "25/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 2/Usinagem/20PT1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Usinagem/20 PT2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Usinagem/20 PT3.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Usinagem/20 PT4.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 2/Usinagem/20G.jpeg"] },
 
             // { data: "", captura: ["", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", ""] },
@@ -3481,6 +3490,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 3/26 pt01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 3/26 pt02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 3/26 pt03.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 3/26 pt04.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 3/26 g.jpeg"] },
            
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 3/14 PT01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/14 PT02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/14 PT03.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/14 PT04.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/14G.jpeg"] },
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 3/20 PT01.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/20PT02.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/20PT03.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/20PT04.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 3/20G.jpeg"] },
+
 
             // { data: "", captura: ["", "", "", ""] },
             // { data: "", captura: [""] },
@@ -3613,7 +3624,7 @@ const unidades = {
             { data: "25/02/2025", captura: ["capturas/Retrabalhos/2025/FEVEREIRO/Unidade 4/26 pt 01.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 4/26 pt 02.jpeg", "capturas/Retrabalhos/2025/FEVEREIRO/Unidade 4/26 g.jpeg"] },
 
             { data: "14/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 4/14 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 4/14 pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 4/14 g.jpeg"] },
-
+            { data: "20/03/2025", captura: ["capturas/Retrabalhos/2025/MARÇO/Unidade 4/20 pt1.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 4/20pt2.jpeg", "capturas/Retrabalhos/2025/MARÇO/Unidade 4/20 g.jpeg"] },
 
             //   { data: "", captura: [""] },
             //   { data: "", captura: [""] },
@@ -3880,7 +3891,9 @@ const unidades = {
             { data: "14/02/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/FEVEREIRO/14 COLPANY.jpg"] },
             { data: "21/02/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/FEVEREIRO/21 COLPANY.jpg"] },
            
-            { data: "14/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/COLPANY 11.jpeg"] }
+            { data: "14/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/COLPANY 11.jpeg"] },
+            { data: "21/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/COLPANY 21.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -3960,7 +3973,9 @@ const unidades = {
             { data: "13/02/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/FEVEREIRO/14 FAST GLASS.jpg"] },
             { data: "21/02/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/FEVEREIRO/21  FAST GLASS.jpg"] },
             
-            { data: "13/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/fast glass 11.jpeg"] }
+            { data: "13/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/fast glass 11.jpeg"] },
+            { data: "21/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/fast glass 21.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -4041,6 +4056,8 @@ const unidades = {
             { data: "21/02/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/FEVEREIRO/21  FAST GLASS.jpg", "capturas/Qualidade fornecedor/vidros/2025/FEVEREIRO/21 COLPANY.jpg"] },
            
             { data: "13/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/fast glass 11.jpeg", "capturas/Qualidade fornecedor/vidros/2025/março/COLPANY 11.jpeg"] },
+            { data: "21/03/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/março/fast glass 21.jpeg", "capturas/Qualidade fornecedor/vidros/2025/março/COLPANY 21.jpeg"] },
+
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
