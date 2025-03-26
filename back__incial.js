@@ -1407,7 +1407,7 @@ const unidades = {
             { data: "14/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MARÇO/14.jpeg"] },
             { data: "17/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MARÇO/17.jpeg"] },
             { data: "18/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MARÇO/18.jpeg"] },
-
+            { data: "24/03/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MARÇO/24.jpeg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
