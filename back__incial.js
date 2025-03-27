@@ -204,7 +204,7 @@ const unidades = {
             { data: "20/03/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MARÇO/20.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/MARÇO/20.jpeg"] },
             { data: "21/03/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MARÇO/21.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/MARÇO/21.jpeg"] },
             { data: "24/03/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MARÇO/24.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/MARÇO/24.jpeg"] },
-
+            { data: "26/03/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MARÇO/26.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/MARÇO/26.jpeg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -323,8 +323,8 @@ const unidades = {
             { data: "20/03/2025", captura: ["capturas/Unidade 1/2025/Stone/MARÇO/20.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/MARÇO/20.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/MARÇO/20.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/MARÇO/20.jpeg"] },
             { data: "21/03/2025", captura: ["capturas/Unidade 1/2025/Stone/MARÇO/21.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/MARÇO/21.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/MARÇO/21.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/MARÇO/21.jpeg"] },
             { data: "24/03/2025", captura: ["capturas/Unidade 1/2025/Stone/MARÇO/24.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/MARÇO/24.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/MARÇO/24.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/MARÇO/24.jpeg"] },
-            
-            
+            { data: "26/03/2025", captura: ["capturas/Unidade 1/2025/Stone/MARÇO/26.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/MARÇO/26.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/MARÇO/26.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/MARÇO/26.jpeg"] },
+           
             // { data: "", captura: ["", "", "", ""] },
 
 
@@ -433,7 +433,7 @@ const unidades = {
             { data: "20/03/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/MARÇO/20.jpeg"] },
             { data: "21/03/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/MARÇO/21.jpeg"] },
             { data: "24/03/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/MARÇO/24.jpeg"] },
-
+            { data: "26/03/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/MARÇO/26.jpeg"] },
 
             // { data: "", captura: ["", "", ""] },
 
