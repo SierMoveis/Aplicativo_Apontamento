@@ -1980,6 +1980,9 @@ const unidades = {
             { data: "21/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 21.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP21.jpeg"] },
             { data: "22/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 22.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP22.jpeg"] },
             { data: "24/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 24.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP24.jpeg"] },
+            { data: "25/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 25.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP25.jpeg"] },
+            { data: "26/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/MAQ 26.jpeg", "capturas/Unidade 4/Tempo_parado/2025/MARÇO/ITALP26.jpeg"] },
+
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
