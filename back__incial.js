@@ -210,7 +210,9 @@ const unidades = {
             { data: "31/03/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MARÇO/31.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/MARÇO/31.jpeg"] },
             
             { data: "01/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/1.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/1.jpeg"] },
-            
+            { data: "03/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/03.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/3.jpeg"] },
+
+
             // { data: "", captura: ["", ""] },
 
 
@@ -334,7 +336,7 @@ const unidades = {
             { data: "31/03/2025", captura: ["capturas/Unidade 1/2025/Stone/MARÇO/31.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/MARÇO/31.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/MARÇO/31.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/MARÇO/31.jpeg"] },
 
             { data: "01/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/1.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/1.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/1.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/1.jpeg"] },
-            { data: "03/04/2025", captura: ["", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/03.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/03.jpeg", ""] },
+            { data: "03/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/3.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/03.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/03.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/3.jpeg"] },
 
 
             // { data: "", captura: ["", "", "", ""] },
@@ -451,6 +453,8 @@ const unidades = {
             { data: "31/03/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/MARÇO/31.jpeg"] },
             
             { data: "01/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/1.jpeg"] },
+            { data: "03/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/03.jpeg"] },
+
 
             // { data: "", captura: ["", "", ""] },
 
