@@ -707,7 +707,7 @@ const unidades = {
             { data: "02/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/02-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/02-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/02-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/04-ABRIL/02.png"] },
             { data: "03/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/03-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/03-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/03-pt3.jpeg"] },
             { data: "04/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/04-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/04-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/04-pt3.jpeg"] },
-
+            
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -1106,7 +1106,7 @@ const unidades = {
             { data: "01/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/01.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/01.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite", "capturas/Unidade 2/Usinagem/2025/Abril/MM/01.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/01.png"] },
             { data: "02/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/02.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/02.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/02.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/MM/02.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/02.png"] },
             { data: "03/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/03.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/03.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/03.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/MM/03.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/03.png"] },
-
+            { data: "04/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/04.png", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/04.png", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/04.png", "capturas/Unidade 2/Usinagem/2025/Abril/MM/04.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/04.png"] },
 
 
 
