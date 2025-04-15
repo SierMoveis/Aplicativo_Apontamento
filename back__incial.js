@@ -216,6 +216,7 @@ const unidades = {
             { data: "08/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/08.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/08.jpeg"] },
             { data: "09/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/09.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/09.jpeg"] },
             { data: "10/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/10.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/10.jpeg"] },
+            { data: "14/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/14.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/11.jpeg"] },
 
             // { data: "", captura: ["", ""] },
 
