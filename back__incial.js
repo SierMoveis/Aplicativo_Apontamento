@@ -594,6 +594,8 @@ const unidades = {
             { data: "09/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/09.jpeg"] },
             { data: "10/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/10.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/14.jpeg"] },
+            { data: "15/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/15.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1268,6 +1270,8 @@ const unidades = {
             { data: "09/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/09.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/09.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/09.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/09.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/09.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/09.png", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/09.png"] },
             { data: "11/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/11.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/11.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/14.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/14.jpeg"] },
+            { data: "15/04/2025", captura: ["", "capturas/Unidade 2/Acabamento/2025/Robô/abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/15.jpeg", "", ""] },
+
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -4156,7 +4160,9 @@ const unidades = {
            
             { data: "04/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/04 COLPANY.jpeg"] },
             { data: "11/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/11 COLPANY.jpeg"] },
+            { data: "17/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/17 COLPANY.jpeg"] },
 
+            
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
         ],
@@ -4241,6 +4247,8 @@ const unidades = {
             
             { data: "04/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/04 FAST GLASS.jpeg"] },
             { data: "11/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/11 FAST GLASS.jpeg"] },
+            { data: "17/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/17 FAST GLASS.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -4326,6 +4334,8 @@ const unidades = {
            
             { data: "04/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/04 FAST GLASS.jpeg", "capturas/Qualidade fornecedor/vidros/2025/ABRIL/04 COLPANY.jpeg"] },
             { data: "11/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/11 FAST GLASS.jpeg", "capturas/Qualidade fornecedor/vidros/2025/ABRIL/11 COLPANY.jpeg"] },
+            { data: "17/04/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/ABRIL/17 FAST GLASS.jpeg", "capturas/Qualidade fornecedor/vidros/2025/ABRIL/17 COLPANY.jpeg"] },
+
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
