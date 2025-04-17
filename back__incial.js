@@ -1518,6 +1518,8 @@ const unidades = {
             { data: "09/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/09.jpeg"] },
             { data: "10/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/10.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/15.jpeg"] },
+            { data: "16/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/16.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
