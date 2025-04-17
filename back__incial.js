@@ -741,7 +741,7 @@ const unidades = {
             { data: "11/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/11-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/11-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/11-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/04-ABRIL/11.png"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/14-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/14-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/14-pt3.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt3.jpeg"] },
-
+            { data: "16/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt3.jpeg"] },
 
 
 
@@ -879,7 +879,7 @@ const unidades = {
             { data: "11/04/2005", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/11.png"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/14.png"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/15.jpg"] },
-
+            { data: "16/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/16.jpeg"] },
 
 
 
@@ -1285,7 +1285,7 @@ const unidades = {
             { data: "11/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/11.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/11.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/11.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/14.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/15.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/15.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/15.jpg"] },
-
+            { data: "16/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/16.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/16.jpeg"] },
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", "", ""] },
