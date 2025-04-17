@@ -1018,7 +1018,7 @@ const unidades = {
             { data: "11/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/CNC/11.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/CNC/14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/CNC/15.jpeg"] },
-
+            { data: "16/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/CNC/16.jpeg"] },
 
 
 
@@ -1165,6 +1165,11 @@ const unidades = {
             { data: "11/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/11.png", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/11.png", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/11.png", "capturas/Unidade 2/Usinagem/2025/Abril/MM/11.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/11.png"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/14.png", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/14.png", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/14.png", "capturas/Unidade 2/Usinagem/2025/Abril/MM/14.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/14.png"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/15.jpeg", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/15.png", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/15.png", "capturas/Unidade 2/Usinagem/2025/Abril/MM/15.png", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/15.png"] },
+            { data: "16/04/2025", captura: ["capturas/Unidade 2/Usinagem/2025/Abril/Mont. Us/16.jpg", "capturas/Unidade 2/Usinagem/2025/Abril/Rolinho/16.jpg", "capturas/Unidade 2/Usinagem/2025/Abril/Roquite/16.jpg", "capturas/Unidade 2/Usinagem/2025/Abril/MM/16.jpg", "capturas/Unidade 2/Usinagem/2025/Abril/Usinagem/16.jpg"] },
+
+
+
+
 
         ],
 
@@ -1414,7 +1419,7 @@ const unidades = {
             { data: "11/04/2025", captura: ["capturas/Unidade 3/Usinagem/2025/04-ABRIL/11.png"] }, 
             { data: "14/04/2025", captura: ["capturas/Unidade 3/Usinagem/2025/04-ABRIL/14.png"] }, 
             { data: "15/04/2025", captura: ["capturas/Unidade 3/Usinagem/2025/04-ABRIL/15.png"] }, 
-
+            { data: "16/04/2025", captura: ["capturas/Unidade 3/Usinagem/2025/04-ABRIL/16.jpg"] }, 
 
 
 
