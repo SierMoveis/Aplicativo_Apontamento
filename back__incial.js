@@ -1603,6 +1603,7 @@ const unidades = {
             { data: "09/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/09.jpeg"] },
             { data: "10/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/10.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/15.jpeg"] },
+            { data: "17/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/17.jpeg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -2177,7 +2178,7 @@ const unidades = {
             { data: "12/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 12.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 12.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 14.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 15.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 15.jpeg"] },
-
+            { data: "17/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 17.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 17.jpeg"] },
             
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
