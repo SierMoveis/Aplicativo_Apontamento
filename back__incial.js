@@ -753,7 +753,7 @@ const unidades = {
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt3.jpeg"] },
             { data: "16/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt3.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/17-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/17-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/17-pt3.jpeg"] },
-         
+            { data: "22/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/22-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/22-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/22-pt3.jpeg"] },
 
 
 
@@ -895,6 +895,7 @@ const unidades = {
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/15.jpg"] },
             { data: "16/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/16.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/17.jpg"] },
+            { data: "22/04/2025", captura: ["capturas/Unidade 2/Expedição/2025/04-ABRIL/22.jpg"] },
 
 
             // { data: "", captura: [""] },
