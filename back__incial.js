@@ -1298,7 +1298,12 @@ const unidades = {
             { data: "14/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/14.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/14.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/15.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/15.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/15.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/15.jpg"] },
             { data: "16/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/16.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/16.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/16.jpeg"] },
-            { data: "22/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/22.jpeg", "", ""] },
+            { data: "22/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/22.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/22.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/22.jpg"] },
+
+
+
+
+
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", "", ""] },
