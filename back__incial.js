@@ -606,7 +606,8 @@ const unidades = {
             { data: "14/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/15.jpeg"] },
             { data: "16/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/16.jpeg"] },
-            { data: "17/07/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/17.jpeg"] },
+            { data: "17/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/17.jpeg"] },
+            { data: "22/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/ABRIL/22.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -749,7 +750,7 @@ const unidades = {
             { data: "15/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/15-pt3.jpeg"] },
             { data: "16/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/16-pt3.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/17-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/17-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/04-ABRIL/17-pt3.jpeg"] },
-
+            { data: "22/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/22.jpeg"] },
 
 
 
