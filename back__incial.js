@@ -356,7 +356,7 @@ const unidades = {
             { data: "15/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/15.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/15.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/15.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/15.jpeg"] },
             { data: "16/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/16.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/16.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/16.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/16.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/17.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/17.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/17.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/17.jpeg"] },
-
+            { data: "22/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/22.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/22.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/22.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/22.jpeg"] },
 
             // { data: "", captura: ["", "", "", ""] },
 
