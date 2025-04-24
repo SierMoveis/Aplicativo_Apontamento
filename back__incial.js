@@ -358,7 +358,7 @@ const unidades = {
             { data: "16/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/16.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/16.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/16.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/16.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/17.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/17.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/17.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/17.jpeg"] },
             { data: "22/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/22.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/22.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/22.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/22.jpeg"] },
-            { data: "23/04/2025", captura: ["capturs/Unidade 1/2025/Stone/ABRIL/23.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/23.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/23.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/23.jpeg"] },
+            { data: "23/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/23.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/23.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/23.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/23.jpeg"] },
 
             // { data: "", captura: ["", "", "", ""] },
 
