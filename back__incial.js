@@ -1548,7 +1548,7 @@ const unidades = {
             { data: "16/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/16.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/17.jpeg"] },
             { data: "22/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/22.jpeg"] },
-
+            { data: "23/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/23.jpeg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
