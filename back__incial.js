@@ -2202,7 +2202,8 @@ const unidades = {
             { data: "14/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 14.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 15.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 15.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 17.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 17.jpeg"] },
-            
+            { data: "22/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 22.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 23.jpeg"] },
+
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
         ],
