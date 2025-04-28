@@ -2224,8 +2224,13 @@ const unidades = {
             { data: "12/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 12.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 12.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 14.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 15.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 15.jpeg"] },
+            { data: "16/04/2025", captura: ["", ""] },
             { data: "17/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 17.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 17.jpeg"] },
             { data: "22/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 22.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 23.jpeg"] },
+            { data: "23/04/2025", captura: ["", ""] },
+            { data: "24/04/2025", captura: ["", ""] },
+            { data: "25/04/2025", captura: ["", ""] },
+
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
