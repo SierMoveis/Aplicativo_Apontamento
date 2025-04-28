@@ -1650,6 +1650,7 @@ const unidades = {
             { data: "10/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/10.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/15.jpeg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/17.jpeg"] },
+            { data: "25/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/25.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -2224,12 +2225,12 @@ const unidades = {
             { data: "12/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 12.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 12.jpeg"] },
             { data: "14/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 14.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 14.jpeg"] },
             { data: "15/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 15.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 15.jpeg"] },
-            { data: "16/04/2025", captura: ["", ""] },
+            { data: "16/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/16 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/16 ITAL.jpg"] },
             { data: "17/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 17.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 17.jpeg"] },
             { data: "22/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/MAQ 22.jpeg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/ITALP 23.jpeg"] },
-            { data: "23/04/2025", captura: ["", ""] },
-            { data: "24/04/2025", captura: ["", ""] },
-            { data: "25/04/2025", captura: ["", ""] },
+            { data: "23/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/23 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/23 ITAL.jpg"] },
+            { data: "24/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/24 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/24 ITAL.jpg"] },
+            { data: "25/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/25 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/25 ITAL.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
