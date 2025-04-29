@@ -224,6 +224,7 @@ const unidades = {
             { data: "23/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/23.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/23.jpeg"] },
             { data: "24/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/24.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/24.jpg"] },
             { data: "25/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/25.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/25.jpg"] },
+            { data: "28/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/28.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/28.jpg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -362,6 +363,8 @@ const unidades = {
             { data: "23/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/23.jpeg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/23.jpeg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/23.jpeg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/23.jpeg"] },
             { data: "24/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/24.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/24.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/24.jpg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/24.jpg"] },
             { data: "25/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/25.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/25.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/25.jpg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/25.jpg"] },
+            
+
 
             // { data: "", captura: ["", "", "", ""] },
 
@@ -491,6 +494,7 @@ const unidades = {
             { data: "23/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/23.jpeg"] },
             { data: "24/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/24.jpg"] },
             { data: "25/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/25.jpg"] },
+            { data: "28/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/28.jpg"] },
 
             // { data: "", captura: ["", "", ""] },
 
