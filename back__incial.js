@@ -501,6 +501,11 @@ const unidades = {
             { data: "24/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/24.jpg"] },
             { data: "25/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/25.jpg"] },
             { data: "28/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/28.jpg"] },
+            { data: "29/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/ABRIL/29.jpg"] },
+
+
+
+
 
             // { data: "", captura: ["", "", ""] },
 
