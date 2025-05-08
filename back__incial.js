@@ -230,7 +230,7 @@ const unidades = {
             
             { data: "01/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/05.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/05.jpg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/06.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/6.jpg"] },
-
+            { data: "07/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/07.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/7.jpg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -375,6 +375,7 @@ const unidades = {
             
             { data: "01/05/2025", captura: ["capturas/Unidade 1/2025/Stone/05 MAIO/05.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/05-MAIO/05.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/05-MAIO/05.jpg", "capturas/Unidade 1/2025/Lix.Fundo/05 MAIO/05.jpg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 1/2025/Stone/05 MAIO/06.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/05-MAIO/06.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/05-MAIO/06.jpg", "capturas/Unidade 1/2025/Lix.Fundo/05 MAIO/06.jpg"] },
+            { data: "07/05/2025", captura: ["capturas/Unidade 1/2025/Stone/05 MAIO/07.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/05-MAIO/07.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/05-MAIO/07.jpg", "capturas/Unidade 1/2025/Lix.Fundo/05 MAIO/07.jpg"] },
 
 
             // { data: "", captura: ["", "", "", ""] },
