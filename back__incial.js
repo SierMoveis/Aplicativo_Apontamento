@@ -1266,7 +1266,7 @@ const unidades = {
             { data: "01/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/01.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/01.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/01.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/01.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/01.jpg"] },
             { data: "05/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/05.jpg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/06.jpeg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/06.jpeg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/06.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/06.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/06.jpg"] },
-
+            { data: "07/05/2025", captura: ["", "", "", "", ""] },
 
 
 
@@ -1397,7 +1397,7 @@ const unidades = {
             { data: "30/04/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/abril/30.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/abril/30.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Abril/30.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Abril/30.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/abril/30.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/04-ABRIL/30.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/04-ABRIL/30.jpg"] },
             
             { data: "01/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/06.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/06.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/06.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/06.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/06.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/06.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/06.jpg"] },
-
+            { data: "07/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/07.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/07.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/07.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/07.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/07.jpg", "", ""] },
 
 
 
@@ -1546,7 +1546,7 @@ const unidades = {
             { data: "01/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/01.jpg"] }, 
             { data: "05/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/05.jpg"] }, 
             { data: "06/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/06.jpg"] }, 
-
+            { data: "07/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/07.jpg"] }, 
 
 
 
@@ -1654,6 +1654,7 @@ const unidades = {
             { data: "30/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/abril/30.jpg"] },
             
             { data: "06/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/06.jpg"] },
+            { data: "07/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/07.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1738,6 +1739,8 @@ const unidades = {
             { data: "30/04/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/ABRIL/30.jpg"] },
            
             { data: "06/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/6.jpg"] },
+            { data: "07/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/07.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -2326,7 +2329,7 @@ const unidades = {
             { data: "01/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/01 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/01 ITAL.jpg"] },
             { data: "05/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/05 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/05 ITAL.jpg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/06 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/06 ITAL.jpg"] },
-
+            { data: "07/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/07 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/07 ITAL.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
