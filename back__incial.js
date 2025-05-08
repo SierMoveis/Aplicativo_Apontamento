@@ -2118,6 +2118,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/FEVEREIRO/GABIANE FEV.jpeg"] },
            
             { data: "31/03/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MARÇO/gabianne março.jpeg"] },
+            { data: "30/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/GABBIANE ABRIL.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -4633,6 +4635,7 @@ const unidades = {
 
             { data: "31/01/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/janeiro.jpg"] },
             { data: "26/02/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/mes fevereiro.jpeg"] },
+            { data: "04/05/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/abril.jpg"] },
 
         ],
 
@@ -4693,6 +4696,8 @@ const unidades = {
             { data: "26/02/2025", captura: ["capturas/Unidade 4/Consumo/2025/mes fev.jpeg"] },
             
             { data: "31/03/2025", captura: ["capturas/Unidade 4/Consumo/2025/mes março.jpeg"] },
+            { data: "30/04/2025", captura: ["capturas/Unidade 4/Consumo/2025/MES ABRIL.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
