@@ -229,7 +229,7 @@ const unidades = {
             { data: "30/04/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/ABRIL/30.jpeg", "capturas/Unidade 1/2025/Expedição/Embalagem/04 ABRIL/30.jpeg"] },
             
             { data: "01/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/05.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/05.jpg"] },
-            { data: "06/05/2025", captura: ["Aplicativo_Apontamento/capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/06.jpg", "Aplicativo_Apontamento/capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/6.jpg"] },
+            { data: "06/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/06.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/6.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -374,6 +374,7 @@ const unidades = {
             { data: "30/04/2025", captura: ["capturas/Unidade 1/2025/Stone/ABRIL/30.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/ABRIL/30.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/ABRIL/30.jpg", "capturas/Unidade 1/2025/Lix.Fundo/ABRIL/30.jpg"] },
             
             { data: "01/05/2025", captura: ["capturas/Unidade 1/2025/Stone/05 MAIO/05.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/05-MAIO/05.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/05-MAIO/05.jpg", "capturas/Unidade 1/2025/Lix.Fundo/05 MAIO/05.jpg"] },
+            { data: "06/05/2025", captura: ["capturas/Unidade 1/2025/Stone/05 MAIO/06.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/05-MAIO/06.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/05-MAIO/06.jpg", "capturas/Unidade 1/2025/Lix.Fundo/05 MAIO/06.jpg"] },
 
 
             // { data: "", captura: ["", "", "", ""] },
@@ -2320,6 +2321,11 @@ const unidades = {
             { data: "28/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/28 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/28 ITAL.jpg"] },
             { data: "29/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/29 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/29 ITAL.jpg"] },
             { data: "30/04/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/ABRIL/30 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/ABRIL/30 ITAL.jpg"] },
+            { data: "01/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/01 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/01 ITAL.jpg"] },
+            { data: "05/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/05 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/05 ITAL.jpg"] },
+            { data: "06/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/06 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/06 ITAL.jpg"] },
+
+
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
