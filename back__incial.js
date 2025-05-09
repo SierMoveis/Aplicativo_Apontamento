@@ -1112,6 +1112,7 @@ const unidades = {
             { data: "05/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/05.jpeg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/06.jpeg"] },
             { data: "07/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/07.jpeg"] },
+            { data: "08/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/08.jpeg"] },
 
 
 
@@ -1273,7 +1274,7 @@ const unidades = {
             { data: "05/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/05.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/05.jpg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/06.jpeg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/06.jpeg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/06.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/06.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/06.jpg"] },
             { data: "07/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/07.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/07.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/07.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/07.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/07.jpg"] },
-
+            { data: "08/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/08.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/08.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/08.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/08.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/08.jpg"] },
 
 
         ],
@@ -1553,7 +1554,7 @@ const unidades = {
             { data: "05/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/05.jpg"] }, 
             { data: "06/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/06.jpg"] }, 
             { data: "07/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/07.jpg"] }, 
-
+            { data: "08/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/08.jpg"] }, 
 
 
             // { data: "", captura: [""] }, 
