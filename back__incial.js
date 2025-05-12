@@ -232,7 +232,7 @@ const unidades = {
             { data: "06/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/06.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/6.jpg"] },
             { data: "07/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/07.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/7.jpg"] },
             { data: "08/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/08.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/08.jpg"] },
-
+            { data: "09/05/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/MAIO/09.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/05 MAIO/09.jpg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -1767,7 +1767,7 @@ const unidades = {
             { data: "06/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/6.jpg"] },
             { data: "07/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/07.jpg"] },
             { data: "08/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/08.jpg"] },
-
+            { data: "09/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/09.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -2360,6 +2360,8 @@ const unidades = {
             { data: "06/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/06 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/06 ITAL.jpg"] },
             { data: "07/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/07 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/07 ITAL.jpg"] },
             { data: "08/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/08 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/08 ITAL.jpg"] },
+            { data: "09/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/09 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/09 ITAL.jpg"] },
+
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
