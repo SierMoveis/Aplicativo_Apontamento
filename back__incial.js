@@ -1004,7 +1004,7 @@ const unidades = {
             { data: "15/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/15.jpg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/19.jpg"] },
-
+            { data: "20/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/20.jpg"] },
 
 
 
