@@ -1332,7 +1332,7 @@ const unidades = {
             { data: "15/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/15.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/15.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/15.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/15.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/15.jpg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/19.jpg"] },
-
+            { data: "20/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/20.jpg"] },
 
 
 
@@ -1836,6 +1836,7 @@ const unidades = {
             { data: "15/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/15.jpg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/19.jpg"] },
+            { data: "20/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/20.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
