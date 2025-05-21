@@ -1163,7 +1163,7 @@ const unidades = {
             { data: "15/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/15.jpeg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/16.jpeg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/19.jpeg"] },
-
+            { data: "20/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/20.jpeg"] },
 
 
         ],
@@ -1626,7 +1626,7 @@ const unidades = {
             { data: "15/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/15.jpg"] }, 
             { data: "16/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/16.jpg"] }, 
             { data: "19/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/19.jpg"] },
-
+            { data: "20/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/20.jpg"] }, 
 
 
             
@@ -1740,7 +1740,9 @@ const unidades = {
             { data: "14/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/14.jpg"] },
             { data: "15/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/15.jpg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/16.jpg"] },
-            { data: "19/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/19.jpg"] }
+            { data: "19/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/19.jpg"] },
+            { data: "20/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/MAIO/20.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -1831,7 +1833,7 @@ const unidades = {
             { data: "12/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/12.jpg"] },
             { data: "15/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/15.jpg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/16.jpg"] },
-            
+            { data: "19/05/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/MAIO/19.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -2429,6 +2431,8 @@ const unidades = {
             { data: "15/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/15 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/15 ITAL.jpg"] },
             { data: "16/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/16 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/16 ITAL.jpg"] },
             { data: "17/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/17 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/17 ITAL.jpg"] },
+            { data: "19/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/19 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/19 ITAL.jpg"] },
+            { data: "20/05/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/MAIO/20 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/MAIO/20 ITAL.jpg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
