@@ -541,6 +541,8 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/16.jpg"] },
             { data: "19/04/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/19.jpg", "capturas/Unidade 1/2025/Usinagem/Tupia/05 MAIO/19.jpg"] },
             { data: "20/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Tupia/05 MAIO/20.jpg", "capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/20.jpg"] },
+            { data: "21/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Tupia/05 MAIO/21.jpg", "capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/21.jpg"] },
+
 
             // { data: "", captura: ["", ""] },
 
