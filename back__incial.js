@@ -1169,7 +1169,7 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/16.jpeg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/19.jpeg"] },
             { data: "20/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/20.jpeg"] },
-
+            { data: "21/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/21.jpeg"] },
 
         ],
 
@@ -1336,7 +1336,7 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/16.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/19.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/19.jpg"] },
             { data: "20/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/Mont. Us/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Rolinho/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Roquite/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/MM/20.jpg", "capturas/Unidade 2/Usinagem/2025/MAIO/Usinagem/20.jpg"] },
-
+            { data: "21/05/2025", captura: ["", "", "", "", ""] },
 
 
         ],
@@ -1632,7 +1632,7 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/16.jpg"] }, 
             { data: "19/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/19.jpg"] },
             { data: "20/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/20.jpg"] }, 
-
+            { data: "21/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/21.jpg"] }, 
 
             
             // { data: "", captura: [""] }, 
