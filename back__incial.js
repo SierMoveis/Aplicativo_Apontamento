@@ -1011,7 +1011,11 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/19.jpg"] },
             { data: "20/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/20.jpg"] },
-            { data: "25/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/21.jpg"] },
+            { data: "21/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/21.jpg"] },
+            { data: "22/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/22.jpg"] },
+
+
+
 
 
             // { data: "", captura: [""] },
