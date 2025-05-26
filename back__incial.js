@@ -1179,6 +1179,7 @@ const unidades = {
             { data: "20/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/20.jpeg"] },
             { data: "21/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/21.jpeg"] },
             { data: "22/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/22.jpeg"] },
+            { data: "23/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/MAIO/CNC/23.jpeg"] },
 
 
 
@@ -1491,6 +1492,9 @@ const unidades = {
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/19.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/19.jpg"] },
             { data: "21/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/21.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/21.jpg"] },
 
+
+
+
             // { data: "", captura: ["", "", "", "", "", "", ""] },
             // { data: "", captura: ["", "", "", "", "", "", ""] },
         ],
@@ -1648,7 +1652,7 @@ const unidades = {
             { data: "20/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/20.jpg"] }, 
             { data: "21/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/21.jpg"] }, 
             { data: "22/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/22.jpg"] },
-
+            { data: "23/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/05-MAIO/23.jpg"] }, 
 
 
             
