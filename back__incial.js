@@ -397,9 +397,10 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 1/2025/Stone/05 MAIO/16.jpg", "capturas/Unidade 1/2025/LixaçãoOsso/05-MAIO/16.jpg", "capturas/Unidade 1/2025/LixaçãoMetal/05-MAIO/16.jpg", "capturas/Unidade 1/2025/Lix.Fundo/05 MAIO/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/19.jpg"] },
             { data: "20/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/20.jpg"] },
-            { data: "25/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/21.jpeg"] },
+            { data: "23/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/23.jpg"] },
             
             // { data: "", captura: [""] },
+
 
 
 
