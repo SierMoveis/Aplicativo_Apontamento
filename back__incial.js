@@ -860,8 +860,7 @@ const unidades = {
             { data: "22/05/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/22-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/22-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/23-pt3.jpeg"] },
             { data: "23/05/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/23-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/23-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/23-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/05-MAIO/23.jpg"] },
             { data: "26/05/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/26-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/26-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/05-MAIO/26-pt3.jpeg"] },
-
-
+            
 
 
 
@@ -1504,7 +1503,7 @@ const unidades = {
             { data: "16/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/16.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/16.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/16.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/16.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/16.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/16.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/16.jpg"] },
             { data: "19/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/19.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/19.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/19.jpg"] },
             { data: "21/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/21.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/21.jpg"] },
-
+            { data: "26/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/26.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/26.jpg"] },
 
 
 
