@@ -402,7 +402,7 @@ const unidades = {
             { data: "20/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/20.jpg"] },
             { data: "23/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/23.jpg"] },
             { data: "27/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/27.jpg"] },
-
+            { data: "28/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/28.jpg"] },
 
 
             // { data: "", captura: [""] },
