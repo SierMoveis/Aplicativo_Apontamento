@@ -1518,6 +1518,11 @@ const unidades = {
             { data: "21/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/21.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/21.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/21.jpg"] },
             { data: "26/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/26.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/26.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/26.jpg"] },
             { data: "27/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/27.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/27.jpg"] },
+            { data: "28/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/28.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/28.jpg"] },
+
+
+
+
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
