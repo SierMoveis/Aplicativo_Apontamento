@@ -405,6 +405,8 @@ const unidades = {
             { data: "27/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/27.jpg"] },
             { data: "28/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/28.jpg"] },
             { data: "29/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/29.jpg"] },
+            { data: "31/05/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/31.jpg"] },
+
 
             // { data: "", captura: [""] },
 
