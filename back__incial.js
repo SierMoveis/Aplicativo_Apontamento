@@ -556,6 +556,7 @@ const unidades = {
             { data: "27/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Tupi05 MAIO/27.jpg", "capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/27.jpg"] },
             { data: "28/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Tupi05 MAIO/28.jpg", "capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/28.jpg"] },
             { data: "29/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/29.jpg"] },
+            { data: "30/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/05-MAIO/30.jpg"] },
 
 
 
@@ -709,6 +710,9 @@ const unidades = {
             { data: "27/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/5-MAIO/27.jpg"] },
             { data: "28/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/5-MAIO/28.jpg"] },
             { data: "29/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/5-MAIO/29.jpg"] },
+            { data: "31/05/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/5-MAIO/31.jpg"] },
+
+
 
             // { data: "", captura: [""] },
         ],
