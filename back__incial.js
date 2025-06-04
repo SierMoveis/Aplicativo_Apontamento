@@ -1056,6 +1056,9 @@ const unidades = {
             { data: "30/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/30.jpg"] },
             
             { data: "02/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/02.jpg"] },
+            { data: "03/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/03.jpg"] },
+
+
 
 
 
