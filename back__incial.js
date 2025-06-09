@@ -1587,11 +1587,11 @@ const unidades = {
             { data: "29/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/29.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/29.jpg"] },
             
             
+           { data: "05/06/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT2.jpg"] },
 
 
-
-            // { data: "", captura: ["", "", "", "", "", "", ""] },
-            // { data: "", captura: ["", "", "", "", "", "", ""] },
+            // { data: "", captura: ["", ""] },
+           
         ],
     },
 
