@@ -4709,6 +4709,8 @@ const unidades = {
             { data: "23/05/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/MAIO/COLPANY 23.jpg"] },
             { data: "30/05/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/MAIO/COLPANY 30.jpg"] },
 
+            { data: "06/06/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JUNHO/06 C.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -4803,7 +4805,7 @@ const unidades = {
             { data: "23/05/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/MAIO/FAST 23.jpg"] },
             { data: "30/05/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/MAIO/FAST 30.jpg"] },
 
-
+            { data: "06/06/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JUNHO/06.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -4897,7 +4899,7 @@ const unidades = {
             { data: "23/05/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/MAIO/COLPANY 23.jpg", "capturas/Qualidade fornecedor/vidros/2025/MAIO/FAST 23.jpg"] },
             { data: "30/05/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/MAIO/FAST 30.jpg", "capturas/Qualidade fornecedor/vidros/2025/MAIO/COLPANY 30.jpg"] },
 
-
+            { data: "06/06/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JUNHO/06.jpg", "capturas/Qualidade fornecedor/vidros/2025/JUNHO/06 C.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
