@@ -1589,9 +1589,9 @@ const unidades = {
             { data: "27/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/27.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininh05-MAIO/27.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/27.jpg"] },
             { data: "28/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/28.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/28.jpeg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininh05-MAIO/28.jpg"] },
             { data: "29/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/Montagem/Maio/29.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/29.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/29.jpg"] },
+            { data: "30/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/30.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/30.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/30.jpg","capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/30.jpg" ,"capturas/Unidade 2/Acabamento/2025/Montagem/Maio/30.jpg","capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/30.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/30.jpeg"] },
             
-            
-           { data: "05/06/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT2.jpg"] },
+            { data: "05/06/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT2.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
