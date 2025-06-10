@@ -418,7 +418,7 @@ const unidades = {
             { data: "04/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/4.jpg"] },
             { data: "05/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/5.jpg"] },
             { data: "06/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/06.jpg"] },
-
+            { data: "09/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/09.jpg"] },
 
 
 
