@@ -1079,12 +1079,12 @@ const unidades = {
             { data: "29/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/29.jpg"] },
             { data: "30/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/05-MAIO/30.jpg"] },
             
-            { data: "02/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/02.jpg"] },
-            { data: "03/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/03.jpg"] },
-            { data: "04/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/04.jpg"] },
+            { data: "02/06/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/02.jpg"] },
+            { data: "03/06/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/03.jpg"] },
+            { data: "04/06/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/04.jpg"] },
             { data: "05/06/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/05.jpg"] },     
-            { data: "06/05/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/06.jpg"] },
-
+            { data: "06/06/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/06.jpg"] },
+            { data: "09/06/2025", captura: ["capturas/Unidade 2/Expedição/2025/06-JUNHO/09.jpg"] },
 
 
 
