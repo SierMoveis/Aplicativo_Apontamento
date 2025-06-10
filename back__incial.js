@@ -1599,9 +1599,13 @@ const unidades = {
             { data: "30/05/2025", captura: ["capturas/Unidade 2/Acabamento/2025/Tingidor/Maio/30.jpg", "capturas/Unidade 2/Acabamento/2025/Robô/Maio/30.jpg", "capturas/Unidade 2/Acabamento/2025/PéTras/Maio/30.jpg","capturas/Unidade 2/Acabamento/2025/PéFrente/Maio/30.jpg" ,"capturas/Unidade 2/Acabamento/2025/Montagem/Maio/30.jpg","capturas/Unidade 2/Acabamento/2025/LixaçãoFundoMaquininha/05-MAIO/30.jpg", "capturas/Unidade 2/Acabamento/2025/LixaçãoFundoManual/06-MAIO/30.jpeg"] },
             
             { data: "05/06/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/05 PT2.jpg"] },
+            { data: "09/06/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/09 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/09 PT02.jpg"] },
 
-
+            
+            
+            
             // { data: "", captura: ["", ""] },
+
            
         ],
     },
