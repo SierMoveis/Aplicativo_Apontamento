@@ -1267,7 +1267,7 @@ const unidades = {
             { data: "05/06/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JUNHO/CNC/05.jpeg"] },
             { data: "06/05/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JUNHO/CNC/06.jpeg"] },
             { data: "09/06/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JUNHO/CNC/09.jpeg"] },
-
+            { data: "10/06/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JUNHO/CNC/10.jpeg"] },
 
 
 
@@ -1780,6 +1780,8 @@ const unidades = {
             { data: "05/05/2025", captura: ["capturas/Unidade 3/Usinagem/2025/06-JUNHO/05.jpg"] }, 
             { data: "06/06/2025", captura: ["capturas/Unidade 3/Usinagem/2025/06-JUNHO/06.jpg"] }, 
             { data: "09/06/2025", captura: ["capturas/Unidade 3/Usinagem/2025/06-JUNHO/09.jpg"] },
+            { data: "10/06/2025", captura: ["capturas/Unidade 3/Usinagem/2025/06-JUNHO/10.jpg"] }, 
+
 
             
             // { data: "", captura: [""] }, 
