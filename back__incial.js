@@ -424,7 +424,7 @@ const unidades = {
             { data: "10/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/10.jpg"] },
             { data: "11/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/11.jpg"] },
             { data: "12/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/12.jpg"] },
-
+            { data: "13/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/13.jpg"] },
 
             // { data: "", captura: [""] },
 
