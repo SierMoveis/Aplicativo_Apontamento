@@ -942,7 +942,7 @@ const unidades = {
             { data: "12/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/12-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/12-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/12-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/06-JUNHO/12.jpg"] },
             { data: "13/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/13-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/13-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/13-pt3.jpeg"] },
             { data: "16/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/16-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/16-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/16-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/06-JUNHO/16.jpg"] },
-
+            { data: "17/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/17-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/17-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/17-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/06-JUNHO/17.jpg"] },
 
 
 
@@ -1970,6 +1970,7 @@ const unidades = {
             { data: "12/06/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JUNHO/12.jpg"] },
             { data: "13/06/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JUNHO/13.jpg"] },
             { data: "16/06/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JUNHO/16.jpg"] },
+            { data: "17/06/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JUNHO/17.jpg"] },
 
 
             // { data: "", captura: [""] },
