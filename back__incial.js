@@ -1,4 +1,4 @@
-
+''
 document.addEventListener('DOMContentLoaded', function () {
     let openMenu = document.getElementById("open__menu")
     let closeMenu = document.getElementById("close__menu")
@@ -439,7 +439,7 @@ const unidades = {
             { data: "23/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/23.jpg"] },
             { data: "24/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/24.jpg"] },
             { data: "25/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/25.jpg"] },
-
+            { data: "26/06/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JUNHO/26.jpg"] },
 
 
             // { data: "", captura: [""] },
