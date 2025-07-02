@@ -265,6 +265,11 @@ const unidades = {
             { data: "27/06/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JUNHO/27.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/JUNHO/28.jpg"] },
             { data: "30/06/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JUNHO/30.jpg", ""] },
 
+            { data: "01/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/1.jpg"] },
+
+
+
+
             // { data: "", captura: ["", ""] },
 
 
@@ -987,6 +992,9 @@ const unidades = {
             { data: "26/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/26-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/26-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/26-pt3.jpeg"] },
             { data: "27/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/27-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/27-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/27-pt3.jpeg"] },
             { data: "30/06/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/30-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/30-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/06-JUNHO/30-pt3.jpeg"] },
+           
+            { data: "01/07/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/01-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/01-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/01-pt3.jpeg"] },
+
 
 
 
@@ -2798,6 +2806,10 @@ const unidades = {
             { data: "27/06/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JUNHO/27 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2025/JUNHO/27 ITALP.jpeg"] },
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JUNHO/30 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/JUNHO/30 ITALP.jpg"] },
             
+            { data: "01/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/01 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/JULHO/01 ITALP.jpg"] },
+
+
+
             // { data: "", captura: ["", ""] },
         ],
     },
