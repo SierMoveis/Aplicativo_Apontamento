@@ -1581,17 +1581,20 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JUNHO/Mont. Us/30.jpeg", "capturas/Unidade 2/Usinagem/2025/JUNHO/Rolinho/30.jpeg", "capturas/Unidade 2/Usinagem/2025/JUNHO/Roquite/30.jpeg", "capturas/Unidade 2/Usinagem/2025/JUNHO/MM/30.jpg", "capturas/Unidade 2/Usinagem/2025/JUNHO/Usinagem/30.jpg"] },
        
             { data: "01/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/01.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/01.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/01.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/01.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/01.jpg"] },
-       
+            { data: "02/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/02.jpg", "", "", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/02.jpg", ""] },
+
+
+
             ],
 
 
+             // { data: "", captura: ["", "", "", "", ""] },
 
 
 
-            // { data: "", captura: ["", "", "", "", ""] },
-    
 
-        Acabamento: [
+
+             Acabamento: [
             { data: "30/11/2023", captura: ["capturas/Unidade 2/Acabamento/11- Novembro/tingidor/30.png", "capturas/Unidade 2/Acabamento/11- Novembro/robo/30.png", "capturas/Unidade 2/Acabamento/11- Novembro/pé trás/30.png", "capturas/Unidade 2/Acabamento/11- Novembro/pé frente/30.png", "capturas/Unidade 2/Acabamento/11- Novembro/mont/30.png", "capturas/Unidade 2/Acabamento/11- Novembro/maquininh30.png", "capturas/Unidade 2/Acabamento/11- Novembro/fundo/30.png",] },
 
             { data: "20/12/2023", captura: ["capturas/Unidade 2/Acabamento/12- Dezembro/tingidor/20.png", "capturas/Unidade 2/Acabamento/12- Dezembro/robo/20.png", "capturas/Unidade 2/Acabamento/12- Dezembro/pé trás/20.png", "capturas/Unidade 2/Acabamento/12- Dezembro/pé frente/20.png", "capturas/Unidade 2/Acabamento/12- Dezembro/mont/20.png", "capturas/Unidade 2/Acabamento/12- Dezembro/maquininh20.png", "capturas/Unidade 2/Acabamento/12- Dezembro/fundo/20.png",] },
@@ -1928,6 +1931,10 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 3/Usinagem/2025/06-JUNHO/30.jpg"] }, 
 
             { data: "01/07/2025", captura: ["capturas/Unidade 3/Usinagem/2025/07-JULHO/01.jpg"] },
+            { data: "02/07/2025", captura: ["capturas/Unidade 3/Usinagem/2025/07-JULHO/02.jpg"] }, 
+
+
+
 
 
             // { data: "", captura: [""] }, 
