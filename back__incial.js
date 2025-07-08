@@ -1750,6 +1750,7 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/30 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/30 PT2.jpg"] },
            
             { data: "02/07/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/02 PT 01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/02 PT 02.jpg"] },
+            { data: "03/07/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/03 PT 01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/03 PT 02.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
