@@ -1403,7 +1403,7 @@ const unidades = {
             { data: "02/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/CNC/02.jpeg"] },
             { data: "07/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/CNC/07.jpeg"] },
             { data: "08/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/CNC/08.jpeg"] },
-
+            { data: "09/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/CNC/09.jpeg"] },
 
 
         ],
@@ -1609,7 +1609,7 @@ const unidades = {
             { data: "03/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/03.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/03.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/03.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/03.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/03.jpg"] },
             { data: "07/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/07.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/07.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/07.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/07.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/07.jpg"] },
             { data: "08/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/08.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/08.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/08.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/08.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/08.jpg"] },
-
+            { data: "09/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/09.jpg", "", "", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/09.jpg", ""] },
 
 
             ],
@@ -1967,7 +1967,7 @@ const unidades = {
             { data: "03/07/2025", captura: ["capturas/Unidade 3/Usinagem/2025/07-JULHO/03.jpg"] }, 
             { data: "07/07/2025", captura: ["capturas/Unidade 3/Usinagem/2025/07-JULHO/07.jpg"] },
             { data: "08/07/2025", captura: ["capturas/Unidade 3/Usinagem/2025/07-JULHO/08.jpg"] }, 
-
+            { data: "09/07/2025", captura: ["capturas/Unidade 3/Usinagem/2025/07-JULHO/09.jpg"] },
 
 
 
@@ -2108,7 +2108,7 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JUNHO/30.jpg"] },
             { data: "03/07/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JULHO/03.jpg"] },
             { data: "07/07/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/JULHO/07.jpg"] },
-
+            { data: "09/07/2025", captura: [""] },
             
             // { data: "", captura: [""] },
         ],
@@ -2223,6 +2223,8 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/JUNHO/30.jpg"] },
             { data: "03/07/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/JULHO/03.jpg"] },
             { data: "07/07/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/JULHO/07.jpg"] },
+            { data: "09/07/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/JULHO/08.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -2857,9 +2859,15 @@ const unidades = {
             { data: "02/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/02 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/JULHO/02 ITALP.jpg"] },
             { data: "03/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/03 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/JULHO/03 ITALP.jpg"] },
             { data: "07/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/07 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/JULHO/07  ITALP.jpg"] },
+            { data: "08/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/08 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/JULHO/08  ITALP.jpg"] },
+            { data: "09/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/09  ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/JULHO/09 MAQ.jpg"] },
 
 
+
+            
             // { data: "", captura: ["", ""] },
+
+
         ],
     },
 
