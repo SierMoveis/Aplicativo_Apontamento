@@ -270,6 +270,7 @@ const unidades = {
             { data: "07/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/07.jpg"] },
             { data: "08/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/08.jpg"] },
             { data: "09/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/09.jpg", ""] },
+            { data: "10/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/10.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
