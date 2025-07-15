@@ -1030,7 +1030,7 @@ const unidades = {
             { data: "09/07/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/09-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/09-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/09-pt3.jpeg"] },
             { data: "10/07/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/10-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/10-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/10-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Bordadeira/07-JULHO/10.jpg"] },
             { data: "11/07/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/11-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/11-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/11-pt3.jpeg"] },
-
+            { data: "14/07/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/14-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/14-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/14-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/07-JULHO/14-pt3-hora-extra.jpeg"] },
 
 
 
