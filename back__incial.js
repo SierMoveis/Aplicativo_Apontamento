@@ -273,7 +273,7 @@ const unidades = {
             { data: "10/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/10.jpg"] },
             { data: "14/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/14.jpg"] },
             { data: "16/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/16.jpg"] },
-
+            { data: "17/07/2025", captura: [""] },
 
 
             // { data: "", captura: ["", ""] },
@@ -462,7 +462,9 @@ const unidades = {
             { data: "09/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/09.jpg"] },
             { data: "14/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/14.jpg"] },
             { data: "16/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/16.jpg"] },
-            
+            { data: "17/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/17.jpg"] },
+
+
             
             // { data: "", captura: [""] },
 
@@ -1652,7 +1654,7 @@ const unidades = {
             { data: "14/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/14.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/14.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/14.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/14.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/14.jpg"] },
             { data: "15/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/15.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/15.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/15.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/15.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/15.jpg"] },
             { data: "16/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/16.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/16.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/16.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/16.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/16.jpg"] },
-            { data: "17/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/17.jpg", "", "", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/17.jpg", ""] },
+            { data: "17/07/2025", captura: ["capturas/Unidade 2/Usinagem/2025/JULHO/Montagem Us/17.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Rolinho/17.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Roquite/17.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/MM/17.jpg", "capturas/Unidade 2/Usinagem/2025/JULHO/Usinagem/17.jpg"] },
 
 
 
