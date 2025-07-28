@@ -278,6 +278,7 @@ const unidades = {
             { data: "21/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/21.jpg"] },
             { data: "23/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/23.jpg"] },
             { data: "24/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/24.jpg"] },
+            { data: "25/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/25.jpg"] },
 
 
 
@@ -470,6 +471,7 @@ const unidades = {
             { data: "17/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/17.jpg"] },
             { data: "21/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/21.jpg"] },
             { data: "23/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/23.jpg"] },
+            { data: "25/07/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/JULHO/25.jpg"] },
 
             
             // { data: "", captura: [""] },
