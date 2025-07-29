@@ -279,6 +279,7 @@ const unidades = {
             { data: "23/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/23.jpg"] },
             { data: "24/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/24.jpg"] },
             { data: "25/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/25.jpg"] },
+            { data: "26/07/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/JULHO/28.jpg"] },
 
 
 
