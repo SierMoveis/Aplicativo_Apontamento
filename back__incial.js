@@ -1512,13 +1512,14 @@ const unidades = {
 
 
 
+            // { data: "", captura: ["", "", "", "", ""] },
+             // { data: "", captura: ["", ""] },
+
+
+
         ],
 
-
-
-
-        // { data: "", captura: ["", "", "", "", ""] },
-        // { data: "", captura: ["", ""] },
+        
 
 
         Usinagem: [
@@ -1910,7 +1911,7 @@ const unidades = {
             { data: "28/07/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/28 PT 01.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/28 PT 02.jpeg"] },
             { data: "29/07/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/29 PT 01.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/29 PT 02.jpeg"] },
             { data: "30/07/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/30 PT 01.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/30 PT 02.jpeg"] },
-
+            { data: "31/07/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/31 PT 01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/JULHO/31 PT 02.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
