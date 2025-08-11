@@ -686,7 +686,7 @@ const unidades = {
             { data: "05/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/05.jpg"] },
             { data: "06/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/06.jpg"] },
             { data: "07/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/07.jpg"] },
-
+            { data: "08/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/08.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -885,7 +885,7 @@ const unidades = {
             { data: "05/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/05.jpg"] },
             { data: "06/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/06.jpg"] },
             { data: "07/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/07.jpg"] },
-
+            { data: "08/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/08.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -1104,6 +1104,8 @@ const unidades = {
             { data: "05/08/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/05-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/05-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/05-pt3.jpeg"] },
             { data: "06/08/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/06-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/06-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/06-pt3.jpeg"] },
             { data: "07/08/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/07-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/07-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/07-pt3.jpeg"] },
+            { data: "08/08/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/08-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/08-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/08-AGOSTO/08-pt3.jpeg"] },
+
 
 
 
@@ -1322,7 +1324,7 @@ const unidades = {
             { data: "05/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/05.jpg"] },
             { data: "06/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/06.jpg"] },
             { data: "07/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/07.jpg"] },
-
+            { data: "08/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/08.jpg"] },
 
 
 
@@ -2338,6 +2340,7 @@ const unidades = {
             { data: "05/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/05.jpg"] },
             { data: "06/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/06.jpg"] },
             { data: "07/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/07.jpg"] },
+            { data: "08/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/08.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -2473,7 +2476,7 @@ const unidades = {
             { data: "04/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/04.jpg"] },
             { data: "05/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/05.jpg"] },
             { data: "07/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/06.jpg"] },
-
+            { data: "08/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/08.jpg"] },
 
 
 
@@ -3142,6 +3145,8 @@ const unidades = {
             { data: "04/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 04.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 04.jpg"] },
             { data: "05/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 05.jpg"] },
             { data: "06/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 06.jpg"] },
+            { data: "08/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 08.jpg"] },
+
 
             
             // { data: "", captura: ["", ""] },
