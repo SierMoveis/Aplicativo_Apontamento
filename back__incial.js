@@ -701,7 +701,7 @@ const unidades = {
             { data: "12/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/12.jpg"] },
             { data: "13/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/14.jpg"] },
-
+            { data: "15/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/15.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -905,7 +905,7 @@ const unidades = {
             { data: "12/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/12.jpg"] },
             { data: "13/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/14.jpg"] },
-
+            { data: "16/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/16.jpg"] },
 
 
 
@@ -3650,7 +3650,7 @@ const unidades = {
             { data: "25/07/2025", captura: ["capturas/Retrabalhos/2025/JULHO/Unidade 1/Expedição/25 PT01.jpg", "capturas/Retrabalhos/2025/JULHO/Unidade 1/Expedição/25 PT02.jpg", "capturas/Retrabalhos/2025/JULHO/Unidade 1/Expedição/25 PT03.jpg", "capturas/Retrabalhos/2025/JULHO/Unidade 1/Expedição/25 PT04.jpg", "capturas/Retrabalhos/2025/JULHO/Unidade 1/Expedição/25g.jpg"] },
             { data: "01/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/01 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/01 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/01 PT03.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/01 PT04.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/01 G.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/08 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/08 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/08 PT03.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/08 PT04.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/08 G.jpg"] },
-            { data: "11/08/2025", captura: ["", "", "", "", ""] },
+            { data: "11/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/15 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/15 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/15 PT03.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/15 PT04.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 1/Expedição/15 G.jpg"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
@@ -4492,8 +4492,9 @@ const unidades = {
             { data: "25/07/2025", captura: ["capturas/Retrabalhos/2025/JULHO/Unidade 2/Expedição/25 PT1.jpg", "capturas/Retrabalhos/2025/JULHO/Unidade 2/Expedição/25 PT2.jpg", "capturas/Retrabalhos/2025/JULHO/Unidade 2/Expedição/25G.jpg"] },
             { data: "01/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/01 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/01 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/1 G.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/08 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/08 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/08 g.jpg"] },
-            { data: "11/08/2025", captura: ["", "", ""] },
+            { data: "15/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/15 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/15 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Expedição/15 g.jpg"] },
            
+
 
             // { data: "", captura: ["", "", ""] },
 
