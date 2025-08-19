@@ -292,6 +292,8 @@ const unidades = {
             { data: "13/08/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/AGOSTO/14.jpg"] },
             { data: "15/08/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/AGOSTO/15.jpg"] },
+            { data: "18/08/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/AGOSTO/18.jpg"] },
+
 
 
             // { data: "", captura: ["", ""] },
@@ -705,6 +707,8 @@ const unidades = {
             { data: "13/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/14.jpg"] },
             { data: "15/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/15.jpg"] },
+            { data: "18/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/AGOSTO/18.jpg"] },
+
 
 
             // { data: "", captura: ["", ""] },
@@ -909,7 +913,7 @@ const unidades = {
             { data: "13/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/14.jpg"] },
             { data: "16/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/16.jpg"] },
-
+            { data: "18/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/18.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -1360,6 +1364,8 @@ const unidades = {
             { data: "13/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/14.jpg"] },
             { data: "15/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/15.jpg"] },
+            { data: "18/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/18.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -5499,7 +5505,7 @@ const unidades = {
             { data: "25/07/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/25 COLPANY.jpg"] },
             { data: "01/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/31 COLPANY.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 08.jpg"] },
-            { data: "11/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 08.jpg"] },
+            { data: "11/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 11.jpg"] },
 
 
 
