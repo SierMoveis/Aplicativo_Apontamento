@@ -500,7 +500,7 @@ const unidades = {
             { data: "13/08/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/AGOSTO/13.jpg"] },
             { data: "14/08/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/AGOSTO/14.jpg", "capturas/Unidade 1/2025/ACABAMENTO 2025/AGOSTO/14 hext.jpg"] },
             { data: "15/08/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/AGOSTO/15.jpg"] },
-
+            { data: "19/08/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/AGOSTO/19.jpg"] },
 
 
 
