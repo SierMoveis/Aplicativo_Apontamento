@@ -916,15 +916,17 @@ const unidades = {
             { data: "16/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/16.jpg"] },
             { data: "18/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/18.jpg"] },
             { data: "19/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/19.jpg"] },
+            { data: "20/08/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/AGOSTO/20.jpg"] },
+
 
 
             // { data: "", captura: [""] },
 
 
         ],
+
+
     },
-
-
 
     UA2: {
         Estofaria: [
@@ -2034,7 +2036,7 @@ const unidades = {
             { data: "14/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/14-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/14-PT2.jpeg"] },
             { data: "18/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/18-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/18-PT2.jpeg"] },
             { data: "19/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/19-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/19-PT2.jpeg"] },
-
+            { data: "20/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/20-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/20-PT2.jpeg"] },
 
 
 
