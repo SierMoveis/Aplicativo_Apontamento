@@ -5547,8 +5547,8 @@ const unidades = {
             { data: "25/07/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/25 COLPANY.jpg"] },
             { data: "01/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/31 COLPANY.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 08.jpg"] },
-            { data: "11/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 11.jpg"] },
-
+            { data: "15/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 11.jpg"] },
+            { data: "22/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 21.jpg"] },
 
 
 
@@ -5659,7 +5659,7 @@ const unidades = {
             { data: "01/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/31  FAST GLASS.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS  08.jpg"] },
             { data: "11/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS  11.jpg"] },
-
+            { data: "22/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS 21.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -5767,7 +5767,8 @@ const unidades = {
             { data: "25/07/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/25 COLPANY.jpg", "capturas/Qualidade fornecedor/vidros/2025/JULHO/25  FAST GLASS.jpg"] },
             { data: "01/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/JULHO/31 COLPANY.jpg", "capturas/Qualidade fornecedor/vidros/2025/JULHO/31  FAST GLASS.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 08.jpg", "capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS  08.jpg"] },
-            { data: "11/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 11.jpg", "capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS  11.jpg"] },
+            { data: "15/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 11.jpg", "capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS  11.jpg"] },
+            { data: "22/08/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/AGOSTO/COLPANY 21.jpg", "capturas/Qualidade fornecedor/vidros/2025/AGOSTO/FAST GLASS 21.jpg"] },
 
 
 
