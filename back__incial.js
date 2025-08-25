@@ -2053,7 +2053,7 @@ const unidades = {
             { data: "19/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/19-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/19-PT2.jpeg"] },
             { data: "20/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/20-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/20-PT2.jpeg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/21 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/21 PT2.jpg"] },
-             { data: "22/08/2025", captura: [""capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/22 PT1.jpg, "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/22 PT2.jpg"] },
+            { data: "22/08/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/22 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/AGOSTO/22 PT2.jpg"] },
 
 
 
@@ -2450,6 +2450,8 @@ const unidades = {
             { data: "19/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/19.jpg"] },
             { data: "20/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/19.jpg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/21.jpg"] },
+            { data: "22/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/24.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -2595,6 +2597,7 @@ const unidades = {
             { data: "19/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/19.jpg"] },
             { data: "20/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/20.jpg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/21.jpg"] },
+            { data: "22/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/22.jpg"] },
 
 
 
@@ -3274,6 +3277,8 @@ const unidades = {
             { data: "19/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 19.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 19.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 19.jpg"] },
             { data: "20/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 20.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 20.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 20.jpg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 21.jpg"] },
+            { data: "22/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 22.jpg"] },
+
 
             
             // { data: "", captura: ["", "", ""] },
@@ -4226,14 +4231,17 @@ const unidades = {
             { data: "01/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/01 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/01 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/01 G.jpg"] },
             { data: "08/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/08 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/08 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/08G.jpg"] },
             { data: "11/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/15 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/15 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/15G.jpg"] },
-            { data: "22/08/2025", captura: ["", "", ""] },
+            { data: "22/08/2025", captura: ["capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/22 PT01.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/22 PT02.jpg", "capturas/Retrabalhos/2025/AGOSTO/Unidade 2/Curvados/22g.jpg"] },
 
            
+
+
              // { data: "", captura: ["", "", ""] },
            
         ],
 
         Estofaria: [
+
             { data: "25/11/2023", captura: ["capturas/Retrabalhos/unidade 2/Estofari11- Novembro/20-25.png"] },
             { data: "02/12/2023", captura: ["capturas/Retrabalhos/unidade 2/Estofari11- Novembro/27.png"] },
 
