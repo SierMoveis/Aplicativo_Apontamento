@@ -2470,6 +2470,7 @@ const unidades = {
             { data: "20/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/19.jpg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/21.jpg"] },
             { data: "22/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/24.jpg"] },
+            { data: "25/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/25.jpg"] },
 
 
 
@@ -2617,6 +2618,8 @@ const unidades = {
             { data: "20/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/20.jpg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/21.jpg"] },
             { data: "22/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/22.jpg"] },
+            { data: "25/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/25.jpg"] },
+
 
 
 
@@ -3297,7 +3300,7 @@ const unidades = {
             { data: "20/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 20.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 20.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 20.jpg"] },
             { data: "21/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 21.jpg"] },
             { data: "22/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 22.jpg"] },
-
+            { data: "25/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 25.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 25.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 25.jpg"] },
 
             
             // { data: "", captura: ["", "", ""] },
