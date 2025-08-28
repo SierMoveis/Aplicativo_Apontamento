@@ -1402,7 +1402,7 @@ const unidades = {
             { data: "22/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/22.jpg"] },
             { data: "25/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/25.jpg"] },
             { data: "26/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/26.jpg"] },
-
+            { data: "27/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/27.jpg"] },
 
 
 
@@ -3320,6 +3320,7 @@ const unidades = {
             { data: "22/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 22.jpg"] },
             { data: "25/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 25.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 25.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 25.jpg"] },
             { data: "26/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 26.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 26.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 26.jpg"] },
+            { data: "27/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 27.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 27.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 27.jpg"] },
 
 
 
