@@ -1418,7 +1418,7 @@ const unidades = {
             { data: "25/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/25.jpg"] },
             { data: "26/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/26.jpg"] },
             { data: "27/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/27.jpg"] },
-
+            { data: "29/08/2025", captura: [""] },
 
 
             // { data: "", captura: [""] },
