@@ -523,7 +523,7 @@ const unidades = {
             { data: "29/08/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/AGOSTO/29.jpg"] },
 
             { data: "02/08/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/2.jpg"] },
-            
+            { data: "03/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/03.jpg"] },
 
 
             // { data: "", captura: [""] },
