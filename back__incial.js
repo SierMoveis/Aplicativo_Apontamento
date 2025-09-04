@@ -2543,6 +2543,10 @@ const unidades = {
             { data: "28/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/28.jpg"] },
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/29.jpg"] },
 
+            { data: "03/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/03.jpg"] },
+
+
+
 
             // { data: "", captura: [""] },
 
@@ -2694,6 +2698,7 @@ const unidades = {
             { data: "28/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/28.jpg"] },
             { data: "30/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/AGOSTO/30.jpg"] },
 
+            { data: "03/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/03.jpg"] },
 
 
              // { data: "", captura: [""] },
@@ -3380,6 +3385,9 @@ const unidades = {
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 29.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/ITALPRESSE 29.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 29.jpg"] },
             { data: "30/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/MAQUIMOVEL 30.jpg", "capturas/Unidade 4/Tempo_parado/2025/AGOSTO/HOME CURVADO 30.jpg"] },
             
+            { data: "01/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 01.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 01.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 01.jpg"] },
+            { data: "02/09/2025", captura: ["", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 02.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 02.jpg"] },
+            { data: "03/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 03.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 03.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 03.jpg"] },
 
 
             // { data: "", captura: ["", "", ""] },
