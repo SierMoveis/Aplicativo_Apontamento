@@ -2556,7 +2556,7 @@ const unidades = {
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/AGOSTO/29.jpg"] },
 
             { data: "03/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/03.jpg"] },
-
+            { data: "04/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/04.jpg"] },
 
 
 
