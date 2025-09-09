@@ -2570,7 +2570,7 @@ const unidades = {
 
             { data: "03/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/03.jpg"] },
             { data: "04/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/04.jpg"] },
-            { data: "08/09/2025", captura: [""] },
+            { data: "08/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/8.jpg"] },
 
 
             // { data: "", captura: [""] },
