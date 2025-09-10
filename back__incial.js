@@ -1453,6 +1453,8 @@ const unidades = {
             { data: "04/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/04.jpg"] },
             { data: "05/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/05.jpg"] },
             { data: "08/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/08.jpg"] },
+            { data: "09/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/09.jpg"] },
+
 
 
 
