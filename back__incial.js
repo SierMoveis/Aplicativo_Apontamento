@@ -530,6 +530,9 @@ const unidades = {
             { data: "04/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/04.jpg"] },
             { data: "05/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/05.jpeg"] },
             { data: "08/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/08.jpg"] },
+            { data: "09/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/09.jpg"] },
+
+
 
 
             // { data: "", captura: [""] },
