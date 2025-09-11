@@ -1462,7 +1462,7 @@ const unidades = {
             { data: "05/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/05.jpg"] },
             { data: "08/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/08.jpg"] },
             { data: "09/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/09.jpg"] },
-
+            { data: "10/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/10.jpg"] },
 
 
 
@@ -2166,6 +2166,9 @@ const unidades = {
             { data: "05/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/05 pt01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/05 pt02.jpg"] },
             { data: "08/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/08 pt01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/08 pt02.jpg"] },
             { data: "09/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/09-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/09-PT2.jpeg"] },
+            { data: "10/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/10-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/10-PT2.jpeg"] },
+
+
 
 
 
