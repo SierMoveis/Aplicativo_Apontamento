@@ -2665,7 +2665,7 @@ const unidades = {
             { data: "16/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/16.jpg"] },
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/18.jpg"] },
-
+            { data: "22/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/22.jpg"] },
 
 
 
@@ -2828,7 +2828,7 @@ const unidades = {
             { data: "16/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/16.jpg"] },
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/18.jpg"] },
-
+            { data: "19/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/22.jpg"] },
 
 
              // { data: "", captura: [""] },
@@ -3531,6 +3531,7 @@ const unidades = {
             { data: "16/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 16.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 16.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 16.jpg"] },
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 17.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 17.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 18.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 18.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 18.jpg"] },
+            { data: "22/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 22.jpg"] },
 
 
 
