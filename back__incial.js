@@ -2828,7 +2828,7 @@ const unidades = {
             { data: "16/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/16.jpg"] },
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/18.jpg"] },
-            { data: "19/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/22.jpg"] },
+            { data: "22/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/22.jpg"] },
 
 
              // { data: "", captura: [""] },
