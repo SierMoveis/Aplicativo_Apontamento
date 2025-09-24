@@ -1756,7 +1756,7 @@ const unidades = {
             { data: "17/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/CNC/17.jpeg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/CNC/18.jpeg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/CNC/22.jpeg"] },
-
+            { data: "23/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/CNC/23.jpeg"] },
 
 
 
@@ -2024,7 +2024,7 @@ const unidades = {
             { data: "17/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MONTAGEM US/17.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/ROLINHO/17.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/ROQUITE/17.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MM/17.jpg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/USINAGEM/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MONTAGEM US/18.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/ROLINHO/18.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/ROQUITE/18.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MM/18.jpg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/USINAGEM/18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MONTAGEM US/22.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/ROLINHO/22.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/ROQUITE/22.jpeg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MM/22.jpg", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/USINAGEM/22.jpg"] },
-
+            { data: "23/09/2025", captura: ["", "", "", "capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/MM/23.jpeg", ""] },
 
 
             ],
@@ -2487,7 +2487,7 @@ const unidades = {
             { data: "17/09/2025", captura: ["capturas/Unidade 3/Usinagem/2025/09-SETEMBRO/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 3/Usinagem/2025/09-SETEMBRO/18.jpg"] }, 
             { data: "22/09/2025", captura: ["capturas/Unidade 3/Usinagem/2025/09-SETEMBRO/22.jpg"] }, 
-
+            { data: "23/09/2025", captura: ["capturas/Unidade 3/Usinagem/2025/09-SETEMBRO/23.jpg"] },
 
 
 
