@@ -2680,7 +2680,7 @@ const unidades = {
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/22.jpg"] },
-
+            { data: "23/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/SETEMBRO/23.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -2843,6 +2843,9 @@ const unidades = {
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/22.jpg"] },
+            { data: "23/09/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/SETEMBRO/23.jpg"] },
+
+
 
 
              // { data: "", captura: [""] },
@@ -3546,7 +3549,7 @@ const unidades = {
             { data: "17/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 17.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 17.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 17.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 18.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 18.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 22.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 22.jpg"] },
-
+            { data: "23/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/MAQUIMOVEL 23.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/ITALPRESSE 23.jpg", "capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/CURV HOME 23.jpg"] },
 
 
 
