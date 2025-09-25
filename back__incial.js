@@ -546,6 +546,9 @@ const unidades = {
             { data: "18/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/22.jpg"] },
             { data: "23/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/23.jpg"] },
+            { data: "24/09/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/SETEMBRO/24.jpg"] },
+
+
 
 
             // { data: "", captura: [""] },
@@ -773,6 +776,7 @@ const unidades = {
             { data: "18/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/SETEMBRO/18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/SETEMBRO/22.jpg"] },
             { data: "23/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/SETEMBRO/23.jpg"] },
+            { data: "24/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/SETEMBRO/24.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -1004,7 +1008,7 @@ const unidades = {
             { data: "18/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/SETEMBRO/18.jpg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/SETEMBRO/22.jpgH"] },
             { data: "23/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/SETEMBRO/23.jpg"] },
-
+            { data: "24/09/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/SETEMBRO/24.jpg"] },
 
             
             // { data: "", captura: [""] },
@@ -2244,6 +2248,7 @@ const unidades = {
             { data: "18/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/18-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/18-PT2.jpeg"] },
             { data: "22/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/22-PT1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/22-PT2.jpeg"] },
             { data: "23/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/23-pt1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/23-pt2.jpeg"] },
+            { data: "24/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/24-pt1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/24-pt2.jpeg"] },
 
 
 
