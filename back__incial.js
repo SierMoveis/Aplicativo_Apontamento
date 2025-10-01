@@ -6305,6 +6305,8 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/JUNHO.jpg"] },
             { data: "31/07/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/JULHO.jpg"] },
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/AGOSTO.jpg"] },
+            { data: "30/09/2025", captura: ["capturas/Unidade 4/Consumo/2025/SETEMBRO 2025.jpg"] },
+
 
         // { data: "", captura: [""] },
 
@@ -6372,7 +6374,7 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Consumo/2025/JUNHO.jpg"] },
             { data: "31/07/2025", captura: ["capturas/Unidade 4/Consumo/2025/JULHO.jpg"] },
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Consumo/2025/AGOSTO.jpg"] },
-            { data: "30/09/2025", captura: ["capturas/Unidade 4/Consumo/2025/SETEMBRO 2025.jpg"] },
+            
             
 
             // { data: "", captura: [""] },
