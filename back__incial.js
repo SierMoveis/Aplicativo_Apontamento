@@ -1540,6 +1540,9 @@ const unidades = {
             { data: "29/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/29.jpg"] },
             { data: "30/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/30.jpg"] },
 
+            { data: "01/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/01.jpg"] },
+
+
 
 
 
