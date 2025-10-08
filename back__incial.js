@@ -2310,8 +2310,9 @@ const unidades = {
             { data: "26/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/26 pt01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/26 pt02.jpg"] },
             { data: "29/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/29-pt1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/29-pt2.jpeg"] },
             { data: "30/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/30 pt01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/30 pt02.jpg"] },
+            
             { data: "03/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT2.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT1 h extra.jpg" , "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT2 h extra.jpg"] },
-
+            { data: "07/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/07 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/07 PT2.jpg"] },
 
 
 
