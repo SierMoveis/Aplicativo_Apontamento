@@ -2792,7 +2792,7 @@ const unidades = {
             { data: "02/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/02.jpg"] },
             { data: "07/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/07.jpg"] },
             { data: "08/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/08.jpg"] },
-{ data: "", captura: [""] },
+            { data: "09/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/09.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -2964,7 +2964,7 @@ const unidades = {
             { data: "02/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/OUTUBRO/02.jpg"] },
             { data: "07/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/OUTUBRO/07.jpg"] },
             { data: "08/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/OUTUBRO/08.jpg"] },
-
+            { data: "09/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/OUTUBRO/09.jpg"] },
 
 
 
@@ -3679,7 +3679,7 @@ const unidades = {
             { data: "02/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 02.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 02.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 02.jpg"] },
             { data: "07/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 07.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 07.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 07.jpg"] },
             { data: "08/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 08.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 08.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 08.jpg"] },
-
+            { data: "09/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 09.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 09.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 09.jpg"] },
             
 
             // { data: "", captura: ["", "", ""] },
