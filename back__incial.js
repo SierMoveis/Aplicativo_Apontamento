@@ -1317,7 +1317,7 @@ const unidades = {
             { data: "08/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/08-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/08-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/08-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/08-pt4.jpeg"] },
             { data: "09/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/09-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/09-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/09-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/09-pt4.jpeg"] },
             { data: "10/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/10-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/10-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/10-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/10-pt4.jpeg"] },
-
+            { data: "13/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/13-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/13-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/13-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/13-pt4.jpeg"] },
 
 
 
@@ -1582,6 +1582,8 @@ const unidades = {
             { data: "08/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/08.jpeg"] },
             { data: "09/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/09.jpeg"] },
             { data: "10/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/10.jpeg"] },
+            { data: "13/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/13.jpeg"] },
+
 
 
 
@@ -2350,7 +2352,7 @@ const unidades = {
             { data: "07/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/07 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/07 PT2.jpg"] },
             { data: "08/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/08 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/08 PT2.jpg"] },
             { data: "09/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/09 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/09 PT2.jpg"] },
-
+            { data: "13/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/13 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/13 PT2.jpg"] },
 
 
 
