@@ -2385,12 +2385,6 @@ const unidades = {
             { data: "30/09/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/30 pt01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/30 pt02.jpg"] },
             
             { data: "03/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT2.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT1 h extra.jpg" , "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/03 PT2 h extra.jpg"] },
-            { data: "07/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/07 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/07 PT2.jpg"] },
-            { data: "08/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/08 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/08 PT2.jpg"] },
-            { data: "09/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/09 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/09 PT2.jpg"] },
-            { data: "13/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/13 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/13 PT2.jpg"] },
-            { data: "14/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/14 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/14 PT2.jpg"] },
-            { data: "16/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/16 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/16 PT2.jpg"] },
             { data: "17/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/17 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/17 PT2.jpg"] },
 
 
