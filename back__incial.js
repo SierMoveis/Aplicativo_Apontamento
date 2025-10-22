@@ -333,6 +333,7 @@ const unidades = {
             { data: "16/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/16.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/16.jpg"] },
             { data: "17/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/17.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/17.jpg"] },
             { data: "20/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/20.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/20.jpg"] },
+            { data: "21/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/21.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/21.jpg"] },
 
 
 
@@ -1613,7 +1614,7 @@ const unidades = {
             { data: "15/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/15.jpeg"] },
             { data: "16/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/16.jpeg"] },
             { data: "17/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/17.jpeg"] },
-
+            { data: "21/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/21.jpeg"] },
 
 
 
@@ -3771,7 +3772,7 @@ const unidades = {
             { data: "16/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 16.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 16.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 16.jpg"] },
             { data: "17/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 17.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 17.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 17.jpg"] },
             { data: "20/10/20025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 20.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 20.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 20.jpg"] },
-            { data: "21/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 21.jpg"] },
+            { data: "21/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 21.jpgHH", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 21.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 21.jpg"] },
 
 
 
