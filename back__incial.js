@@ -827,7 +827,10 @@ const unidades = {
             { data: "16/10/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/OUTUBRO/16.jpg"] },
             { data: "17/10/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/OUTUBRO/17.jpg"] },
             { data: "20/10/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/OUTUBRO/20.jpg"] },
+            { data: "21/10/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/OUTUBRO/21.jpg"] },.
 
+
+            
 
             // { data: "", captura: ["", ""] },
 
