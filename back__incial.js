@@ -1360,7 +1360,7 @@ const unidades = {
             { data: "20/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/20-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/20-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/20-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/20-pt4.jpeg"] },
             { data: "21/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/21-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/21-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/21-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/21-pt4.jpeg"] },
             { data: "22/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/22-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/22-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/22-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/24-pt4.jpeg"] },
-
+            { data: "23/10/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/23-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/23-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/23-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/10-OUTUBRO/23-pt4.jpeg"] },
 
 
 
@@ -1630,7 +1630,7 @@ const unidades = {
             { data: "17/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/17.jpeg"] },
             { data: "21/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/21.jpeg"] },
             { data: "22/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/22.jpeg"] },
-            { data: "23/11/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/23.jpeg"] },
+            { data: "23/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/23.jpeg"] },
 
 
 
@@ -6207,7 +6207,7 @@ const unidades = {
             { data: "26/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/25 COLPANY.jpg"] },
             { data: "10/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/10 COLPANY.jpg"] },
             { data: "16/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/16 COLPANY.jpg"] },
-
+{ data: "", captura: [""] },
 
 
 
