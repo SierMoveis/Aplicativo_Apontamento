@@ -1905,6 +1905,7 @@ const unidades = {
             { data: "21/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/21.jpeg"] },
             { data: "22/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/22.jpeg"] },
             { data: "23/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/23.jpeg"] },
+            { data: "24/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/24.jpeg"] },
 
 
 
