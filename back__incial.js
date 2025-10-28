@@ -1913,7 +1913,7 @@ const unidades = {
             { data: "22/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/22.jpeg"] },
             { data: "23/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/23.jpeg"] },
             { data: "24/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/24.jpeg"] },
-            { data: "25/10/2025", captura: [""] },
+            { data: "27/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/27.jpeg"] },
 
 
 
@@ -2202,7 +2202,7 @@ const unidades = {
             { data: "22/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MONTAGEM US/22.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROLINHO/22.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROQUITE/22.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MM/22.jpg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/USINAGEM/22.jpg"] },
             { data: "23/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MONTAGEM US/23.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROLINHO/23.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROQUITE/23.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MM/23.jpg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/USINAGEM/23.jpg"] },
             { data: "24/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MONTAGEM US/24.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROLINHO/24.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROQUITE/24.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MM/24.jpg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/USINAGEM/27.jpeg"] },
-
+            { data: "27/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MONTAGEM US/27.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROLINHO/27.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/ROQUITE/27.jpeg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/MM/27.jpg", "capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/USINAGEM/27.jpeg"] },
 
             
 
@@ -2704,7 +2704,7 @@ const unidades = {
             { data: "22/10/2025", captura: ["capturas/Unidade 3/Usinagem/2025/10-OUTUBRO/22.jpg"] }, 
             { data: "23/10/2025", captura: ["capturas/Unidade 3/Usinagem/2025/10-OUTUBRO/23.jpg"] }, 
             { data: "24/10/2025", captura: ["capturas/Unidade 3/Usinagem/2025/10-OUTUBRO/24.jpg"] },
-
+            { data: "27/10/2025", captura: ["capturas/Unidade 3/Usinagem/2025/10-OUTUBRO/27.jpg"] },
 
 
 
