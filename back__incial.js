@@ -590,6 +590,7 @@ const unidades = {
             { data: "23/10/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/OUTUBRO/23.jpg"] },
             { data: "24/10/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/OUTUBRO/24.jpg"] },
             { data: "27/10/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/OUTUBRO/27.jpg"] },
+            { data: "28/10/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/OUTUBRO/28.jpg"] },
 
 
             // { data: "", captura: [""] },
