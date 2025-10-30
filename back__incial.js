@@ -339,6 +339,7 @@ const unidades = {
             { data: "24/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/24.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/24.jpg"] },
             { data: "27/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/27.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/27.jpg"] },
             { data: "28/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/28.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/28.jpg"] },
+            { data: "29/10/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/OUTUBRO/29.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/OUTUBRO/29.jpg"] },
 
 
 
@@ -3816,7 +3817,7 @@ const unidades = {
             { data: "25/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 25.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 25.jpg"] },
             { data: "27/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 27.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 27.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 27.jpg"] },
             { data: "28/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 28.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 28.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 28.jpg"] },
-            { data: "29/10/2025", captura: ["Aplicativo_Apontamento/capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 29.jpg", "Aplicativo_Apontamento/capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 29.jpg", "Aplicativo_Apontamento/capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 29.jpg"] },
+            { data: "29/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/MAQ 29.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/ITALP 29.jpg", "capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/HOME 29.jpg"] },
 
             
             // { data: "", captura: ["", "", ""] },
