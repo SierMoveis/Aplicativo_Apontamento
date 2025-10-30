@@ -1631,23 +1631,6 @@ const unidades = {
             { data: "29/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/29.jpg"] },
             { data: "30/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/30.jpg"] },
 
-            { data: "01/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/01.jpg"] },
-            { data: "02/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/02.jpg"] },
-            { data: "03/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/03.jpg"] },
-            { data: "07/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/07.jpg", "capturas/Unidade 2/Expedição/2025/10-OUTUBRO/EXPEDIÇÃO 07.jpeg"] },
-            { data: "08/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/08.jpeg"] },
-            { data: "09/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/09.jpeg"] },
-            { data: "10/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/10.jpeg"] },
-            { data: "13/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/13.jpeg"] },
-            { data: "14/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/14.jpeg"] },
-            { data: "15/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/15.jpeg"] },
-            { data: "16/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/16.jpeg"] },
-            { data: "17/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/17.jpeg"] },
-            { data: "21/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/21.jpeg"] },
-            { data: "22/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/22.jpeg"] },
-            { data: "23/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/23.jpeg"] },
-            { data: "24/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/24.jpeg"] },
-            { data: "27/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/27.jpeg"] },
             { data: "28/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/28.jpeg"] },
 
 
@@ -1909,7 +1892,8 @@ const unidades = {
             { data: "29/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/CNC/29.jpeg"] },
             { data: "30/09/2025", captura: ["capturas/Unidade 2/Usinagem/2025/09-SETEMBRO/CNC/30.jpeg"] },
 
-            
+            { data: "29/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/29.jpeg"] },
+
 
 
 
