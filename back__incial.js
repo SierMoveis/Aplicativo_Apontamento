@@ -1389,6 +1389,7 @@ const unidades = {
         ],
 
         Expedição: [
+
             { data: "30/11/2023", captura: ["capturas/Unidade 2/Expedição/11- Novembro/Telinha 30-11.png"] },
 
             { data: "20/12/2023", captura: ["capturas/Unidade 2/Expedição/12- Dezembro/20.png"] },
@@ -1593,59 +1594,21 @@ const unidades = {
             { data: "30/07/2025", captura: ["capturas/Unidade 2/Expedição/2025/07-JULHO/30.jpg"] },
             { data: "31/07/2025", captura: ["capturas/Unidade 2/Expedição/2025/07-JULHO/31.jpg"] },
             
-            { data: "01/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/01.jpg"] },
-            { data: "04/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/04.jpg"] },
-            { data: "05/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/05.jpg"] },
-            { data: "06/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/06.jpg"] },
-            { data: "07/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/07.jpg"] },
-            { data: "08/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/08.jpg"] },
-            { data: "11/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/11.jpg"] },
-            { data: "12/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/12.jpg"] },
-            { data: "13/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/13.jpg"] },
-            { data: "14/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/14.jpg"] },
-            { data: "15/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/15.jpg"] },
-            { data: "18/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/18.jpg"] },
-            { data: "19/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/19.jpg"] },
-            { data: "20/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/20.jpg"] },
-            { data: "21/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/21.jpg"] },
-            { data: "22/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/22.jpg"] },
-            { data: "25/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/25.jpg"] },
-            { data: "26/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/26.jpg"] },
-            { data: "27/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/27.jpg"] },
+            
             { data: "29/08/2025", captura: ["capturas/Unidade 2/Expedição/2025/08-AGOSTO/29.jpg"] },
 
-            { data: "01/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/01.jpg"] },
-            { data: "02/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/02.jpg"] },
-            { data: "03/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/03.jpg"] },
-            { data: "04/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/04.jpg"] },
-            { data: "05/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/05.jpg"] },
-            { data: "08/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/08.jpg"] },
-            { data: "09/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/09.jpg"] },
-            { data: "10/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/10.jpg"] },
-            { data: "11/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/11.jpg"] },
-            { data: "12/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/12.jpg"] },
-            { data: "15/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/15.jpg"] },
-            { data: "16/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/16.jpg"] },
-            { data: "17/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/17.jpg"] },
-            { data: "18/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/18.jpg"] },
-            { data: "22/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/22.jpg"] },
-            { data: "23/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/23.jpg"] },
-            { data: "24/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/24.jpg"] },
-            { data: "25/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/25.jpg"] },
-            { data: "26/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/26.jpg"] },
-            { data: "29/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/29.jpg"] },
             { data: "30/09/2025", captura: ["capturas/Unidade 2/Expedição/2025/09-SETEMBRO/30.jpg"] },
 
-            { data: "28/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/28.jpeg"] },
-            { data: "29/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/29.jpeg"] },
-
+            
+            { data: "29/10/2025", captura: ["capturas/Unidade 2/Expedição/2025/10-OUTUBRO/29.jpg"] },
 
 
 
 
             // { data: "", captura: [""] },
-            // { data: "", captura: ["", ""] },
+            
         ],
+
 
         CNC: [
             { data: "30/11/2023", captura: ["capturas/Unidade 2/Usinagem/11- Novembro/CNC/CNC-30_pt1.png", "capturas/Unidade 2/Usinagem/11- Novembro/CNC/CNC-30_pt2.png"] },
