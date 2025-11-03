@@ -1869,6 +1869,7 @@ const unidades = {
             { data: "30/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/30.jpeg"] },
             { data: "31/10/2025", captura: ["capturas/Unidade 2/Usinagem/2025/10-OUTUBRO/CNC/31.jpeg"] },
 
+            { data: "01/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/01.jpeg"] },
 
 
 
