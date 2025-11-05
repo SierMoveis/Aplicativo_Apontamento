@@ -2420,7 +2420,7 @@ const unidades = {
             { data: "30/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/30 pt01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/SETEMBRO/30 pt02.jpg"] },
             { data: "31/10/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/31 PT1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/OUTUBRO/31 PT2.jpg"] },
 
-
+            { data: "04/11/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/04-pt1.jpeg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/04-pt2.jpeg"] },
 
             
 
