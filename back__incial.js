@@ -2924,7 +2924,7 @@ const unidades = {
             { data: "30/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/29.jpg"] },
             { data: "31/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/31.jpg"] },
 
-
+            { data: "05/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/NOVEMBRO/05.jpeg"] },
 
             // { data: "", captura: [""] },
 
