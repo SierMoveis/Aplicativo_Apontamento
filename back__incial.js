@@ -602,7 +602,7 @@ const unidades = {
             { data: "31/10/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/OUTUBRO/31.jpg"] },
 
             { data: "05/11/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/NOVEMBRO/05.jpg"] },
-
+            { data: "06/11/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/NOVEMBRO/06.jpg"] },
 
 
 
