@@ -1118,6 +1118,10 @@ const unidades = {
             { data: "31/10/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/OUTUBRO/31.jpg"] },
 
             { data: "05/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/05.jpg"] },
+            { data: "06/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/06.jpg"] },
+
+
+
 
 
             // { data: "", captura: [""] },
