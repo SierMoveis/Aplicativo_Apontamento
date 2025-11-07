@@ -1894,6 +1894,7 @@ const unidades = {
             { data: "03/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/03.jpeg"] },
             { data: "04/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/04.jpeg"] },
             { data: "05/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/05.jpeg"] },
+            { data: "06/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/06.jpeg"] },
 
 
 
@@ -2191,7 +2192,7 @@ const unidades = {
             { data: "03/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MONTAGEM US/03.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROLINHO/03.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROQUITE/03.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MM/03.jpg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/USINAGEM/03.jpg"] },
             { data: "04/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MONTAGEM US/04.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROLINHO/04.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROQUITE/04.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MM/04.jpg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/USINAGEM/04.jpg"] },
             { data: "05/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MONTAGEM US/05.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROLINHO/05.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROQUITE/05.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MM/05.jpg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/USINAGEM/05.jpg"] },
-
+            { data: "06/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MONTAGEM US/06.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROLINHO/06.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/ROQUITE/06.jpeg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/MM/06.jpg", "capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/USINAGEM/06.jpg"] },
 
 
 
@@ -2705,7 +2706,7 @@ const unidades = {
             { data: "03/11/2025", captura: ["capturas/Unidade 3/Usinagem/2025/11-NOVEMBRO/03.jpg"] }, 
             { data: "04/11/2025", captura: ["capturas/Unidade 3/Usinagem/2025/11-NOVEMBRO/04.jpg"] }, 
             { data: "05/11/2025", captura: ["capturas/Unidade 3/Usinagem/2025/11-NOVEMBRO/05.jpg"] }, 
-
+            { data: "06/11/2025", captura: ["capturas/Unidade 3/Usinagem/2025/11-NOVEMBRO/06.jpg"] },
 
 
 
@@ -3509,7 +3510,7 @@ const unidades = {
             { data: "31/07/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/JULHO/GABIANNE JULHO.jpg"] },
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/AGOSTO/GABIANNE.jpg"] },
             { data: "30/09/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/SETEMBRO/gabianne.jpg"] },
-            { data: "31/10/2025", captura: [""] },  
+            { data: "31/10/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/OUTUBRO/GABIANNE.jpg"] },  
 
             
             // { data: "", captura: [""] },
@@ -6609,8 +6610,8 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/JUNHO.jpg"] },
             { data: "31/07/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/JULHO.jpg"] },
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/AGOSTO.jpg"] },
-            { data: "30/09/2025", captura: ["capturas/Unidade 4/Consumo/2025/SETEMBRO 2025.jpg"] },
-            { data: "31/10/2025", captura: [""] },     
+            { data: "30/09/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/SETEMBRO 2025.jpg"] },
+            { data: "31/10/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/OUTUBRO.jpg"] },     
             
             
 
@@ -6680,8 +6681,8 @@ const unidades = {
             { data: "30/06/2025", captura: ["capturas/Unidade 4/Consumo/2025/JUNHO.jpg"] },
             { data: "31/07/2025", captura: ["capturas/Unidade 4/Consumo/2025/JULHO.jpg"] },
             { data: "29/08/2025", captura: ["capturas/Unidade 4/Consumo/2025/AGOSTO.jpg"] },
-            
-            
+            { data: "30/09/2025", captura: ["capturas/Unidade 4/Consumo/2025/SETEMBRO 2025.jpg"] },
+            { data: "31/10/2025", captura: ["capturas/Unidade 4/Consumo/2025/OUTUBRO 2025.jpg"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
