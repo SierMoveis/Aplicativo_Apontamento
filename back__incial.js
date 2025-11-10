@@ -345,6 +345,7 @@ const unidades = {
 
             
             { data: "05/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/05.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/05.jpg"] },
+            { data: "06/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/06.jpg", "capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/07.jpg"] },
 
 
 
@@ -6286,10 +6287,12 @@ const unidades = {
             { data: "11/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/11 COLPANY.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/18 COLPANY.jpg"] },
             { data: "26/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/25 COLPANY.jpg"] },
+
             { data: "10/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/10 COLPANY.jpg"] },
             { data: "16/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/16 COLPANY.jpg"] },
             { data: "24/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/24 COLPANY.jpg"] },
-
+            
+            { data: "07/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/07 COLPANY.jpg"] },
 
 
 
@@ -6408,11 +6411,14 @@ const unidades = {
             { data: "11/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/11 FAST.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/18 FAST.jpg"] },
             { data: "26/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/25 FAST.jpg"] },
+
             { data: "10/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/10 fast.jpg"] },
             { data: "16/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/16 FAST.jpg"] },
             { data: "24/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/24 FAST.jpg"] },
             
+            { data: "07/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/07 fast.jpg"] },
 
+            
 
             // { data: "", captura: [""] },
 
@@ -6527,10 +6533,12 @@ const unidades = {
             { data: "11/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/11 COLPANY.jpg", "capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/11 FAST.jpg"] },
             { data: "18/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/18 FAST.jpg", "capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/18 COLPANY.jpg"] },
             { data: "26/09/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/25 FAST.jpg", "capturas/Qualidade fornecedor/vidros/2025/SETEMBRO/25 COLPANY.jpg"] },
+
             { data: "10/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/10 fast.jpg", "capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/10 COLPANY.jpg"] },
             { data: "16/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/16 FAST.jpg", "capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/16 COLPANY.jpg"] },
             { data: "24/10/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/24 FAST.jpg", "capturas/Qualidade fornecedor/vidros/2025/OUTUBRO/24 COLPANY.jpg"] },//
-
+           
+            { data: "07/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/07 fast.jpg", "capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/07 COLPANY.jpg"] },
 
             
 
