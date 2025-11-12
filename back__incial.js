@@ -1914,6 +1914,7 @@ const unidades = {
             { data: "06/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/06.jpeg"] },
             { data: "07/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/07.jpeg"] },
             { data: "10/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/10.jpeg"] },
+            { data: "11/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/11.jpeg"] },
 
 
 
