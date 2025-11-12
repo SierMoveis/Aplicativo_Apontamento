@@ -346,7 +346,7 @@ const unidades = {
             
             { data: "05/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/05.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/05.jpg"] },
             { data: "06/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/06.jpg", "capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/07.jpg"] },
-
+            { data: "11/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/11.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/11.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -1120,6 +1120,7 @@ const unidades = {
 
             { data: "05/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/05.jpg"] },
             { data: "06/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/06.jpg"] },
+            { data: "11/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/11.jpg"] },
 
 
 
