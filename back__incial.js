@@ -350,6 +350,7 @@ const unidades = {
             { data: "12/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/12.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/12.jpg"] },
             { data: "13/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/NOVEMBRO/13.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/13.jpg"] },
             { data: "14/11/2025", captura: ["capturas/Unidade 1/2025/Expedição/Embalagem/NOVEMBRO/14.jpg", ""] },
+            { data: "17/11/2025", captura: ["", ""] },
 
             
 
@@ -613,6 +614,8 @@ const unidades = {
             { data: "12/11/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/NOVEMBRO/12.jpg"] },
             { data: "13/11/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/NOVEMBRO/13.jpg"] },
             { data: "14/11/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/NOVEMBRO/14.jpg"] },
+            { data: "17/11/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/NOVEMBRO/17.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -874,6 +877,7 @@ const unidades = {
             { data: "12/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/12.jpg"] },
             { data: "13/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/13.jpg"] },
             { data: "14/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/14.jpg"] },
+            { data: "17/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/17.jpg"] },
 
 
 
@@ -1137,7 +1141,9 @@ const unidades = {
             { data: "12/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/12.jpg"] },
             { data: "13/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/13.jpg"] },
             { data: "14/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/14.jpg"] },
+            { data: "17/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/NOVEMBRO/17.jpg"] },
 
+            
 
 
             // { data: "", captura: [""] },
