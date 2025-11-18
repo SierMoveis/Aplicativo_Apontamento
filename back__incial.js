@@ -1937,6 +1937,7 @@ const unidades = {
             { data: "12/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/12.jpeg"] },
             { data: "13/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/13.jpeg"] },
             { data: "14/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/14.jpeg"] },
+            { data: "17/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/17.jpeg"] },
 
 
 
