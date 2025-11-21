@@ -3009,7 +3009,7 @@ const unidades = {
             { data: "14/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/NOVEMBRO/14.jpg"] },
             { data: "17/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/NOVEMBRO/17.jpg"] },
             { data: "18/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/NOVEMBRO/18.jpg"] },
-
+            { data: "19/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/NOVEMBRO/19.jpg"] },
 
 
 
@@ -3207,6 +3207,10 @@ const unidades = {
             { data: "14/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/NOVEMBRO/14.jpg"] },
             { data: "17/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/NOVEMBRO/17.jpg"] },
             { data: "18/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/NOVEMBRO/18.jpg"] },
+            { data: "19/11/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/NOVEMBRO/19.jpg"] },
+
+
+
 
 
              // { data: "", captura: [""] },
@@ -3953,6 +3957,10 @@ const unidades = {
             { data: "14/11/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/14 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/14 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/14 HOME.jpg"] },
             { data: "17/11/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/17 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/17 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/17 HOME.jpg"] },
             { data: "18/11/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/18 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/18 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/18 HOME.jpg"] },
+            { data: "19/11/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/19 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/19 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/NOVEMBRO/19 MAQ.jpg"] },
+
+
+
 
 
             // { data: "", captura: ["", "", ""] },
