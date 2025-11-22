@@ -1959,7 +1959,7 @@ const unidades = {
             { data: "17/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/17.jpeg"] },
             { data: "18/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/18.jpeg"] },
             { data: "19/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/19.jpeg"] },
-
+            { data: "21/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/21.jpeg"] },
 
 
 
