@@ -2542,7 +2542,7 @@ const unidades = {
             { data: "21/11/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/21 pt1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/21 pt2.jpg"] },
             { data: "22/11/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/22 pt1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/22 pt2.jpg"] },
             { data: "24/11/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/24 pt1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/24 pt2.jpg"] },
-
+            { data: "25/11/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/25 pt1.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/NOVEMBRO/25 pt2.jpg"] },
 
 
 
