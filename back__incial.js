@@ -3465,6 +3465,7 @@ const unidades = {
             { data: "10/06/2024", captura: ["capturas/Metas produção/Unidade 2/2024/QuadroMetas/6- Junho/10.png"] },
             { data: "11/06/2024", captura: ["capturas/Metas produção/Unidade 2/2024/QuadroMetas/6- Junho/11.png"] },
 
+            { data: "26/11/2025", captura: ["capturas/Metas produção/Unidade 2/2025/METAS DO QUADRO/26.jPEG"] },
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
