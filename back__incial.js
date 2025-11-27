@@ -1990,6 +1990,7 @@ const unidades = {
             { data: "22/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/22.jpeg"] },
             { data: "24/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/24.jpeg"] },
             { data: "25/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/25.jpeg"] },
+            { data: "26/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/26.jpeg"] },
 
 
 
