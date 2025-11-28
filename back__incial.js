@@ -902,7 +902,7 @@ const unidades = {
             { data: "24/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/24.jpg"] },
             { data: "25/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/25.jpg"] },
             { data: "26/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/26.jpg"] },
-            { data: "27/11/2025", captura: [""] },
+            { data: "27/11/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/11 NOVEMBRO/27.jpg"] },
 
 
 
