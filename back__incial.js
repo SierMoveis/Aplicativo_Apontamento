@@ -1488,7 +1488,7 @@ const unidades = {
             { data: "26/11/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/26-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/26-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/26-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/26-pt4.jpeg"] },
             { data: "27/11/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/27-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/27-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/27-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/27-pt4.jpeg"] },
             { data: "28/11/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/28-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/28-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/28-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/28-pt4.jpeg"] },
-            { data: "29/11/2025", captura: ["", "", "", ""] },
+            { data: "29/11/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/29-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/29-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/29-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/11-NOVEMBRO/29-pt4.jpeg"] },
 
 
 
