@@ -2019,6 +2019,7 @@ const unidades = {
             { data: "28/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/28.jpeg"] },
             { data: "29/11/2025", captura: ["capturas/Unidade 2/Usinagem/2025/11-NOVEMBRO/CNC/29.jpeg"] },
 
+            { data: "01/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/CNC/01.JPEG"] },
 
 
 
