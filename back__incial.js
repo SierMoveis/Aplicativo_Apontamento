@@ -2630,7 +2630,7 @@ const unidades = {
             
             { data: "03/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/03 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/03 PT02.jpg"] },
             { data: "04/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/04 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/04 PT02.jpg"] },
-
+            { data: "05/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/05 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/05 PT02.jpg"] },
 
 
 
@@ -6627,6 +6627,7 @@ const unidades = {
             { data: "22/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/22 colpa.jpg"] },
             { data: "29/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/29 colpa.jpg"] },
 
+            { data: "06/12/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/DEZEMBRO/06 colpa.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -6753,6 +6754,7 @@ const unidades = {
             { data: "22/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/22 fast.jpg"] },
             { data: "29/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/29 fast.jpg"] },
 
+            { data: "06/12/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/DEZEMBRO/06 FAST.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -6877,6 +6879,10 @@ const unidades = {
             { data: "13/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/13 fast.jpg", "capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/13 colpa.jpg"] },
             { data: "22/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/22 colpa.jpg", "capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/22 fast.jpg"] },
             { data: "29/11/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/29 colpa.jpg", "capturas/Qualidade fornecedor/vidros/2025/NOVEMBRO/29 fast.jpg"] },
+
+            { data: "06/12/2025", captura: ["capturas/Qualidade fornecedor/vidros/2025/DEZEMBRO/06 FAST.jpg", "capturas/Qualidade fornecedor/vidros/2025/DEZEMBRO/06 colpa.jpg"] },
+
+
 
 
             // { data: "", captura: ["", ""] },
