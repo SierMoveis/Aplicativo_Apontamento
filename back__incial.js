@@ -1763,7 +1763,7 @@ const unidades = {
             { data: "02/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/02.jpeg"] },
             { data: "03/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/03.jpeg"] },
             { data: "04/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/04.jpeg"] },
-
+            { data: "05/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/05.jpeg"] },
 
 
 
