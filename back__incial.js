@@ -1541,6 +1541,8 @@ const unidades = {
             { data: "10/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/10-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/10-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/10-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/10-pt4.jpeg"] },
             { data: "11/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/11-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/11-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/11-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/11-pt4.jpeg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/12-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/12-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/12-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/12-pt4.jpeg"] },
+            { data: "13/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/13-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/13-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/13-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/13-pt4.jpeg"] },
+
 
 
 
