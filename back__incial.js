@@ -372,6 +372,9 @@ const unidades = {
             { data: "10/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/10.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/10.jpg"] },
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/11.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/12.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/12.jpg"] },
+            { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/13.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/13.jpg"] },
+
+
 
 
             // { data: "", captura: ["", ""] },
@@ -937,6 +940,8 @@ const unidades = {
             { data: "10/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/10.jpg"] },
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/12.jpg"] },
+            { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/13.jpg"] },
+
 
 
             // { data: "", captura: ["" , ""] },
@@ -3231,7 +3236,7 @@ const unidades = {
             { data: "10/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/10.jpg"] },
             { data: "11/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/12.jpg"] },
-
+            { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/13.jpg"] },
 
 
 
@@ -3449,7 +3454,7 @@ const unidades = {
             { data: "10/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/10.jpg"] },
             { data: "11/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/12.jpg"] },
-
+            { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/14.jpg"] },
 
 
              // { data: "", captura: [""] },
@@ -4220,6 +4225,10 @@ const unidades = {
             { data: "10/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/10 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/10 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/10 MAQ.jpg"] },
             { data: "11/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/11 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/11 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/11 MAQ.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/12 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/12 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/12 MAQ..jpg"] },
+            { data: "13/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 HOME.jpg"] },
+            { data: "14/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 MAQ..jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 HOME.jpg"] },
+
+
 
             // { data: "", captura: ["", "", ""] },
 
