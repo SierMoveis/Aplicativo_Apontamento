@@ -373,7 +373,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/11.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/12.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/13.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/13.jpg"] },
-
+            { data: "14/12/2025", captura: ["", ""] },
 
 
 
@@ -3244,7 +3244,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/13.jpg"] },
-            { data: "14/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/15.jpg"] },
+            { data: "15/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/15.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -3462,6 +3462,8 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/14.jpg"] },
+            { data: "15/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/15.jpg"] },
+
 
 
              // { data: "", captura: [""] },
@@ -4234,7 +4236,7 @@ const unidades = {
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/12 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/12 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/12 MAQ..jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 HOME.jpg"] },
             { data: "14/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 MAQ..jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 HOME.jpg"] },
-
+            { data: "15/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/15 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/15 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/15 MAQ.jpg"] },
 
 
             // { data: "", captura: ["", "", ""] },
