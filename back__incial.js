@@ -373,7 +373,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/11.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/12.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/13.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/13.jpg"] },
-            { data: "14/12/2025", captura: ["", ""] },
+            { data: "15/12/2025", captura: ["capturas/Unidade 1/2025/Expedição/MetasTv/12 DEZEMBRO/15.jpg", "capturas/Unidade 1/2025/Expedição/Embalagem/12 DEZEMBRO/15.jpg"] },
 
 
 
@@ -943,7 +943,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/13.jpg"] },
-            { data: "15/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/15.jpg"] },
+            { data: "15/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/15.jpg" ,"capturas/Unidade 1/2025/Usinagem/Cnc/DEZ/15.jpg"] },
 
 
             // { data: "", captura: ["" , ""] },
@@ -2689,7 +2689,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/11 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/11 PT02.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/12 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/12 PT02.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/13 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/13 PT02.jpg"] },
-
+            { data: "15/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/15 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/15 PT02.jpg"] },
 
 
 
