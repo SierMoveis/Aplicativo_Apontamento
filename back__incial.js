@@ -660,7 +660,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/DEZEMBRO/13.jpg"] },
-
+            { data: "15/12/2025", captura: ["capturas/Unidade 1/2025/ACABAMENTO 2025/DEZEMBRO/15.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -943,7 +943,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/13.jpg"] },
-
+            { data: "15/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Filetação/12 DEZEMBRO/15.jpg"] },
 
 
             // { data: "", captura: ["" , ""] },
@@ -1229,7 +1229,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/12 dezembro/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/12 dezembro/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/12 dezembro/13.jpg"] },
-
+            { data: "15/12/2025", captura: ["capturas/Unidade 1/2025/Usinagem/Montagem/12 dezembro/15.jpg"] },
             
 
             // { data: "", captura: [""] },
@@ -2429,6 +2429,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/11.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/11.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/11.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/11.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/12.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/12.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/12.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/12.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/13.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/13.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/13.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/13.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/13.jpg"] },
+            { data: "15/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/15.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/15.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/15.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/15.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/15.jpg"] },
 
 
 
@@ -2998,7 +2999,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/13.jpg"] }, 
-
+            { data: "15/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/15.jpg"] },
 
 
 
@@ -3243,7 +3244,7 @@ const unidades = {
             { data: "11/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/11.jpg"] },
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/13.jpg"] },
-
+            { data: "14/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/15.jpg"] },
 
 
             // { data: "", captura: [""] },
