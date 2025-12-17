@@ -2431,7 +2431,7 @@ const unidades = {
             { data: "12/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/12.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/12.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/12.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/12.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/13.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/13.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/13.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/13.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/13.jpg"] },
             { data: "15/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/15.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/15.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/15.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/15.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/15.jpg"] },
-
+            { data: "16/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/16.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/16.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/16.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/16.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/16.jpg"] },
 
 
 
@@ -3001,7 +3001,7 @@ const unidades = {
             { data: "12/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/13.jpg"] }, 
             { data: "15/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/15.jpg"] },
-
+            { data: "16/12/2025", captura: ["capturas/Unidade 3/Usinagem/2025/12-DEZEMBRO/16.jpg"] }, 
 
 
 
@@ -3246,6 +3246,7 @@ const unidades = {
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/13.jpg"] },
             { data: "15/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/15.jpg"] },
+            { data: "16/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/12-DEZEMBRO/16.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -3464,7 +3465,7 @@ const unidades = {
             { data: "12/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/12.jpg"] },
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/14.jpg"] },
             { data: "15/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/15.jpg"] },
-
+            { data: "16/12/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Prensas/12 DEZEMBRO/16.jpg"] },
 
 
              // { data: "", captura: [""] },
@@ -4238,6 +4239,7 @@ const unidades = {
             { data: "13/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 MAQ.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/13 HOME.jpg"] },
             { data: "14/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 MAQ..jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/14 HOME.jpg"] },
             { data: "15/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/15 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/15 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/15 MAQ.jpg"] },
+            { data: "16/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/16 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/16 ITALP.jpg", "capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/16 MAQ.jpg"] },
 
 
             // { data: "", captura: ["", "", ""] },
