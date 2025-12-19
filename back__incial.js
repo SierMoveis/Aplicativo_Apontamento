@@ -2449,6 +2449,8 @@ const unidades = {
             { data: "16/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/16.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/16.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/16.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/16.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/16.jpg"] },
             { data: "17/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/17.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/17.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/17.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/17.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/17.jpg"] },
             { data: "18/12/2025", captura: ["capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MONTAGEM US/18.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROLINHO/18.jpeg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/ROQUITE/18.JPEG", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/MM/18.jpg", "capturas/Unidade 2/Usinagem/2025/12-DEZEMBRO/USINAGEM/18.jpg"] },
+            
+
 
 
 
@@ -2709,7 +2711,7 @@ const unidades = {
             { data: "13/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/13 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/13 PT02.jpg"] },
             { data: "15/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/15 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/15 PT02.jpg"] },
             { data: "16/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/16 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/16 PT02.jpg"] },
-
+            { data: "18/12/2025", captura: ["capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/18 PT01.jpg", "capturas/Unidade 2/Acabamento/2025/ACABAMENTO/DEZEMBRO/18 PT02.jpg"] },
 
 
 
