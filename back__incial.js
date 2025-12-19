@@ -1820,6 +1820,12 @@ const unidades = {
             { data: "15/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/15.jpeg"] },
             { data: "16/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/16.jpeg"] },
             { data: "17/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/17.jpeg"] },
+            { data: "18/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/18.jpeg"] },
+
+
+
+
+
 
 
 
