@@ -1283,7 +1283,8 @@ const unidades = {
 
             
             { data: "19/12/2025", captura: ["capturas/Unidade 2/Expedição/2025/12-DEZEMBRO/19.jpeg"] },
-
+            
+            { data: "07/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/07.JPEG"] },
 
 
 
