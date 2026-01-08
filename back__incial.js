@@ -1264,7 +1264,7 @@ const unidades = {
             
             { data: "19/12/2025", captura: ["capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/19-pt1.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/19-pt2.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/19-pt3.jpeg", "capturas/Unidade 2/Estofaria/2025/Estofaria/12-DEZEMBRO/19-pt4.jpeg"] },
 
-
+            { data: "06/12/2026", captura: ["capturas/Unidade 2/Estofaria/2026/01-JANEIRO/06-pt1.jpeg", "capturas/Unidade 2/Estofaria/2026/01-JANEIRO/06-pt2.jpeg", "capturas/Unidade 2/Estofaria/2026/01-JANEIRO/06-pt3.jpeg", "capturas/Unidade 2/Estofaria/2026/01-JANEIRO/06-pt4.jpeg"] },
 
 
 
