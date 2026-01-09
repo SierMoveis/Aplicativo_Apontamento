@@ -1346,6 +1346,7 @@ const unidades = {
 
             { data: "06/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/06-pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/06-pt2.jpeg"] },
             { data: "07/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/07-pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/07-pt2.jpeg"] },
+            { data: "08/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/08-pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/08-pt2.jpeg"] },
 
 
 
