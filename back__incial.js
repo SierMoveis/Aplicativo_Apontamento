@@ -286,7 +286,7 @@ const unidades = {
             { data: "06/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/06.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/06.jpg"] },
             { data: "07/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/07.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/07.jpg"] },
             { data: "08/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/08.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/08.jpg"] },
-            { data: "08/01/2026", captura: ["" , ""] },
+            { data: "12/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/12.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/12.jpg"] },
 
 
 
@@ -357,6 +357,7 @@ const unidades = {
             { data: "07/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/07.jpg"] },
             { data: "08/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/08.jpg"] },
             { data: "09/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/09.jpg"] },
+            { data: "12/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/12.jpg"] },
 
 
 
