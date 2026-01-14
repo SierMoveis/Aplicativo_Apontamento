@@ -147,6 +147,7 @@ const unidades = {
             { data: "08/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/08.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/08.jpg"] },
             { data: "09/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/09.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/09.jpg"] },
             { data: "12/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/12.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/12.jpg"] },
+           
 
 
             // { data: "", captura: ["", ""] },
@@ -442,6 +443,7 @@ const unidades = {
             { data: "08/01/2026", captura: ["capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MONTAGEM US/08.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROLINHO/08.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROQUITE/08.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MM/08.jpg", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/USINAGEM/08.jpg"] },
             { data: "09/01/2026", captura: ["capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MONTAGEM US/09.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROLINHO/09.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROQUITE/09.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MM/09.jpg", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/USINAGEM/09.jpg"] },
             { data: "12/01/2026", captura: ["capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MONTAGEM US/12.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROLINHO/12.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROQUITE/12.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MM/12.jpg", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/USINAGEM/12.jpg"] },
+            { data: "13/01/2025", captura: ["capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MONTAGEM US/13.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROLINHO/13.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/ROQUITE/13.JPEG", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/MM/13.jpg", "capturas/Unidade 2/Usinagem/2026/01-JANEIRO/USINAGEM/13.jpg"] },
 
 
 
