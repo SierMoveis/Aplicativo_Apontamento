@@ -370,6 +370,7 @@ const unidades = {
             { data: "09/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/09.jpg"] },
             { data: "12/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/12.jpg"] },
             { data: "13/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/13.jpg"] },
+            { data: "14/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/14.jpg"] },
 
 
 
