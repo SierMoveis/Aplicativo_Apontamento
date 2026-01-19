@@ -2008,9 +2008,7 @@ const unidades = {
             { data: "19/12/2025", captura: ["capturas/Retrabalhos/2025/DEZEMBRO/Unidade 1/Usinagem/18 pt01.jpg", "capturas/Retrabalhos/2025/DEZEMBRO/Unidade 1/Usinagem/18 pt02.jpg", "capturas/Retrabalhos/2025/DEZEMBRO/Unidade 1/Usinagem/18 pt03.jpg", "capturas/Retrabalhos/2025/DEZEMBRO/Unidade 1/Usinagem/18 pt04.jpg", "capturas/Retrabalhos/2025/DEZEMBRO/Unidade 1/Usinagem/18g.jpg"] },
 
            { data: "09/01/2026", captura: ["capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/09 pt01.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/09 pt02.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/09 pt03.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/09 pt04.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/09 g.jpg"] },
-           { data: "16/01/2026", captura: ["capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/13  pt01.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/13  pt02.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/13  pt03.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/13  pt04.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 1/Usinagem/13 g.jpg"] },
-
-
+           { data: "16/01/2026", captura: ["capturas/Retrabalhos/2026/1 JANEIRO/Unidade 2/Usinagem/16 pt1.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 2/Usinagem/16 pt2.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 2/Usinagem/16 pt3.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 2/Usinagem/16 pt4.jpg", "capturas/Retrabalhos/2026/1 JANEIRO/Unidade 2/Usinagem/16 g.jpg"] },
 
 
            //{ data: "", captura: ["", "", "", "", ""] },
