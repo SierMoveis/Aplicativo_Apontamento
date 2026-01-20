@@ -422,6 +422,7 @@ const unidades = {
             { data: "14/01/2025", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/14.JPEG"] },
             { data: "15/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/15.JPEG"] },
             { data: "16/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/16.JPEG"] },
+            { data: "19/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/19.JPEG"] },
 
 
 
