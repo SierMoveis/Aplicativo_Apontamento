@@ -499,6 +499,11 @@ const unidades = {
             { data: "13/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/13 pt1.jpg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/13 pt2.jpg"] },
             { data: "14/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/14 pt1.jpg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/14 pt2.jpg"] },
             { data: "15/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/15 pt1.jpg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/15 pt.jpg"] },
+            { data: "19/01/2026", captura: ["capturas/Unidade 2/Acabamento/2026/01-JANEIRO/19-pt1.jpg", "capturas/Unidade 2/Acabamento/2026/01-JANEIRO/19-pt2.jpg"] },
+
+
+
+
 
 
             // { data: "", captura: ["", ""] },
