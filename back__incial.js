@@ -154,6 +154,9 @@ const unidades = {
             { data: "19/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/19.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/19.jpg"] },
             { data: "20/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/20.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/20.jpg"] },
             { data: "21/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/21.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/21.jpg"] },
+            { data: "22/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Expedição/MetasTv/22.jpg", "capturas/Unidade 1/2026/janeiro/Expedição/Embalagem/22.jpg"] },
+
+
 
             // { data: "", captura: ["", ""] },
 
@@ -309,7 +312,7 @@ const unidades = {
             { data: "19/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/19.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/19.jpg"] },
             { data: "20/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/20.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/20.jpg"] },
             { data: "21/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/21.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/21.jpg"] },
-            
+            { data: "22/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Filetação/22.jpg" , "capturas/Unidade 1/2026/janeiro/Usinagem/Cnc/22.jpg"] },
 
             
             // { data: "", captura: ["" , ""] },
@@ -387,6 +390,7 @@ const unidades = {
             { data: "19/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/19.jpg"] },
             { data: "20/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/20.jpg"] },
             { data: "21/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/21.jpg"] },
+            { data: "22/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/22.jpg"] },
 
 
             // { data: "", captura: [""] },
