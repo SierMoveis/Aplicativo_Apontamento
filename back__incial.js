@@ -444,6 +444,8 @@ const unidades = {
             { data: "20/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/20.JPEG"] },
             { data: "21/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/21.JPEG"] },
             { data: "22/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/22.JPEG"] },
+            { data: "23/01/2026", captura: ["capturas/Unidade 2/Expedição/2026/01-JANEIRO/23.JPEG"] },
+
 
 
 
