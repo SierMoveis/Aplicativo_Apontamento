@@ -229,16 +229,7 @@ const unidades = {
             { data: "09/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/09.jpg"] },
             { data: "12/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/12.jpg"] },
             { data: "13/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/13.jpg"] },
-            { data: "14/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/14.jpg"] },
-            { data: "15/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/15.jpg"] },
-            { data: "16/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/16.jpg"] },
-            { data: "19/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/19.jpg"] },
-            { data: "20/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/20.jpg"] },
-            { data: "21/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/21.jpg"] },
-            { data: "22/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/22.jpg"] },
-            { data: "26/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/26.jpg"] },
-            { data: "27/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/27.jpg"] },
-            { data: "28/01/2026", captura: [""] },
+            { data: "28/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Acabamento/28.jpg"] },
 
             
 
