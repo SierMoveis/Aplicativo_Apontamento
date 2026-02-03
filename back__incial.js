@@ -500,7 +500,7 @@ const unidades = {
             { data: "30/01/2026", captura: ["capturas/Unidade 2/Usinagem/2026/01-JANEIRO/CNC/30.JPEG"] },
 
             { data: "01/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/01.JPG"] },
-
+            { data: "02/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/02.JPG"] },
             
 
             // { data: "", captura: ["", "", "", "", ""] },
