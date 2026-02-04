@@ -402,7 +402,7 @@ const unidades = {
             { data: "29/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/29.jpg"] },
             { data: "30/01/2026", captura: ["capturas/Unidade 1/2026/janeiro/Usinagem/Montagem/30.jpg"] },
 
-
+            { data: "03/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Usinagem/Montagem/063.jpg"] },
 
 
             // { data: "", captura: [""] },
