@@ -523,7 +523,7 @@ const unidades = {
             { data: "03/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/03.JPG"] },
             { data: "04/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/04.jpeg"] },
             { data: "05/02/2025", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/05.jpeg"] },
-
+            { data: "06/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/06.jpeg"] },
 
 
 
@@ -549,7 +549,7 @@ const unidades = {
             { data: "03/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/03.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/03.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/03.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/03.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/03.JPG"] },
             { data: "04/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/04.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/04.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/04.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/04.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/04.JPG"] },
             { data: "05/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/05.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/05.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/05.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/05.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/05.JPG"] },
-
+            { data: "", captura: ["", "", "", "", ""] },
 
 
             ],
