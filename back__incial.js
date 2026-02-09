@@ -326,6 +326,7 @@ const unidades = {
             { data: "03/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Usinagem/Filetação/03.jpg" , "capturas/Unidade 1/2026/fevereiro/cnc/03.jpg"] },
             { data: "04/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/cnc/04.jpeg" , "capturas/Unidade 1/2026/fevereiro/Usinagem/Filetação/04.jpeg"] },
             { data: "05/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/cnc/05.jpeg" , "capturas/Unidade 1/2026/fevereiro/Usinagem/Filetação/05.jpeg"] },
+            { data: "06/01/2026", captura: ["capturas/Unidade 1/2026/fevereiro/cnc/06.jpeg" , "capturas/Unidade 1/2026/fevereiro/Usinagem/Filetação/06.jpeg"] },
 
 
             // { data: "", captura: ["" , ""] },
