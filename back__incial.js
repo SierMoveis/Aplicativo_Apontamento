@@ -243,6 +243,8 @@ const unidades = {
             { data: "03/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Acabamento/03.jpg"] },
             { data: "04/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Acabamento/04.jpeg"] },
             { data: "05/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Acabamento/05.jpeg"] },
+            { data: "06/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Acabamento/06.jpeg"] },
+
 
 
             // { data: "", captura: [""] },
