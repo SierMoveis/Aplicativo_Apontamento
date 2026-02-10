@@ -723,7 +723,7 @@ const unidades = {
             { data: "04/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/04.jpeg"] },
             { data: "05/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/05.jpeg"] },
             { data: "06/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/06.jpeg"] },
-
+            { data: "09/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/09.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -812,7 +812,7 @@ const unidades = {
             { data: "04/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/04.jpeg"] },
             { data: "05/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/05.jpeg"] },
             { data: "07/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/07.jpeg"] },
-
+            { data: "09/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/09.jpeg"] },
 
 
              // { data: "", captura: [""] },
@@ -1322,7 +1322,7 @@ const unidades = {
             { data: "05/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/05 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/05 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/05 home.jpeg"] },
             { data: "06/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/06 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/06 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/06 home.jpeg"] },
             { data: "07/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/07 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/07 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/07 home.jpeg"] },
-
+            { data: "09/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/09 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/09 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/09 home.jpeg"] },
 
             
             // { data: "", captura: ["", "", ""] },
