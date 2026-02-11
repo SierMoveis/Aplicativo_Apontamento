@@ -566,7 +566,7 @@ const unidades = {
             { data: "05/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/05.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/05.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/05.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/05.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/05.JPG"] },
             { data: "06/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/06.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/06.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/06.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/06.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/06.JPG"] },
             { data: "09/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/09.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/09.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/09.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/09.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/09.JPG"] },
-
+            { data: "10/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MONTAGEM US/10.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROLINHO/10.JPG", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/ROQUITE/10.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/MM/10.jpg", "capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/USINAGEM/10.JPG"] },
 
 
 
@@ -634,7 +634,7 @@ const unidades = {
             { data: "05/02/2026", captura: ["capturas/Unidade 3/Usinagem/2026/02-FEVEREIRO/05.jpg"] },
             { data: "06/02/2026", captura: ["capturas/Unidade 3/Usinagem/2026/02-FEVEREIRO/06.jpg"] },
             { data: "09/02/2026", captura: ["capturas/Unidade 3/Usinagem/2026/02-FEVEREIRO/09.jpg"] }, 
-
+            { data: "10/02/2026", captura: ["capturas/Unidade 3/Usinagem/2026/02-FEVEREIRO/10.jpg"] }, 
 
 
 
@@ -724,6 +724,7 @@ const unidades = {
             { data: "05/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/05.jpeg"] },
             { data: "06/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/06.jpeg"] },
             { data: "09/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/09.jpeg"] },
+            { data: "10/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/FEVEREIRO/10.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -813,6 +814,7 @@ const unidades = {
             { data: "05/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/05.jpeg"] },
             { data: "07/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/07.jpeg"] },
             { data: "09/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/09.jpeg"] },
+            { data: "10/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/10.jpeg"] },
 
 
              // { data: "", captura: [""] },
@@ -1323,6 +1325,8 @@ const unidades = {
             { data: "06/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/06 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/06 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/06 home.jpeg"] },
             { data: "07/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/07 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/07 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/07 home.jpeg"] },
             { data: "09/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/09 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/09 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/09 home.jpeg"] },
+            { data: "10/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/10 home.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/10 italpresse.jpeg", "capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/10 maquimovel.jpeg"] },
+            
 
             
             // { data: "", captura: ["", "", ""] },
