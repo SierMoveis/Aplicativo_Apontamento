@@ -580,6 +580,16 @@ const unidades = {
             { data: "26/02/2026", captura: ["capturas/Unidade 2/Usinagem/2026/02-FEVEREIRO/CNC/26.jpeg"] },
 
             { data: "02/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/02.JPG"] },
+            { data: "03/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/03.JPG"] },
+
+
+
+
+
+
+
+
+
 
             // { data: "", captura: ["", "", "", "", ""] },
             // { data: "", captura: [""] },
