@@ -351,7 +351,7 @@ const unidades = {
             { data: "26/02/2026", captura: ["capturas/Unidade 1/2026/fevereiro/Usinagem/Filetação/26.jpg" , "capturas/Unidade 1/2026/fevereiro/cnc/26.jpg"] },
             
             { data: "02/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/2.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/02.jpg"] },
-
+            { data: "03/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/04.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/04.jpg"] },
 
 
             // { data: "", captura: ["" , ""] },
@@ -585,6 +585,7 @@ const unidades = {
 
             { data: "02/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/02.JPG"] },
             { data: "03/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/03.JPG"] },
+            { data: "04/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/04.JPG"] },
 
 
 
@@ -627,7 +628,7 @@ const unidades = {
 
             { data: "02/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/MONTAGEM US/02.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/ROLINHO/02.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/ROQUITE/02.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/MM/02.jpg", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/USINAGEM/02.JPG"] },
             { data: "03/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/MONTAGEM US/03.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/ROLINHO/03.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/ROQUITE/03.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/MM/03.jpg", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/USINAGEM/03.JPG"] },
-
+            { data: "04/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/MONTAGEM US/04.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/ROLINHO/04.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/ROQUITE/04.JPG", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/MM/04.jpg", "capturas/Unidade 2/Usinagem/2026/03-MARÇO/USINAGEM/04.JPG"] },
 
 
 
@@ -705,6 +706,12 @@ const unidades = {
 
             { data: "02/03/2026", captura: ["capturas/Unidade 3/Usinagem/2026/03-MARÇO/02.jpg"] }, 
             { data: "03/03/2026", captura: ["capturas/Unidade 3/Usinagem/2026/03-MARÇO/03.jpg"] }, 
+            { data: "04/03/2026", captura: ["capturas/Unidade 3/Usinagem/2026/03-MARÇO/04.jpg"] },
+
+
+
+
+
 
             // { data: "", captura: [""] }, 
             // { data: "", captura: [""] },
