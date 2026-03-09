@@ -825,6 +825,8 @@ const unidades = {
             { data: "03/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/3.jpg"] },
             { data: "04/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/5.jpg"] },
+            { data: "06/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/06.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -922,6 +924,8 @@ const unidades = {
             { data: "03/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/03.jpg"] },
             { data: "04/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/05.jpg"] },
+            { data: "06/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/06.jpg"] },
+
 
 
              // { data: "", captura: [""] },
@@ -1446,6 +1450,10 @@ const unidades = {
             { data: "03/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/ITALPRESSE 03.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/MAQUIMOVEL 03.jpg", ""] },
             { data: "04/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/MAQUIMOVEL 04.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/ITALPRESSE 04.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/HOME 04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/HOME 05.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/ITALPRESSE 05.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/MAQUIMOVEL 05.jpg"] },
+            { data: "06/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/MAQUIMOVEL 06.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/ITALPRESSE 06.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/HOME 06.jpg"] },
+
+
+
 
             // { data: "", captura: ["", "", ""] },
 
@@ -3556,7 +3564,7 @@ const unidades = {
            { data: "06/02/2026", captura: ["capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/06 pt 01.jpeg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/06 pt 02.jpeg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/06 pt 03.jpeg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/06 pt 04.jpeg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/06 g.jpeg"] },
            { data: "11/02/2026", captura: ["capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/11 pt1.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/11 pt2.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/11 pt3.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/11 pt4.jpg","capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/11 g.jpg"] },
            { data: "26/02/2026", captura: ["capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/26 pt1.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/26 pt2.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/26 pt3.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/26 pt4.jpg", "capturas/Retrabalhos/2026/Unidade 3/FEVEREIRO/26 g.jpg"] },
-           { data: "06/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT1.jpg", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT2.jpg", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT3.jpg", capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT4.jpg"", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 G.jpg"] },
+           { data: "06/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT1.jpg", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT2.jpg", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT3.jpg", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 PT4.jpg", "capturas/Retrabalhos/2026/Unidade 3/MARÇO/06 G.jpg"] },
 
 
 
