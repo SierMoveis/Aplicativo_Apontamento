@@ -550,6 +550,8 @@ const unidades = {
             { data: "03/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/03.JPG"] },
             { data: "04/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/04.JPG"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/05.JPG"] },
+            { data: "06/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/06.JPG"] },
+
 
 
             // { data: "", captura: [""] },
