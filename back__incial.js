@@ -175,6 +175,7 @@ const unidades = {
             { data: "04/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/04.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/Embalagem/05.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/05.jpg"] },
             { data: "06/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/06.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/06.jpg"] },
+            { data: "09/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/09.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/09.jpg"] },
 
 
 
@@ -559,6 +560,8 @@ const unidades = {
             { data: "04/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/04.JPG"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/05.JPG"] },
             { data: "06/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/06.JPG"] },
+            { data: "09/03/2026", captura: ["capturas/Unidade 2/Expedição/2026/03-MARÇO/09.JPG"] },
+
 
 
 
