@@ -264,7 +264,7 @@ const unidades = {
             { data: "02/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/02.jpg"] },
             { data: "04/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/05.jpg"] },
-
+            { data: "06/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/06.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -459,7 +459,7 @@ const unidades = {
             { data: "04/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/05.jpg"] },
             { data: "06/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/06.jpg"] },
-
+            { data: "09/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/09.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -609,8 +609,7 @@ const unidades = {
             { data: "04/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/04.JPG"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/05.JPG"] },
             { data: "06/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/06.JPG"] },
-
-
+            { data: "09/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/09.JPG"] },
 
 
 
