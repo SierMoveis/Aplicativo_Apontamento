@@ -362,7 +362,7 @@ const unidades = {
             { data: "04/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/04.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/04.jpg"] },
             { data: "05/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/5.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/5.jpg"] },
             { data: "06/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/06.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/06.jpg"] },
-
+            { data: "09/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/09.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/09.jpg"] },
 
             // { data: "", captura: ["" , ""] },
 
@@ -4090,6 +4090,8 @@ const unidades = {
             { data: "30/01/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/30 colpany.jpg"] },
            
             { data: "06/02/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/06 colpany.jpeg"] },
+            { data: "06/03/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MARÇO/06 colpany.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -4224,7 +4226,7 @@ const unidades = {
             { data: "30/01/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/30 fast.jpg"] },
 
             { data: "06/02/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/06 fast glass.jpeg"] },
-
+            { data: "06/03/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MARÇO/06 Fast  glass.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -4358,6 +4360,8 @@ const unidades = {
             { data: "30/01/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/30 fast.jpg", "capturas/Qualidade fornecedor/vidros/2026/30 colpany.jpg"] },
 
             { data: "06/02/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/06 fast glass.jpeg", "capturas/Qualidade fornecedor/vidros/2026/06 colpany.jpeg"] },
+            { data: "06/03/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MARÇO/06 Fast  glass.jpg", "capturas/Qualidade fornecedor/vidros/2026/MARÇO/06 colpany.jpg"] },
+
 
             // { data: "", captura: ["", ""] },
 
