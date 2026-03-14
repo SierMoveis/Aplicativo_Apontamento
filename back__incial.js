@@ -476,8 +476,10 @@ const unidades = {
             { data: "10/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/10.jpg"] },
             { data: "11/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/11.jpg"] },
             { data: "12/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/12.jpg"] },
+            { data: "13/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/13.jpg"] },
 
 
+            
             // { data: "", captura: [""] },
 
 
