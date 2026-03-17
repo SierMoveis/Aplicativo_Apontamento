@@ -909,6 +909,7 @@ const unidades = {
             { data: "12/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/12.jpg"] },
             { data: "13/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/13.jpg"] },
             { data: "14/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/14.jpg"] },
+            { data: "16/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/16.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -1013,6 +1014,7 @@ const unidades = {
             { data: "12/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/12.jpg"] },
             { data: "13/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/13.jpg"] },
             { data: "14/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/14.jpg"] },
+            { data: "16/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/16.jpg"] },
 
 
              // { data: "", captura: [""] },
@@ -1544,6 +1546,7 @@ const unidades = {
             { data: "12/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/MAQUIMOVEL 12.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/ITALPRESSE 12.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/HOME 12.jpg"] },
             { data: "13/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/MAQUIMOVEL 13.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/ITALPRESSE 13.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/HOME 13.jpg"] },
             { data: "14/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/14 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/14 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/14 HOME.jpg"] },
+            { data: "16/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/16 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/16 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/16 MAQUIMOVEL.jpg"] },
 
             
             // { data: "", captura: ["", "", ""] },
