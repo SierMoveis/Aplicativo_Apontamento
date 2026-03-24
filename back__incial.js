@@ -1052,21 +1052,8 @@ const unidades = {
             { data: "23/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/23.jpg"] },
             { data: "25/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/23.jpg"] },
             { data: "26/02/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/FEVEREIRO/26.jpg"] },
-            { data: "03/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/03.jpg"] },
-            { data: "04/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/04.jpg"] },
-            { data: "05/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/05.jpg"] },
-            { data: "06/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/06.jpg"] },
-            { data: "09/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/09.jpg"] },
-            { data: "10/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/10.jpg"] },
-            { data: "11/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/11.jpg"] },
-            { data: "12/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/12.jpg"] },
-            { data: "13/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/13.jpg"] },
-            { data: "14/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/14.jpg"] },
-            { data: "16/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/16.jpg"] },
-            { data: "17/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/17.jpg"] },
-            { data: "18/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/18.jpg"] },
-            { data: "19/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/19.jpg"] },
-            { data: "20/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/20.jpg"] },
+
+            
             { data: "23/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/23.jpg"] },
 
 
