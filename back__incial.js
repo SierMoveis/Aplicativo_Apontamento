@@ -290,6 +290,8 @@ const unidades = {
             { data: "19/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/19.jpg"] },
             { data: "23/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/23.jpg"] },
             { data: "24/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/24.jpg"] },
+            { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/25.jpg"] },
+
 
             // { data: "", captura: [""] },
 
