@@ -702,7 +702,7 @@ const unidades = {
             { data: "23/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/23.JPG"] },
             { data: "24/03/2025", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/24.JPG"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/25.JPG"] },
-
+            { data: "26/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/26.JPG"] },
             
            
             // { data: "", captura: [""] },
