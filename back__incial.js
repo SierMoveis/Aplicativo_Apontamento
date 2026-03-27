@@ -516,7 +516,7 @@ const unidades = {
             { data: "23/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/23.jpg"] },
             { data: "24/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/25.jpg"] },
-            { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Cnc/26.jpg"] },
+            { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/26.jpg"] },
             
             // { data: "", captura: [""] },
 
