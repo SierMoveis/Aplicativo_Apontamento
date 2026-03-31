@@ -191,7 +191,7 @@ const unidades = {
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/25.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/26.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/26.jpg"] },
             { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/27.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/27.jpg"] },
-
+            { data: "30/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/28.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/30.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -524,7 +524,7 @@ const unidades = {
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/26.jpg"] },
             { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/27.jpg"] },
-
+            { data: "30/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/30.jpg"] },
 
 
             // { data: "", captura: [""] },
