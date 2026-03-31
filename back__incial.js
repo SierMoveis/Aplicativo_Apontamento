@@ -190,6 +190,8 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/24.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/25.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/26.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/26.jpg"] },
+            { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/27.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/27.jpg"] },
+
 
 
             // { data: "", captura: ["", ""] },
@@ -293,6 +295,8 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/26.jpg"] },
+            { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/27.jpg"] },
+
 
 
             // { data: "", captura: [""] },
@@ -405,6 +409,7 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/24.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/25.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/26.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/26.jpg"] },
+            { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/27.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/27.jpg"] },
 
             
             // { data: "", captura: ["" , ""] },
@@ -517,6 +522,7 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/26.jpg"] },
+            { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/27.jpg"] },
 
 
 
@@ -714,7 +720,7 @@ const unidades = {
             { data: "25/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/25.JPG"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/26.JPG"] },
             { data: "27/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/27.JPG"] },
-           
+            { data: "30/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/30.JPG"] },
             
 
 
@@ -994,6 +1000,8 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/26.jpg"] },
+            { data: "27/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/27.jpg"] },
+
 
             // { data: "", captura: [""] },
 
@@ -1093,6 +1101,7 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/24.jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/25.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/26.jpg"] },
+            { data: "27/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/27.jpg"] },
 
 
              // { data: "", captura: [""] },
@@ -1633,7 +1642,10 @@ const unidades = {
             { data: "24/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/24 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/24 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/24 HOME .jpg"] },
             { data: "25/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/25 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/25 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/25 HOME.jpg"] },
             { data: "26/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/26 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/26 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/26 HOME.jpg"] },
-            
+            { data: "27/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/27 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/27 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/27 MAQUIMOVEL.jpg"] },
+
+
+
             // { data: "", captura: ["", "", ""] },
 
 
@@ -2731,7 +2743,7 @@ const unidades = {
             { data: "06/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/06 1 PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/06 2PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/06 G.jpg"] },
             { data: "14/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/14 1 PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/14 2 PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/14 G.jpg"] },
             { data: "20/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/20 1 PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/20 2 PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/20 G.jpg"] },
-            { data: "27/03/2026", captura: ["", "", ""] },
+            { data: "27/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/27 PT01.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/27 PT02.jpg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/MARÇO/27 G.jpg"] },
 
 
 
