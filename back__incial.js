@@ -1021,6 +1021,9 @@ const unidades = {
             { data: "26/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/26.jpg"] },
             { data: "27/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/27.jpg"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/30.jpg"] },
+            { data: "31/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/31.jpg"] },
+
+
 
             // { data: "", captura: [""] },
 
@@ -1122,6 +1125,8 @@ const unidades = {
             { data: "26/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/26.jpg"] },
             { data: "27/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/27.jpg"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/30.jpg"] },
+            { data: "31/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/MARÇO/31.jpg"] },
+
 
              // { data: "", captura: [""] },
 
@@ -1520,6 +1525,7 @@ const unidades = {
             { data: "19/12/2025", captura: ["capturas/Unidade 4/Tempo_parado/2025/12 DEZEMBRO/GABBIANNE.jpg"] },
             { data: "30/01/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/GABBIANE.jpg"] },
             { data: "27/02/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/FEVEREIRO/27 gabianne.jpg"] },
+            { data: "31/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/31 GABBIANE.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -1663,8 +1669,9 @@ const unidades = {
             { data: "26/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/26 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/26 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/26 HOME.jpg"] },
             { data: "27/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/27 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/27 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/27 MAQUIMOVEL.jpg"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/30 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/30 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/30 HOME.jpg"] },
+            { data: "31/03/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MARÇO/31 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/31 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/MARÇO/31 HOME.jpg"] },
 
-
+            
             // { data: "", captura: ["", "", ""] },
 
 
@@ -4691,7 +4698,7 @@ const unidades = {
             { data: "19/12/2025", captura: ["capturas/Unidade 4/Disperdicio/tampos/2025/DEZEMBRO 2025.jpg"] },
             { data: "30/01/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/JANEIRO.jpg"] },
             { data: "27/02/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/Fevereiro 2026.jpg"] },
-
+            { data: "31/03/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/03 MARÇO.jpg"] },
 
         // { data: "", captura: [""] },
 
@@ -4764,7 +4771,7 @@ const unidades = {
             { data: "29/11/2025", captura: ["capturas/Unidade 4/Consumo/2025/NOVEMBRO 2025.jpg"] },
             { data: "30/01/2026", captura: ["capturas/Unidade 4/Consumo/2026/JANEIRO.jpg"] },
             { data: "27/02/2026", captura: ["capturas/Unidade 4/Consumo/2026/Fevereiro 2026.jpg"] },
-
+            { data: "31/03/2026", captura: ["capturas/Unidade 4/Consumo/2026/03 MARÇO.jpg"] },
 
 
             // { data: "", captura: [""] },
