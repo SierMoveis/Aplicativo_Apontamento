@@ -1032,7 +1032,7 @@ const unidades = {
             { data: "27/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/27.jpg"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/30.jpg"] },
             { data: "31/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/31.jpg"] },
-
+            { data: "01/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/01.jpg"] },
 
 
             // { data: "", captura: [""] },
