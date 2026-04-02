@@ -193,7 +193,8 @@ const unidades = {
             { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/27.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/27.jpg"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/28.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/30.jpg"] },
             { data: "31/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Expedição/MetasTv/31.jpg", "capturas/Unidade 1/2026/03 março/Expedição/Embalagem/31.jpg"] },
-
+            
+            { data: "01/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/01.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/01.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -415,6 +416,8 @@ const unidades = {
             { data: "27/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/27.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/27.jpg"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/30.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/30.jpg"] },
             { data: "31/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Filetação/31.jpg" , "capturas/Unidade 1/2026/03 março/Usinagem/Cnc/31.jpg"] },
+            
+            { data: "01/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/01.jpg" , "capturas/Unidade 1/2026/04 ABRIL/Usinagem/Cnc/01.jpg"] },
 
             
             // { data: "", captura: ["" , ""] },
@@ -531,7 +534,9 @@ const unidades = {
             { data: "30/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/30.jpg"] },
             { data: "31/03/2026", captura: ["capturas/Unidade 1/2026/03 março/Usinagem/Montagem/31.jpg"] },
 
+           { data: "01/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/01.jpg"] },
 
+           
 
             // { data: "", captura: [""] },
 
@@ -733,6 +738,8 @@ const unidades = {
             { data: "27/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/27.JPG"] },
             { data: "30/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/30.JPG"] },
             { data: "31/03/2026", captura: ["capturas/Unidade 2/Usinagem/2026/03-MARÇO/CNC/31.JPG"] },
+
+            { data: "01/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/01.JPG"] },
 
 
 
