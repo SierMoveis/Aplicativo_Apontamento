@@ -304,6 +304,8 @@ const unidades = {
             { data: "30/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/30.jpg"] },
             { data: "31/03/2026", captura: ["capturas/Unidade 1/2026/03 março/acabamento/31.jpg"] },
             { data: "01/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/acabamento/01.jpg"] },
+            { data: "02/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/acabamento/02.jpg"] },
+
 
             // { data: "", captura: [""] },
 
