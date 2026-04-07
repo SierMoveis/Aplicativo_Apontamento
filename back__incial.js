@@ -752,6 +752,7 @@ const unidades = {
 
             { data: "01/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/01.JPG"] },
             { data: "02/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/02.JPG"] },
+            { data: "06/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/06.JPG"] },
 
 
             // { data: "", captura: [""] },
