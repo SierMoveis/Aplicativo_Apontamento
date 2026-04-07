@@ -1056,6 +1056,7 @@ const unidades = {
             { data: "31/03/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/MARÇO/31.jpg"] },
             { data: "01/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/01.jpg"] },
             { data: "02/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/02.jpg"] },
+            { data: "06/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/06.jpg"] },
 
 
             // { data: "", captura: [""] },
