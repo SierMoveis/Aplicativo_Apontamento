@@ -437,10 +437,10 @@ const unidades = {
             { data: "07/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/07.jpg" , "capturas/Unidade 1/2026/04 ABRIL/Usinagem/Cnc/07.jpg"] },
             { data: "08/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/08.jpg" , ""] },
             { data: "09/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/09.jpg" , "CNC PARADA DIA 7 E 8"] },
-            { data: "10/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/10.jpg" , "capturas/Unidade 1/2026/04 ABRIL/Usinagem/Cnc/10.jpg"] },
+            { data: "10/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/10.jpg" ] },
 
 
-            // { data: "", captura: ["" , ""] },
+            // { data: "", captura: ["" ] },
 
 
 
