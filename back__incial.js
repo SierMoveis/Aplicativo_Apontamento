@@ -201,6 +201,7 @@ const unidades = {
             { data: "08/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/08.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/08.jpg"] },
             { data: "09/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/09.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/09.jpg"] },
             { data: "10/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/10.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/10.jpg"] },
+            { data: "11/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/11.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/11.jpg"] },
 
 
 
@@ -438,6 +439,7 @@ const unidades = {
             { data: "08/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/08.jpg" , ""] },
             { data: "09/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Filetação/09.jpg" , "CNC PARADA DIA 7 E 8"] },
             { data: "10/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/10.jpg" ] },
+            { data: "11/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/11.jpg  "] },
 
 
             // { data: "", captura: ["" ] },
@@ -561,6 +563,7 @@ const unidades = {
             { data: "08/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/08.jpg"] },
             { data: "09/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/09.jpg"] },
             { data: "10/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/10.jpg"] },
+            { data: "11/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/11.jpg"] },
 
 
 
