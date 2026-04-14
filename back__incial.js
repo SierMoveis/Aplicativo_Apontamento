@@ -644,7 +644,7 @@ const unidades = {
             { data: "09/04/2026", captura: ["capturas/Unidade 2/Estofaria/2026/04-APRIL/09pt1.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/09pt2.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/09pt3.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/09pt4.jpg"] },
             { data: "10/04/2026", captura: ["capturas/Unidade 2/Estofaria/2026/04-APRIL/10pt1.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/10pt2.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/10pt3.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/10pt4.jpg"] },
             { data: "11/04/2026", captura: ["capturas/Unidade 2/Estofaria/2026/04-APRIL/11pt1.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/11pt2.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/11pt3.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/11pt4.jpg"] },
-
+            { data: "13/04/2026", captura: ["capturas/Unidade 2/Estofaria/2026/04-APRIL/13pt1.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/13pt2.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/13pt3.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/13pt4.jpg"] },
 
 
 
@@ -721,7 +721,7 @@ const unidades = {
             { data: "09/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/09.JPG"] },
             { data: "10/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/10.JPG"] },
             { data: "11/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/11.JPG"] },
-
+            { data: "13/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/13.JPG"] },
 
 
 
@@ -934,7 +934,7 @@ const unidades = {
             { data: "08/04/2026", captura: ["capturas/Unidade 2/Acabamento/2026/04-ABRIL/08 PT01.jpg", "capturas/Unidade 2/Acabamento/2026/04-ABRIL/08 PT02.jpg"] },
             { data: "09/04/2026", captura: ["capturas/Unidade 2/Acabamento/2026/04-ABRIL/09 PT01.jpg", "capturas/Unidade 2/Acabamento/2026/04-ABRIL/09 PT02.jpg"] },
             { data: "11/04/2026", captura: ["capturas/Unidade 2/Acabamento/2026/04-ABRIL/11 PT01.jpg", "capturas/Unidade 2/Acabamento/2026/04-ABRIL/11 PT02.jpg"] },
-
+            { data: "13/04/2026", captura: ["capturas/Unidade 2/Acabamento/2026/04-ABRIL/13 PT01.jpg", "capturas/Unidade 2/Acabamento/2026/04-ABRIL/13 PT02.jpg"] }, 
 
 
 
