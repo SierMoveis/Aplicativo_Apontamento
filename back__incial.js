@@ -797,7 +797,7 @@ const unidades = {
             { data: "09/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/09.JPG"] },
             { data: "10/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/10.JPG"] },
             { data: "11/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/11.JPG"] },
-
+            { data: "13/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/13.JPG"] },
 
             
             
