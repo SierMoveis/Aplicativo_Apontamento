@@ -1030,7 +1030,7 @@ const unidades = {
             { data: "11/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/11.jpg"] },
             { data: "13/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/13.jpg"] },
             { data: "14/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/14.jpg"] },
-
+            { data: "15/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Calibradora/ABRIL/15.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -1143,6 +1143,7 @@ const unidades = {
             { data: "11/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/ABRIL/11.jpg"] },
             { data: "13/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/ABRIL/13.jpg"] },
             { data: "14/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/ABRIL/14.jpg"] },
+            { data: "15/04/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Prensas/ABRIL/15.jpg"] },
 
 
 
@@ -1633,7 +1634,8 @@ const unidades = {
             { data: "11/04/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/ABRIL/11 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/11 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/11 MAQUIMOVEL.jpg"] },
             { data: "13/04/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/ABRIL/13 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/13 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/13 MAQUIMOVEL.jpg"] },
             { data: "14/04/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/ABRIL/14  MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/14 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/14 ITALPRESSE.jpg"] },
-            
+            { data: "15/04/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/ABRIL/15 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/15 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/ABRIL/15 MAQUIMOVEL.jpg"] },
+
 
             
             // { data: "", captura: ["", "", ""] },
