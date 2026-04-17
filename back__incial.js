@@ -205,7 +205,7 @@ const unidades = {
             { data: "13/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/13.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/13.jpg"] },
             { data: "14/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/14.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/14.jpg"] },
             { data: "15/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/15.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/15.jpg"] },
-
+            { data: "16/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Expedição/MetasTv/16.jpg", "capturas/Unidade 1/2026/04 ABRIL/Expedição/Embalagem/16.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -323,6 +323,7 @@ const unidades = {
             { data: "13/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/acabamento/13.jpg"] },
             { data: "14/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/acabamento/14.jpg"] },
             { data: "15/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/acabamento/15.jpg"] },
+            
 
 
             // { data: "", captura: [""] },
@@ -450,6 +451,7 @@ const unidades = {
             { data: "13/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/13.jpg" ] },
             { data: "14/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/14.jpg" ] },
             { data: "15/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/15.jpg" ] },
+            { data: "16/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Usinagem-Cnc/16.jpg" ] },
 
 
             // { data: "", captura: ["" ] },
@@ -463,6 +465,8 @@ const unidades = {
             
             { data: "14/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/14.jpg"] },
             { data: "15/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/15.jpg"] },
+            { data: "16/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/16.jpg" ] },
+
 
 
             // { data: "", captura: [""] },
