@@ -3182,7 +3182,7 @@ const unidades = {
             { data: "27/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/27 PT01.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/27 PT02.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/27 G.jpg"] },
             { data: "02/04/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/02 01PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/02 02PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/02 G.jpg"] },
             { data: "11/04/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/1101PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/1102PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/11 G.jpg"] },
-            { data: "17/04/2026", captura: [""capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/17 01PT.jpg, "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/17 02PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/17 G.jpg"] },
+            { data: "17/04/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/17 01PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/17 02PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/ABRIL/17 G.jpg"] },
 
 
 
