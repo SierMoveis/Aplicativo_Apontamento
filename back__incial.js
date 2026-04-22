@@ -945,7 +945,7 @@ const unidades = {
     },
 
     UA4: {
-        Calibradora1: [
+        Calibradora: [
           
             { data: "02/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/02.jpg"] },
             { data: "07/10/2025", captura: ["capturas/Unidade 4/Usinagem/2025/Calibradora/OUTUBRO/07.jpg"] },
