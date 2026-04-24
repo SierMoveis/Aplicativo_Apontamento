@@ -643,6 +643,8 @@ const unidades = {
             { data: "17/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/17.JPG"] },
             { data: "21/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/21.JPG"] },
             { data: "22/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/22.JPG"] },
+            { data: "23/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/23.JPG"] },
+
 
 
 
