@@ -496,7 +496,8 @@ const unidades = {
             { data: "29/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/29.jpg" ] },
             { data: "30/04/2026", captura: ["capturas/Unidade 1/2026/04 ABRIL/Usinagem/Montagem/30.jpg"] },
 
-
+           { data: "05/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/05.jpg"] },
+           
 
             // { data: "", captura: [""] },
 
