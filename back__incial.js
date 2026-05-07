@@ -780,6 +780,15 @@ const unidades = {
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/30.jpg"] },
 
             { data: "05/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/05.JPG"] },
+            { data: "06/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/06.JPG"] },
+
+
+
+
+
+
+
+
 
             // { data: "", captura: [""] },
 
