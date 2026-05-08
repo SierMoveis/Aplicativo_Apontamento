@@ -350,6 +350,7 @@ const unidades = {
 
             { data: "05/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/05.jpg"] },
             { data: "06/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/6.jpg"] },
+            { data: "07/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/07.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -602,7 +603,7 @@ const unidades = {
             { data: "04/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt4.jpg"] },
             { data: "05/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt4.jpg"] },
             { data: "06/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt4.jpg"] },
-
+            { data: "07/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt4.jpg"] },
 
 
 
@@ -968,8 +969,7 @@ const unidades = {
             { data: "04/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/04 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/04 PT2.jpg"] },
             { data: "05/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/05 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/05 PT2.jpg"] },
             { data: "06/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/06 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/06 PT2.jpg"] },
-
-
+            
             
             
             
@@ -4306,6 +4306,8 @@ const unidades = {
             { data: "25/04/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/ABRIL/25 COLPANY.jpg"] },
             { data: "30/04/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/ABRIL/30 COLPANY.jpg"] },
 
+            { data: "08/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/08 COLPANY.jpg"] },
+
 
             // { data: "", captura: [""] },
             
@@ -4447,6 +4449,8 @@ const unidades = {
             { data: "25/04/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/ABRIL/25 FAST GLASS.jpg"] },
             { data: "30/04/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/ABRIL/30 FAST GLASS.jpg"] },
 
+            { data: "08/05/2026", captura: [""capturas/Qualidade fornecedor/vidros/2026/MAIO/08 FAST GLASS.jpg] },
+
             // { data: "", captura: [""] },
 
 
@@ -4587,6 +4591,7 @@ const unidades = {
             { data: "25/04/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/ABRIL/25 COLPANY.jpg", "capturas/Qualidade fornecedor/vidros/2026/ABRIL/25 FAST GLASS.jpg"] },
             { data: "30/04/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/ABRIL/30 COLPANY.jpg", "capturas/Qualidade fornecedor/vidros/2026/ABRIL/30 FAST GLASS.jpg"] },
 
+            { data: "08/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/08 COLPANY.jpg", "capturas/Qualidade fornecedor/vidros/2026/MAIO/08 FAST GLASS.jpg"] },
             
             // { data: "", captura: ["", ""] },
 
