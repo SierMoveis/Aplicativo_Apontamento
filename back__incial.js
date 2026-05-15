@@ -223,6 +223,8 @@ const unidades = {
             { data: "08/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Expedição/MetasTv/08.jpg", "capturas/Unidade 1/2026/05 MAIO/Expedição/Embalagem/08.jpg"] },
             { data: "11/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Expedição/MetasTv/11.jpg", "capturas/Unidade 1/2026/05 MAIO/Expedição/Embalagem/09.jpg"] },
             { data: "13/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Expedição/MetasTv/13.jpg", "capturas/Unidade 1/2026/05 MAIO/Expedição/Embalagem/13.jpg"] },
+            { data: "14/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Expedição/MetasTv/13.jpg", "capturas/Unidade 1/2026/05 MAIO/Expedição/Embalagem/14.jpg"] },
+
 
             // { data: "", captura: ["", ""] },
 
@@ -356,6 +358,7 @@ const unidades = {
             { data: "08/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/08.jpg"] },
             { data: "11/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/11.jpg"] },
             { data: "13/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/13.jpg"] },
+            { data: "14/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/14.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -499,7 +502,7 @@ const unidades = {
             { data: "08/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/08.jpg" ] },
             { data: "11/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/11.jpg" ] },
             { data: "13/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/13.jpg"] },
-
+            { data: "14/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/14.jpg"] },
 
 
             // { data: "", captura: ["" ] },
@@ -522,7 +525,8 @@ const unidades = {
            { data: "08/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/08.jpg"] },
            { data: "11/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/11.jpg"] },
            { data: "13/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/13.jpg"] },
-            
+           { data: "14/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/14.jpg"] },
+
            
             // { data: "", captura: [""] },
 
@@ -722,7 +726,7 @@ const unidades = {
             // { data: "", captura: [""] },
             
         ],
-
+            
 
         CNC: [
             
