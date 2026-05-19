@@ -1054,7 +1054,7 @@ const unidades = {
             { data: "11/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/11.jpg"] },
             { data: "13/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/13.jpg"] },
             { data: "14/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/14.jpg"] },
-
+            { data: "18/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/18 U.jpg"] },
 
 
             // { data: "", captura: [""] },
