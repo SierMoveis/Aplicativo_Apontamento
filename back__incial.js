@@ -518,6 +518,7 @@ const unidades = {
             { data: "19/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/19.jpg" ] },
             { data: "20/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/20.jpg" ] },
             { data: "21/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/21.jpg"] },
+            { data: "22/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/22.jpg" ] },
 
 
             // { data: "", captura: ["" ] },
