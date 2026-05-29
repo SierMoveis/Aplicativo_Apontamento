@@ -354,9 +354,12 @@ const unidades = {
             { data: "25/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/25.JPG"] },
             { data: "26/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/26.JPG"] },
             { data: "27/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/27.JPG"] },
+            { data: "28/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/28.JPG"] },
 
 
             
+
+
             
             // { data: "", captura: [""] },
 
