@@ -175,7 +175,7 @@ const unidades = {
             { data: "25/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/25.jpg"] },
             { data: "26/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/26.jpg"] },
             { data: "27/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/27.jpg"] },
-            
+            { data: "28/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/28.jpg"] },
 
             // { data: "", captura: [""] },
 
