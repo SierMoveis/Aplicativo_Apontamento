@@ -236,7 +236,7 @@ const unidades = {
            { data: "26/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/26.jpg"] },
            { data: "27/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/27.jpg"] },
            { data: "28/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/28.jpg"] },
-
+           { data: "30/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Montagem/30.jpg"] },
 
             // { data: "", captura: [""] },
 
