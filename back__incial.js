@@ -169,13 +169,7 @@ const unidades = {
             { data: "14/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/14.jpg"] },
             { data: "18/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/18.jpg"] },
             { data: "19/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/19.jpg"] },
-            { data: "20/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/20.jpg"] },
-            { data: "21/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/21.jpg"] },
-            { data: "22/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/22.jpg"] },
-            { data: "25/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/25.jpg"] },
-            { data: "26/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/26.jpg"] },
-            { data: "27/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/27.jpg"] },
-            { data: "28/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/28.jpg"] },
+        
             { data: "29/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Acabamento/29.jpg"] },
 
             // { data: "", captura: [""] },
@@ -410,6 +404,8 @@ const unidades = {
             { data: "28/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/28.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/28.jpg"] },
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/29.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/29.jpg"] },
 
+            { data: "01/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/USINAGEM/01.jpg", "capturas/Unidade 2/Usinagem/2026/06-JUNHO/MM/01.jpg"] },
+
 
 
             ],
@@ -501,7 +497,7 @@ const unidades = {
             { data: "28/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/28.jpg"] }, 
             { data: "29/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/29.jpg"] }, 
 
-            
+            { data: "01/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/06-JUNHO/01.JPG"] }, 
 
             
             
