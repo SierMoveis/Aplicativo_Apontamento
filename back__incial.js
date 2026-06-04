@@ -290,6 +290,11 @@ const unidades = {
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt4.jpg"] },
 
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT4.JPG"] },
+            { data: "03/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT4.JPG"] },
+
+
+
+
 
 
             // { data: "", captura: ["", "", "", ""] },
