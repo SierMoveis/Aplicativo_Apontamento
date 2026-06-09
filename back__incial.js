@@ -299,7 +299,7 @@ const unidades = {
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT4.JPG"] },
             { data: "03/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT4.JPG"] },
             { data: "04/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT4.JPG"] },
-
+            { data: "08/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT4.JPG"] },
 
 
 
@@ -388,7 +388,7 @@ const unidades = {
             { data: "26/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/26.JPG"] },
             { data: "27/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/27.JPG"] },
             { data: "28/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/28.JPG"] },
-            { data: "29/05/2025", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/29.JPG"] },
+            
 
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/01.JPG"] },
             { data: "02/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/02.JPG"] },
@@ -569,7 +569,6 @@ const unidades = {
             { data: "05/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/05.jpg"] },
             { data: "06/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/06.jpg"] },
             { data: "07/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/07.jpg"] },
-            { data: "08/05/2026", captura: ["capturas/Unidade 1/2026/05 MAIO/Usinagem - Cnc/08.jpg"] },
             { data: "11/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/11.jpg"] },
             { data: "13/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/13.jpg"] },
             { data: "14/05/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/MAIO/14.jpg"] },
