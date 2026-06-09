@@ -180,6 +180,8 @@ const unidades = {
             { data: "02/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/02.jpg"] },
             { data: "03/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/03.jpg"] },
             { data: "04/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/04.jpg"] },
+            { data: "08/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/08.jpg"] },
+
 
             // { data: "", captura: [""] },
 
