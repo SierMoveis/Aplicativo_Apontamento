@@ -384,30 +384,10 @@ const unidades = {
             
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/CNC/30.jpg"] },
 
-            { data: "05/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/05.JPG"] },
-            { data: "06/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/06.JPG"] },
-            { data: "07/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/07.JPG"] },
-            { data: "08/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/08.JPG"] },
-            { data: "09/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/13.JPG"] },
-            { data: "15/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/15.JPG"] },
-            { data: "18/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/18.JPG"] },
-            { data: "19/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/19.JPG"] },
-            { data: "20/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/20.JPG"] },
-            { data: "21/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/21.JPG"] },
-            { data: "22/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/22.JPG"] },
-            { data: "25/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/25.JPG"] },
-            { data: "26/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/26.JPG"] },
-            { data: "27/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/27.JPG"] },
-            { data: "28/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/28.JPG"] },
+            
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/CNC/29.JPG"] },
 
-            { data: "01/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/01.JPG"] },
-            { data: "02/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/02.JPG"] },
-            { data: "03/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/03.JPG"] },
-            { data: "04/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/04.JPG"] },
-            { data: "08/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/08.JPG"] },
-            { data: "09/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/09.JPG"] },
-            { data: "10/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/10.JPG"] },
+            
             { data: "11/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/11.JPG"] },
 
 
