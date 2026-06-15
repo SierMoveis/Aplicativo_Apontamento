@@ -313,7 +313,7 @@ const unidades = {
             { data: "04/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/04-PT4.JPG"] },
             { data: "08/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/08-PT4.JPG"] },
             { data: "09/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/09-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/09-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/09-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/09-PT4.JPG"] },
-
+            { data: "11/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/11-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/11-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/11-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/11-PT4.JPG"] },
 
 
             // { data: "", captura: ["", "", "", ""] },
@@ -4055,6 +4055,8 @@ const unidades = {
             { data: "15/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/15 FAST GLASS.jpg"] },
             { data: "22/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/22 FAST GLASS.jpg"] },
             { data: "28/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/28 FAST GLASS.jpg"] },
+            { data: "05/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/05.jpg"] },
+            { data: "12/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/12.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -4201,6 +4203,8 @@ const unidades = {
             { data: "15/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/15 FAST GLASS.jpg", ""] },
             { data: "22/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/22 FAST GLASS.jpg", ""] },
             { data: "28/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/28 FAST GLASS.jpg", ""] },
+            { data: "05/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/05.jpg", ""] },
+            { data: "12/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/12.jpg", ""] },
 
 
             // { data: "", captura: ["", ""] },
