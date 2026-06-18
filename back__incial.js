@@ -159,6 +159,8 @@ const unidades = {
             { data: "12/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/12.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/12.jpg"] },
             { data: "15/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/15.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/15.jpg"] },
             { data: "16/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/16.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/16.jpg"] },
+            { data: "17/06/2026", captura: ["", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/17.jpg"] },
+
 
             // { data: "", captura: ["", ""] },
 
@@ -192,7 +194,7 @@ const unidades = {
             { data: "12/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/12.jpg"] },
             { data: "15/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/15.jpg"] },
             { data: "16/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/16.jpg"] },
-
+            { data: "17/05/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/17.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -231,7 +233,7 @@ const unidades = {
             { data: "12/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Usinagem - Cnc/12.jpg"] },
             { data: "15/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Usinagem - Cnc/15.jpg" ] },
             { data: "16/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Usinagem - Cnc/16.jpg"] },
-
+            { data: "17/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Usinagem - Cnc/17.jpg"] },
 
             // { data: "", captura: ["" ] },
 
@@ -275,6 +277,8 @@ const unidades = {
            { data: "12/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/12.jpg"] },
            { data: "15/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/13.jpg"] },
            { data: "16/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/16.jpg"] },
+           { data: "17/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/17.jpg"] },
+
 
             // { data: "", captura: [""] },
 
@@ -301,22 +305,7 @@ const unidades = {
             
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt1.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt2.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt3.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt4.jpg"] },
             
-            { data: "04/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/04-pt4.jpg"] },
-            { data: "05/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/05-pt4.jpg"] },
-            { data: "06/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/06-pt4.jpg"] },
-            { data: "07/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/07-pt4.jpg"] },
-            { data: "08/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/08-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/08-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/08-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/08-pt4.jpg"] },
-            { data: "11/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/11-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/11-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/11-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/11-pt4.jpg"] },
-            { data: "15/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/15-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/15-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/15-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/15-pt4.jpg"] },
-            { data: "18/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/18-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/18-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/18-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/18-pt4.jpg"] },
-            { data: "19/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/19-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/19-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/19-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/19-pt4.jpg"] },
-            { data: "20/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/20-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/20-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/20-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/20-pt4.jpg"] },
-            { data: "21/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/21-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/21-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/21-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/21-pt4.jpg"] },
-            { data: "22/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/22-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/22-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/22-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/22-pt4.jpg"] },
-            { data: "25/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/25-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/25-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/25-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/25-pt4.jpg"] },
-            { data: "26/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/26-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/26-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/26-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/26-pt4.jpg"] },
-            { data: "27/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/27-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/27-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/27-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/27-pt4.jpg"] },
-            { data: "29/05/2026", captura: ["capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/05-MAIO/29-pt4.jpg"] },
+            
 
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/01-PT4.JPG"] },
             { data: "03/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/03-PT4.JPG"] },
@@ -327,6 +316,8 @@ const unidades = {
             { data: "12/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/12-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/12-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/12-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/12-PT4.JPG"] },
             { data: "15/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/15-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/15-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/15-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/15-PT4.JPG"] },
             { data: "16/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/16-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/16-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/16-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/16-PT4.JPG"] },
+            { data: "17/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/17-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/17-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/17-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/17-PT4.JPG"] },
+
 
 
 
@@ -351,22 +342,7 @@ const unidades = {
             
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Expedição/2026/04-ABRIL/30.JPG"] },
 
-            { data: "05/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/05.JPG"] },
-            { data: "06/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/06.JPG"] },
-            { data: "07/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/07.JPG"] },
-            { data: "08/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/08.JPG"] },
-            { data: "11/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/11.JPG"] },
-            { data: "13/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/13.JPG"] },
-            { data: "15/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/15.JPG"] },
-            { data: "18/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/18.JPG"] },
-            { data: "19/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/19.JPG"] },
-            { data: "20/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/20.JPG"] },
-            { data: "21/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/21.JPG"] },
-            { data: "22/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/22.JPG"] },
-            { data: "25/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/25.JPG"] },
-            { data: "26/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/26.JPG"] },
-            { data: "27/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/27.JPG"] },
-            { data: "28/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/28.JPG"] },
+            
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/29.JPG"] },
             
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/01.JPG"] },
@@ -443,22 +419,7 @@ const unidades = {
            
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Usinagem/2026/04-ABRIL/MONTAGEM US/30.JPG", "capturas/Unidade 2/Usinagem/2026/04-ABRIL/ROLINHO/30.JPG", "capturas/Unidade 2/Usinagem/2026/04-ABRIL/ROQUITE/30.JPG", "capturas/Unidade 2/Usinagem/2026/04-ABRIL/MM/30.jpg", "capturas/Unidade 2/Usinagem/2026/04-ABRIL/USINAGEM/30.JPG"] },
 
-            { data: "04/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/ROLINHO/04.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/ROQUITE/04.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/04.jpg", "capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/04.JPG"] },
-            { data: "05/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/05.JPG"] },
-            { data: "06/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/06.JPG"] },
-            { data: "07/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/07.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/07.jpg"] },
-            { data: "08/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/08.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/08.jpg"] },
-            { data: "11/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/11.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/11.jpg"] },
-            { data: "15/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/15.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/15.jpg"] },
-            { data: "18/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/18.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/18.jpg"] },
-            { data: "19/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/19.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/19.jpg"] },
-            { data: "20/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/20.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/20.jpg"] },
-            { data: "21/05/2025", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/21.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/21.jpg"] },
-            { data: "22/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/22.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/22.jpg"] },
-            { data: "25/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/25.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/25.jpg"] },
-            { data: "26/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/26.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/26.jpg"] },
-            { data: "27/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/27.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/27.jpg"] },
-            { data: "28/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/28.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/28.jpg"] },
+            
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Usinagem/2026/05-MAIO/USINAGEM/29.JPG", "capturas/Unidade 2/Usinagem/2026/05-MAIO/MM/29.jpg"] },
 
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/USINAGEM/01.jpg", "capturas/Unidade 2/Usinagem/2026/06-JUNHO/MM/01.jpg"] },
@@ -500,23 +461,7 @@ const unidades = {
             
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Acabamento/2026/04-ABRIL/30 PT01.jpg", "capturas/Unidade 2/Acabamento/2026/04-ABRIL/30 PT02.jpg"] },
 
-            { data: "04/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/04 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/04 PT2.jpg"] },
-            { data: "05/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/05 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/05 PT2.jpg"] },
-            { data: "06/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/06 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/06 PT2.jpg"] },
-            { data: "07/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/07 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/07 PT2.jpg"] },
-            { data: "08/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/08 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/08 PT2.jpg"] },
-            { data: "11/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/11 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/11 PT2.jpg"] },
-            { data: "13/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/13 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/13 PT2.jpg"] },
-            { data: "15/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/15 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/15 PT2.jpg"] },
-            { data: "18/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/18 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/18 PT2.jpg"] },
-            { data: "19/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/19 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/19 PT2.jpg"] },
-            { data: "20/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/20 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/20 PT2.jpg"] },
-            { data: "21/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/21  PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/21  PT2.jpg"] },
-            { data: "22/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/22  PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/22  PT2.jpg"] },
-            { data: "25/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/25 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/25 PT2.jpg"] },
-            { data: "26/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/26 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/26 PT2.jpg"] },
-            { data: "27/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/27 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/27 PT2.jpg"] },
-            { data: "28/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/28 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/28 PT2.jpg"] },
+            
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Acabamento/2026/05-MAIO/29 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/05-MAIO/29 PT2.jpg"] },
             
             { data: "01/06/2026", captura: ["capturas/Unidade 2/Acabamento/2026/06-JUNHO/01 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/06-JUNHO/01 PT2.jpg"] },
@@ -562,22 +507,7 @@ const unidades = {
             
             { data: "30/04/2026", captura: ["capturas/Unidade 3/Usinagem/2026/04-ABRIL/30.jpg"] }, 
 
-            { data: "04/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/04.JPG"] }, 
-            { data: "05/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/05.JPG"] }, 
-            { data: "06/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/06.JPG"] }, 
-            { data: "07/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/07.jpg"] }, 
-            { data: "08/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/08.jpg"] }, 
-            { data: "11/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/11.jpg"] }, 
-            { data: "15/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/15.jpg"] },
-            { data: "18/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/18.jpg"] }, 
-            { data: "19/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/19.jpg"] }, 
-            { data: "20/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/20.jpg"] }, 
-            { data: "21/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/21.jpg"] }, 
-            { data: "22/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/22.jpg"] }, 
-            { data: "25/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/25.jpg"] }, 
-            { data: "26/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/26.jpg"] }, 
-            { data: "27/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/27.jpg"] }, 
-            { data: "28/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/28.jpg"] }, 
+            
             { data: "29/05/2026", captura: ["capturas/Unidade 3/Usinagem/2026/05-MAIO/29.jpg"] }, 
 
             { data: "01/06/2026", captura: ["capturas/Unidade 3/Usinagem/2026/06-JUNHO/01.JPG"] }, 
@@ -635,6 +565,7 @@ const unidades = {
             { data: "12/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/12.jpg"] },
             { data: "15/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/15.jpg"] },
             { data: "16/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/16.jpg"] },
+            { data: "17/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/17.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -1182,7 +1113,7 @@ const unidades = {
             { data: "12/06/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JUNHO/12 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/12 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/12 HOME.jpg"] },
             { data: "15/06/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JUNHO/15 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/15 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/15ITALPRESSE.jpg"] },
             { data: "16/06/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JUNHO/16 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/16 MAQUIMOVEL.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/16 ITALPRESSE.jpg"] },
-
+            { data: "17/06/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JUNHO/17 HOME.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/17 ITALPRESSE.jpg", "capturas/Unidade 4/Tempo_parado/2026/JUNHO/17 MAQUIMOVEL.jpg"] },
 
 
             // { data: "", captura: ["", "", ""] },
