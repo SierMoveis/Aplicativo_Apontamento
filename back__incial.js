@@ -4051,6 +4051,7 @@ const unidades = {
             { data: "28/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/28 FAST GLASS.jpg"] },
             { data: "05/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/05.jpg"] },
             { data: "12/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/12.jpg"] },
+            { data: "19/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/19.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -4199,6 +4200,7 @@ const unidades = {
             { data: "28/05/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/MAIO/28 FAST GLASS.jpg", ""] },
             { data: "05/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/05.jpg", ""] },
             { data: "12/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/12.jpg", ""] },
+            { data: "19/06/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JUNHO/19.jpg", ""] },
 
 
             // { data: "", captura: ["", ""] },
