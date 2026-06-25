@@ -420,7 +420,7 @@ const unidades = {
             { data: "19/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/19.JPG"] },
             { data: "22/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/22.JPG"] },
             { data: "23/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/23.JPG"] },
-            
+            { data: "24/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/24.JPG"] },
 
 
 
