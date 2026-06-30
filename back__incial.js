@@ -167,6 +167,7 @@ const unidades = {
             { data: "24/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/24.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/24.jpg"] },
             { data: "25/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/25.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/25.jpg"] },
             { data: "26/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/26.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/26.jpg"] },
+            { data: "27/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Expedição/MetasTv/27.jpg", "capturas/Unidade 1/2026/06 JUNHO/Expedição/Embalagem/27.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -209,7 +210,7 @@ const unidades = {
             { data: "24/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/24.jpg"] },
             { data: "25/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/25.jpg"] },
             { data: "26/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/26.jpg"] },
-
+            { data: "27/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Acabamento/27.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -308,7 +309,7 @@ const unidades = {
            { data: "24/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/24.jpg"] },
            { data: "25/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/25.jpg"] },
            { data: "26/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/26.jpg"] },
-
+           { data: "27/06/2026", captura: ["capturas/Unidade 1/2026/06 JUNHO/Montagem/27.jpg"] },
 
             // { data: "", captura: [""] },
 
@@ -547,7 +548,7 @@ const unidades = {
             { data: "24/06/2026", captura: ["capturas/Unidade 2/Acabamento/2026/06-JUNHO/24 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/06-JUNHO/24 PT2.jpg"] },
             { data: "25/06/2026", captura: ["capturas/Unidade 2/Acabamento/2026/06-JUNHO/25 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/06-JUNHO/25 PT2.jpg"] },
             { data: "26/06/2026", captura: ["capturas/Unidade 2/Acabamento/2026/06-JUNHO/26 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/06-JUNHO/26 PT2.jpg"] },
-
+            { data: "27/06/2026", captura: ["capturas/Unidade 2/Acabamento/2026/06-JUNHO/27 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/06-JUNHO/27 PT2.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
