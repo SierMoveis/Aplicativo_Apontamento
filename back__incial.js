@@ -401,9 +401,11 @@ const unidades = {
             { data: "24/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/24.JPG"] },
             { data: "25/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/25.JPG"] },
             { data: "26/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/26.JPG"] },
-
+            { data: "27/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/27.JPG"] },
 
             
+
+
 
             // { data: "", captura: [""] },
             
