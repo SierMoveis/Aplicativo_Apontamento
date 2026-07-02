@@ -660,7 +660,7 @@ const unidades = {
             { data: "24/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/24.jpg"] },
             { data: "25/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/25.jpg"] },
             { data: "26/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/26.jpg"] },
-            { data: "27/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/27.jpg"] },
+            
             { data: "30/06/2026", captura: ["capturas/Unidade 4/Usinagem/2026/01- Usinagem/JUNHO/30.jpg"] },
 
 
