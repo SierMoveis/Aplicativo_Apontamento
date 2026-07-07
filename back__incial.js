@@ -420,6 +420,10 @@ const unidades = {
 
             { data: "01/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/01.JPG"] },
             { data: "02/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/02.JPG"] },
+            { data: "06/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/06.JPG"] },
+
+
+
 
 
             // { data: "", captura: [""] },
