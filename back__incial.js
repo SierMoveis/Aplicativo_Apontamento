@@ -427,26 +427,7 @@ const unidades = {
             
             { data: "29/05/2026", captura: ["capturas/Unidade 2/Expedição/2026/05-MAIO/29.JPG"] },
             
-            { data: "01/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/01.JPG"] },
-            { data: "02/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/02.JPG"] },
-            { data: "03/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/03.JPG"] },
-            { data: "04/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/04.JPG"] },
-            { data: "08/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/08.JPG"] },
-            { data: "09/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/09.JPG"] },
-            { data: "10/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/10.JPG"] },
-            { data: "11/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/11.JPG"] },
-            { data: "12/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/12.JPG"] },
-            { data: "15/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/15.JPG"] },
-            { data: "16/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/16.JPG"] },
-            { data: "17/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/17.JPG"] },
-            { data: "18/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/18.JPG"] },
-            { data: "19/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/19.JPG"] },
-            { data: "22/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/22.JPG"] },
-            { data: "23/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/23.JPG"] },
-            { data: "24/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/24.JPG"] },
-            { data: "25/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/25.JPG"] },
-            { data: "26/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/26.JPG"] },
-            { data: "27/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/27.JPG"] },
+            
             { data: "30/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/30.JPG"] },
 
             { data: "01/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/01.JPG"] },
@@ -457,6 +438,7 @@ const unidades = {
             { data: "09/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/09.JPG"] },
             { data: "10/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/10.JPG"] },
             { data: "13/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/13.JPG"] },
+            { data: "14/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/14.JPG"] },
 
 
 
