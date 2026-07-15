@@ -375,9 +375,9 @@ const unidades = {
             { data: "30/04/2026", captura: ["capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt1.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt2.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt3.jpg", "capturas/Unidade 2/Estofaria/2026/04-APRIL/30pt4.jpg"] },
             
             
-            
             { data: "30/06/2026", captura: ["capturas/Unidade 2/Estofaria/2026/06-JUNHO/30-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/30-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/30-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/06-JUNHO/30-PT4.JPG"] },
             
+
             { data: "06/07/2026", captura: ["capturas/Unidade 2/Estofaria/2026/07-JULHO/06-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/06-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/06-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/06-pt4.jpg"] },
             { data: "07/07/2026", captura: ["capturas/Unidade 2/Estofaria/2026/07-JULHO/07-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/07-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/07-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/07-pt4.jpg"] },
             { data: "08/07/2026", captura: ["capturas/Unidade 2/Estofaria/2026/07-JULHO/08-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/08-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/08-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/07-JULHO/08-pt4.jpg"] },
@@ -416,6 +416,7 @@ const unidades = {
             
             
             { data: "30/06/2026", captura: ["capturas/Unidade 2/Expedição/2026/06-JUNHO/30.JPG"] },
+
 
             { data: "01/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/01.JPG"] },
             { data: "02/07/2026", captura: ["capturas/Unidade 2/Expedição/2026/07-JULHO/02.JPG"] },
@@ -456,6 +457,7 @@ const unidades = {
 
                
             { data: "30/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/CNC/30.JPG"] },
+
 
             { data: "01/07/2026", captura: ["capturas/Unidade 2/Usinagem/2026/07-JULHO/CNC/01.JPG"] },
             { data: "02/07/2026", captura: ["capturas/Unidade 2/Usinagem/2026/07-JULHO/CNC/02.JPG"] },
@@ -503,6 +505,7 @@ const unidades = {
             
             { data: "30/06/2026", captura: ["capturas/Unidade 2/Usinagem/2026/06-JUNHO/USINAGEM/30.jpg", "capturas/Unidade 2/Usinagem/2026/06-JUNHO/MM/30.jpg"] },
 
+
             { data: "01/07/2026", captura: ["capturas/Unidade 2/Usinagem/2026/07-JULHO/USINAGEM/01.JPG", "capturas/Unidade 2/Usinagem/2026/07-JULHO/MM/01.jpg"] },
             { data: "02/07/2026", captura: ["capturas/Unidade 2/Usinagem/2026/07-JULHO/USINAGEM/02.JPG", "capturas/Unidade 2/Usinagem/2026/07-JULHO/MM/02.jpg"] },
             { data: "06/07/2026", captura: ["capturas/Unidade 2/Usinagem/2026/07-JULHO/USINAGEM/06.JPG", "capturas/Unidade 2/Usinagem/2026/07-JULHO/MM/06.jpg"] },
@@ -545,6 +548,7 @@ const unidades = {
             
             { data: "30/06/2026", captura: ["capturas/Unidade 2/Acabamento/2026/06-JUNHO/30 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/06-JUNHO/30 PT2.jpg"] },
             
+
             { data: "06/07/2026", captura: ["capturas/Unidade 2/Acabamento/2026/07-JULHO/06 PT 01.jpg", "capturas/Unidade 2/Acabamento/2026/07-JULHO/06 PT 02.jpg"] },
             { data: "07/07/2026", captura: ["capturas/Unidade 2/Acabamento/2026/07-JULHO/07 PT 01.jpg", "capturas/Unidade 2/Acabamento/2026/07-JULHO/07 PT 02.jpg"] },
             { data: "08/07/2026", captura: ["capturas/Unidade 2/Acabamento/2026/07-JULHO/08 PT 01.jpg", "capturas/Unidade 2/Acabamento/2026/07-JULHO/08 PT 02.jpg"] },
@@ -585,6 +589,7 @@ const unidades = {
             
             { data: "30/06/2026", captura: ["capturas/Unidade 3/Usinagem/2026/06-JUNHO/30.JPG"] }, 
 
+            
             { data: "01/07/2026", captura: ["capturas/Unidade 3/Usinagem/2026/07-JULHO/01.JPG"] }, 
             { data: "02/07/2026", captura: ["capturas/Unidade 3/Usinagem/2026/07-JULHO/02.JPG"] }, 
             { data: "06/07/2026", captura: ["capturas/Unidade 3/Usinagem/2026/07-JULHO/06.JPG"] }, 
