@@ -188,6 +188,7 @@ const unidades = {
             { data: "27/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Expedição/MetasTv/27.jpeg", "capturas/Unidade 1/2026/07 JULHO/Expedição/Embalagem/27.jpeg"] },
             { data: "28/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Expedição/MetasTv/28.jpeg", "capturas/Unidade 1/2026/07 JULHO/Expedição/Embalagem/28.jpeg"] },
             { data: "29/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Expedição/MetasTv/29.jpeg", "capturas/Unidade 1/2026/07 JULHO/Expedição/Embalagem/29.jpeg"] },
+            { data: "30/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Expedição/MetasTv/30.jpeg", "capturas/Unidade 1/2026/07 JULHO/Expedição/Embalagem/30.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -251,7 +252,7 @@ const unidades = {
             { data: "27/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Acabamento/27.jpeg"] },
             { data: "28/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Acabamento/28.jpeg"] },
             { data: "29/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Acabamento/29.jpeg"] },
-            { data: "", captura: [""] },
+            { data: "30/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Acabamento/30.jpeg"] },
 
             
             // { data: "", captura: [""] },
@@ -319,7 +320,7 @@ const unidades = {
             { data: "27/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Usinagem - Cnc/27.jpeg"] },
             { data: "28/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Usinagem - Cnc/28.jpeg" ] },
             { data: "29/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Usinagem - Cnc/29.jpeg" ] },
-
+            { data: "30/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Usinagem - Cnc/30.jpeg" ] },
 
             // { data: "", captura: ["" ] },
 
@@ -393,7 +394,7 @@ const unidades = {
            { data: "27/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Montagem/27.jpeg"] },
            { data: "28/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Montagem/28.jpeg"] },
            { data: "29/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Montagem/29.jpeg"] },
-
+           { data: "30/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Montagem/30.jpeg" ] },
 
             // { data: "", captura: [""] },
 
@@ -1369,6 +1370,7 @@ const unidades = {
             { data: "27/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/27MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/27 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/27 HOME.jpeg"] },
             { data: "28/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/28 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/28 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/28 MAQUIMOVEL.jpeg"] },
             { data: "29/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/29 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/29 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/29 MAQUIMOVEL.jpeg"] },
+            { data: "30/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/30 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/30 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/30 MAQUIMOVEL.jpeg"] },
 
             // { data: "", captura: ["", "", ""] },
 
@@ -4261,7 +4263,7 @@ const unidades = {
             { data: "10/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/10 FAST.jpg"] },
             { data: "17/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/17 FAST.jpg"] },
             { data: "24/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/23.jpeg"] },
-
+            { data: "31/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/31.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -4415,7 +4417,9 @@ const unidades = {
             { data: "10/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/10 FAST.jpg", ""] },
             { data: "17/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/17 FAST.jpg", ""] },
             { data: "24/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/23.jpeg"] },
-            
+             { data: "31/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/31.jpeg"] },
+             
+
             // { data: "", captura: ["", ""] },
 
 
