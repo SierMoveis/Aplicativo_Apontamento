@@ -792,6 +792,8 @@ const unidades = {
             { data: "28/07/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/JULHO/28.jpeg"] },
             { data: "29/07/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/JULHO/29.jpeg"] },
             { data: "30/07/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/JULHO/30.jpeg"] },
+            { data: "31/07/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/JULHO/31.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
@@ -1207,6 +1209,8 @@ const unidades = {
             
             { data: "29/05/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/MAIO/SECCIONADORA MAIO.jpg"] },
             { data: "30/06/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JUNHO/GABIANNE.jpg"] },
+            { data: "31/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/GABBIANE.jpeg"] },
+
 
             
             // { data: "", captura: [""] },
@@ -1371,6 +1375,8 @@ const unidades = {
             { data: "28/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/28 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/28 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/28 MAQUIMOVEL.jpeg"] },
             { data: "29/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/29 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/29 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/29 MAQUIMOVEL.jpeg"] },
             { data: "30/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/30 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/30 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/30 MAQUIMOVEL.jpeg"] },
+            { data: "31/07/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/JULHO/31 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/31 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/JULHO/31 HOME.jpeg"] },
+
 
             // { data: "", captura: ["", "", ""] },
 
@@ -4525,6 +4531,7 @@ const unidades = {
             { data: "30/04/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/04 ABRIL.jpg"] },
             { data: "29/05/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/05 MAIO.jpg"] },
             { data: "30/06/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/06 JUNHO.jpg"] },
+            { data: "31/07/2026", captura: ["capturas/Unidade 4/Disperdicio/tampos/2026/07 JULHO.jpeg"] },
 
         // { data: "", captura: [""] },
 
@@ -4601,6 +4608,7 @@ const unidades = {
             { data: "30/04/2026", captura: ["capturas/Unidade 4/Consumo/2026/04 ABRIL.jpg"] },
             { data: "29/05/2026", captura: ["capturas/Unidade 4/Consumo/2026/05 MAIO.jpg"] },
             { data: "30/06/2026", captura: ["capturas/Unidade 4/Consumo/2026/06 JUNHO.jpg"] }
+            { data: "31/07/2026", captura: ["capturas/Unidade 4/Consumo/2026/07 JULHO.jpeg"] },
 
             
             // { data: "", captura: [""] },
