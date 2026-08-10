@@ -580,7 +580,7 @@ const unidades = {
             { data: "04/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/04.jpg"] },
             { data: "05/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/05.jpg"] },
             { data: "06/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/06.jpg"] },
-
+            { data: "07/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/07.jpg"] },
 
 
 
