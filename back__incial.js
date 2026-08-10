@@ -1430,6 +1430,7 @@ const unidades = {
             { data: "04/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/AGOSTO/04 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/04 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/04 HOME.jpeg"] },
             { data: "05/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/AGOSTO/05 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/05 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/05 HOME.jpeg"] },
             { data: "06/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/AGOSTO/06 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/06 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/06 MAQUIMOVEL.jpeg"] },
+            { data: "07/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/AGOSTO/07 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/07 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/AGOSTO/07 MAQUIMOVEL.jpeg"] },
 
             // { data: "", captura: ["", "", ""] },
 
