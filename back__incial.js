@@ -3199,8 +3199,7 @@ const unidades = {
             { data: "17/07/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/17 PT01.jpg", "capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/17 PT02.jpg", "capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/17 G.jpg"] },
             { data: "24/07/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/24 PT 01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/24 PT 02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/24 G.jpeg"] },
             { data: "31/07/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/30 PT 01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/30 PT 02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/JULHO/30 G.jpeg"] },
-            { data: "07/08/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 g.jpeg"] },
-
+            { data: "07/08/2026", captura: [ "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/07 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/07 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/07 G.jpeg"] },
 
              //     { data: "", captura: ["", "", "", "", ""] },
         ],
@@ -3438,6 +3437,7 @@ const unidades = {
            { data: "24/07/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/24 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/24 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/24 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/24 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/24 G.jpeg"] },
            { data: "31/07/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/31 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/31 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/31 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/31 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/JULHO/31 g.jpeg"] },
            { data: "07/08/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/AGOSTO/07 g.jpeg"] },
+
 
             // { data: "", captura: ["", "", "", "", ""] },
 
