@@ -527,7 +527,7 @@ const unidades = {
             { data: "05/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/05.jpg"] },
             { data: "06/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/06.jpg"] },
             { data: "07/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/07.jpg"] },
-            
+            { data: "10/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/10.jpg"] },
 
 
 
