@@ -192,7 +192,7 @@ const unidades = {
             { data: "31/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Expedição/MetasTv/31.jpeg", "capturas/Unidade 1/2026/07 JULHO/Expedição/Embalagem/31.jpeg"] },
             { data: "05/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Expedição/MetasTv/05.jpeg", "capturas/Unidade 1/2026/08 AGOSTO/Expedição/Embalagem/05.jpeg"] },
             { data: "06/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Expedição/MetasTv/06.jpeg", "capturas/Unidade 1/2026/08 AGOSTO/Expedição/Embalagem/06.jpeg"] },
-
+            { data: "07/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Expedição/MetasTv/07.jpeg", "capturas/Unidade 1/2026/08 AGOSTO/Expedição/Embalagem/07.jpeg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -259,7 +259,7 @@ const unidades = {
             { data: "31/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Acabamento/31.jpeg"] },
             { data: "05/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/05.jpeg"] },
             { data: "06/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/06.jpeg"] },
-
+            { data: "07/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/07.jpeg"] },
 
             
             // { data: "", captura: [""] },
@@ -331,6 +331,8 @@ const unidades = {
             { data: "31/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Usinagem - Cnc/31.jpeg" ] },
             { data: "05/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/05.jpeg"] },
             { data: "06/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/06.jpeg" ] },
+            { data: "07/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/07.jpeg"] },
+
 
             // { data: "", captura: ["" ] },
 
@@ -408,6 +410,8 @@ const unidades = {
            { data: "31/07/2026", captura: ["capturas/Unidade 1/2026/07 JULHO/Montagem/31.jpeg"] },
            { data: "05/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/05.jpeg"] },
            { data: "06/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/06.jpeg" ] },
+           { data: "07/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/07.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
