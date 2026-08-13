@@ -266,6 +266,7 @@ const unidades = {
             { data: "07/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/07.jpeg"] },
             { data: "10/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/10.jpeg" ] },
             { data: "11/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/11.jpeg"] },
+            { data: "12/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/12.jpeg"] },
 
             
             // { data: "", captura: [""] },
