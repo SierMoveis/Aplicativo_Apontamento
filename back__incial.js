@@ -635,7 +635,7 @@ const unidades = {
             { data: "10/08/2026", captura: ["capturas/Unidade 2/Acabamento/2026/08-AGOSTO/10.pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/08-AGOSTO/10.pt2.jpeg"] },
             { data: "11/08/2026", captura: ["capturas/Unidade 2/Acabamento/2026/08-AGOSTO/11.pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/08-AGOSTO/11.pt2.jpeg"] },
             { data: "12/08/2026", captura: ["capturas/Unidade 2/Acabamento/2026/08-AGOSTO/12.pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/08-AGOSTO/12.pt2.jpeg"] },
-
+            { data: "13/08/2026", captura: ["capturas/Unidade 2/Acabamento/2026/08-AGOSTO/13.pt1.jpeg", "capturas/Unidade 2/Acabamento/2026/08-AGOSTO/13.pt2.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -4263,6 +4263,9 @@ const unidades = {
             { data: "24/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/23.jpeg"] },
             { data: "31/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/31.jpeg"] },
             { data: "07/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/07.jpeg"] },
+            { data: "14/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/14.jpeg"] },
+
+
 
             // { data: "", captura: [""] },
 
@@ -4418,6 +4421,7 @@ const unidades = {
             { data: "24/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/23.jpeg"] },
             { data: "31/07/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/JULHO/31.jpeg"] },
             { data: "07/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/07.jpeg"] },
+            { data: "14/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/14.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
