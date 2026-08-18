@@ -518,6 +518,8 @@ const unidades = {
             { data: "12/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/12.jpg"] },
             { data: "13/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/13.jpg"] },
             { data: "14/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/14.jpg"] },
+            { data: "17/08/2026", captura: ["capturas/Unidade 2/Expedição/2026/08-AGOSTO/17.jpg"] },
+
 
 
 
