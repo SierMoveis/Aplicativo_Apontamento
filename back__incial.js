@@ -804,6 +804,8 @@ const unidades = {
             { data: "13/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/13.jpeg"] },
             { data: "14/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/14.jpeg"] },
             { data: "17/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/17.jpeg" ] },
+            { data: "18/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/18.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
