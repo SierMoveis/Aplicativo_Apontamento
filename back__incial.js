@@ -3191,9 +3191,14 @@ const unidades = {
         ],
 
         Tecido: [
-            { data: "27/01/2024", captura: ["capturas/Retrabalhos/unidade 2/Tecido/1- Janeiro/22-01 à 27-01.png", "capturas/Retrabalhos/unidade 2/Tecido/1- Janeiro/22-01 à 27-01 GRAFICO.png"] },
-            { data: "28/03/2024", captura: ["capturas/Retrabalhos/unidade 2/Tecido/3- Março/28 pçs.jpg", "capturas/Retrabalhos/unidade 2/Tecido/3- Março/28 grafico.jpg", "capturas/Retrabalhos/unidade 2/Tecido/3- Março/28 ifinito.jpg"] },
+         { data: "", captura: ["", "", "", ""] },
 
+            //    { data: "", captura: ["", "", "", ""] },
+            //    { data: "", captura: ["", "", "", ""] },
+        ],
+        
+        Restauração: [
+         { data: "19/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/19.jpeg", "", "", ""] },
 
             //    { data: "", captura: ["", "", "", ""] },
             //    { data: "", captura: ["", "", "", ""] },
