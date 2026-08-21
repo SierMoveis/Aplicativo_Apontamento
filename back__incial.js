@@ -582,9 +582,11 @@ const unidades = {
             { data: "17/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/17.jpg"] },
             { data: "18/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/18.jpg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/19.jpg"] },
+            { data: "20/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/20.jpg"] },
+
+
+
             
-
-
 
             // { data: "", captura: [""] },
 
@@ -811,6 +813,8 @@ const unidades = {
             { data: "17/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/17.jpeg" ] },
             { data: "18/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/18.jpeg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/19.jpeg"] },
+            { data: "20/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/20.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
@@ -1406,6 +1410,7 @@ const unidades = {
             { data: "17/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/17 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/14 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/17 HOME.jpeg"] },
             { data: "18/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/18 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/18 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/18 HOME.jpeg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/19 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/19 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/19 MAQUIMOVEL.jpeg"] },
+            { data: "20/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/20 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/20 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/20 MAQUIMOVEL.jpeg"] },
 
             
             // { data: "", captura: ["", "", ""] },
