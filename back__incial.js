@@ -586,6 +586,8 @@ const unidades = {
             { data: "18/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/18.jpg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/19.jpg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/20.jpg"] },
+            { data: "21/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/21.jpg"] },
+
 
 
 
