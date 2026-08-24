@@ -279,6 +279,7 @@ const unidades = {
             { data: "18/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/18.jpeg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/19.jpeg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/20.jpeg"] },
+            { data: "21/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Acabamento/21.jpeg"] },
 
             
             // { data: "", captura: [""] },
@@ -359,6 +360,7 @@ const unidades = {
             { data: "18/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/18.jpeg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/19.jpeg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/20.jpeg"] },
+            { data: "21/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/21.jpeg"] },
 
 
             // { data: "", captura: ["" ] },
@@ -446,6 +448,7 @@ const unidades = {
            { data: "18/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/18.jpeg"] },
            { data: "19/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/19.jpeg"] },
            { data: "20/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/20.jpeg"] },
+           { data: "21/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/21.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -832,6 +835,7 @@ const unidades = {
             { data: "18/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/18.jpeg"] },
             { data: "19/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/19.jpeg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/20.jpeg"] },
+            { data: "21/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/21.jpeg"] },
 
 
             // { data: "", captura: [""] },
