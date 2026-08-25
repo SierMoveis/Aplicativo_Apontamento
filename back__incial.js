@@ -594,7 +594,7 @@ const unidades = {
             { data: "19/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/19.jpg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/20.jpg"] },
             { data: "21/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/21.jpg"] },
-
+            { data: "24/08/2026", captura: ["capturas/Unidade 2/Usinagem/2026/08-AGOSTO/CNC/24.jpg"] },
 
 
 
@@ -836,7 +836,7 @@ const unidades = {
             { data: "19/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/19.jpeg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/20.jpeg"] },
             { data: "21/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/21.jpeg"] },
-
+            { data: "24/08/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/08 AGOSTO/24.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -1434,7 +1434,9 @@ const unidades = {
             { data: "19/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/19 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/19 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/19 MAQUIMOVEL.jpeg"] },
             { data: "20/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/20 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/20 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/20 MAQUIMOVEL.jpeg"] },
             { data: "21/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/21 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/21 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/21 MAQUIMOVEL.jpeg"] },
-            
+            { data: "24/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/24 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/24 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/24 MAQUIMOVEL.jpeg"] },
+
+
             // { data: "", captura: ["", "", ""] },
 
 
