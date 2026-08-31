@@ -374,7 +374,7 @@ const unidades = {
             { data: "25/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/25.jpeg" ] },
             { data: "26/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/26.jpeg"] },
             { data: "27/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/27.jpeg" ] },
-
+            { data: "28/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/28.jpeg" ] },
 
             // { data: "", captura: ["" ] },
 
@@ -466,6 +466,7 @@ const unidades = {
            { data: "25/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/25.jpeg"] },
            { data: "26/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/26.jpeg"] },
            { data: "27/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/27.jpeg" ] },
+           { data: "28/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/28.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -516,8 +517,10 @@ const unidades = {
             { data: "25/08/2026", captura: ["capturas/Unidade 2/Estofaria/2026/08-AGOSTO/25-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/25-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/25-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/25-pt4.jpg"] },
             { data: "26/08/2026", captura: ["capturas/Unidade 2/Estofaria/2026/08-AGOSTO/26-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/26-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/26-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/26-pt4.jpg"] },
             { data: "27/08/2026", captura: ["capturas/Unidade 2/Estofaria/2026/08-AGOSTO/27-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/27-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/27-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/27-pt4.jpg"] },
+            { data: "28/08/2026", captura: ["capturas/Unidade 2/Estofaria/2026/08-AGOSTO/28-pt1.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/28-pt2.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/28-pt3.jpg", "capturas/Unidade 2/Estofaria/2026/08-AGOSTO/28-pt4.jpg"] },
 
 
+            
 
 
             // { data: "", captura: ["", "", "", ""] },
