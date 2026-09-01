@@ -470,6 +470,7 @@ const unidades = {
            { data: "26/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/26.jpeg"] },
            { data: "27/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/27.jpeg" ] },
            { data: "28/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/28.jpeg"] },
+           { data: "31/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Montagem/31.jpeg"] },
 
 
             // { data: "", captura: [""] },
