@@ -212,7 +212,7 @@ const unidades = {
             
             { data: "01/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/01.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/01.jpeg"] },
             { data: "02/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/02.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/02.jpeg"] },
-
+            { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/03.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/03.jpeg"] },
             
             // { data: "", captura: ["", ""] },
 
@@ -298,7 +298,7 @@ const unidades = {
 
             { data: "01/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/01.jpeg"] },
             { data: "02/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/02.jpeg"] },
-
+            { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/03.jpeg"] },
             
             // { data: "", captura: [""] },
 
@@ -387,8 +387,8 @@ const unidades = {
             { data: "31/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/31.jpeg" ] },
 
             { data: "01/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/01.jpeg" ] },
-            { data: "02/009/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/2.jpeg" ] },
-
+            { data: "02/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/2.jpeg" ] },
+            { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/03.jpeg"] },
             
 
             // { data: "", captura: ["" ] },
@@ -486,6 +486,8 @@ const unidades = {
 
            { data: "01/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/01.jpeg" ] },
            { data: "02/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/02.jpeg"] },
+           { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/03.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
