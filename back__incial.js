@@ -600,8 +600,10 @@ const unidades = {
             { data: "01/09/2026", captura: ["capturas/Unidade 2/Expedição/2026/09-SETEMBRO/01.JPG"] },
             { data: "02/09/2026", captura: ["capturas/Unidade 2/Expedição/2026/09-SETEMBRO/02.JPG"] },
             { data: "03/09/2026", captura: ["capturas/Unidade 2/Expedição/2026/09-SETEMBRO/03.JPG"] },
-
+            { data: "04/09/2026", captura: ["capturas/Unidade 2/Expedição/2026/09-SETEMBRO/04.JPG"] },
             
+            
+
             
 
 
