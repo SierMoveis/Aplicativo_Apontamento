@@ -3356,9 +3356,8 @@ const unidades = {
             { data: "14/08/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/14 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/14 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/14 G.jpeg"] },
             { data: "19/08/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/21 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/21 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/21 g.jpeg"] },
             { data: "28/08/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/28 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/28 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/AGOSTO/28 G.jpeg"] },
-        
-            { data: "04/09/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Restauração/SETEMBRO/04 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Restauração/SETEMBRO/04 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Restauração/SETEMBRO/04 PT.jpeg"] },
-
+            { data: "04/09/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Osso/SETEMBRO/04 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/SETEMBRO/04 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Osso/SETEMBRO/04 G.jpeg"] },
+            
 
              // { data: "", captura: ["", "", ""] },
         ],
@@ -3372,7 +3371,7 @@ const unidades = {
         
         Restauração: [
         { data: "28/08/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Restauração/28 pt1.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Restauração/28 pt2.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Restauração/28g.jpeg"] },
-        { data: "04", captura: ["", "", ""] },
+        { data: "04/09/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Restauração/SETEMBRO/04 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Restauração/SETEMBRO/04 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Restauração/SETEMBRO/04 PT.jpeg"] },
 
 
             //    { data: "", captura: ["", "", ""] },
