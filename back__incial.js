@@ -939,7 +939,7 @@ const unidades = {
 
             { data: "01/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/01.jpeg"] },
             { data: "03/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/03.jpeg"] },
-
+            { data: "08/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/08.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -1549,7 +1549,9 @@ const unidades = {
             { data: "31/08/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/31 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/31 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/08 AGOSTO/31 MAQUIMOVEL.jpeg"] },
             { data: "01/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/01 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/01 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/01 HOME.jpeg"] },
             { data: "02/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/02 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/02 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/02 HOME.jpeg"] },
-             { data: "03/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/03 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/03 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/03 HOME.jpeg"] },
+            { data: "03/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/03 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/03 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/03 HOME.jpeg"] },
+            { data: "04/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/04 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/04 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/04 HOME.jpeg"] },
+            { data: "08/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/08 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/08 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/08 MAQ.jpeg"] },
 
 
 
