@@ -304,7 +304,8 @@ const unidades = {
             { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/03.jpeg"] },
             { data: "08/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/08.jpeg"] },
             { data: "09/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/09.jpeg"] },
-            
+            { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/10.jpeg"] },
+
             // { data: "", captura: [""] },
 
 
@@ -396,7 +397,7 @@ const unidades = {
             { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/03.jpeg"] },
             { data: "08/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/08.jpeg" ] },
             { data: "09/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/09.jpeg" ] },
-
+            { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/10.jpeg" ] },
             
 
             // { data: "", captura: ["" ] },
@@ -857,6 +858,7 @@ const unidades = {
             { data: "03/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/03.jpeg"] },
             { data: "08/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/08.jpeg"] },
             { data: "09/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/09.jpeg"] },
+            { data: "10/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/10.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -1470,6 +1472,7 @@ const unidades = {
             { data: "04/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/04 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/04 MAQ.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/04 HOME.jpeg"] },
             { data: "08/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/08 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/08 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/08 MAQ.jpeg"] },
             { data: "09/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/09 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/09 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/09 MAQ.jpeg"] },
+            { data: "10/09/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/09 SET/10 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/10 ITAL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/09 SET/10 MAQ.jpeg"] },
 
 
             // { data: "", captura: ["", "", ""] },
