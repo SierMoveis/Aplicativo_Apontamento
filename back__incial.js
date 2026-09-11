@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // // Para exibir a primeira unidade ao carregar a página
-    // mostrarUnidade('UA1'); // Altere para a unidade desejada
+    // mostrarUnidade('ua1'); // Altere para a unidade desejada
 
 });
 
