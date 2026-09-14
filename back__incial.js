@@ -4450,7 +4450,7 @@ const unidades = {
             { data: "21/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/21.jpeg"] },
             { data: "28/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/28.jpeg"] },
             { data: "04/09/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/SETEMBRO/04.jpeg"] },
-
+            { data: "11/09/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/SETEMBRO/11.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -4610,7 +4610,8 @@ const unidades = {
             { data: "21/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/21.jpeg"] },
             { data: "28/08/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/AGOSTO/28.jpeg"] },
             { data: "04/09/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/SETEMBRO/04.jpeg"] },
-            
+            { data: "11/09/2026", captura: ["capturas/Qualidade fornecedor/vidros/2026/SETEMBRO/11.jpeg"] },
+
 
             // { data: "", captura: ["", ""] },
 
