@@ -401,6 +401,7 @@ const unidades = {
             { data: "09/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/09.jpeg" ] },
             { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/10.jpeg" ] },
             { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/11.jpeg" ] },
+            { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/14.jpeg" ] },
 
 
             // { data: "", captura: ["" ] },
@@ -502,7 +503,8 @@ const unidades = {
            { data: "09/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/09.jpeg"] },
            { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/10.jpeg"] },
            { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/11.jpeg"] },
-
+           { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/14.jpeg"] },
+           
 
             // { data: "", captura: [""] },
 
@@ -729,7 +731,9 @@ const unidades = {
             { data: "09/09/2026", captura: ["capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/09-pt1.jpg", "capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/09-pt2.jpg"] },
             { data: "10/09/2026", captura: ["capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/10-pt1.jpg", "capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/10-pt2.jpg"] },
             { data: "11/09/2026", captura: ["capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/11-pt1.jpg", "capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/11-pt2.jpg"] },
-            
+            { data: "14/09/2026", captura: ["capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/14-pt1.jpg", "capturas/Unidade 2/Acabamento/2026/09-SETEMBRO/14-pt2.jpg"] },
+
+
 
 
             // { data: "", captura: ["", ""] },
