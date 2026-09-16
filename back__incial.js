@@ -217,7 +217,7 @@ const unidades = {
             { data: "09/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/09.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/09.jpeg"] },
             { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/11.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/11.jpeg"] },
             { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/14.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/14.jpeg"] },
-
+            { data: "15/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/15.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/15.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -311,6 +311,9 @@ const unidades = {
             { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/11.jpeg"] },
             { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/14.jpeg"] },
             { data: "15/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Acabamento/15.jpeg"] },
+         
+
+
 
             // { data: "", captura: [""] },
 
@@ -406,7 +409,7 @@ const unidades = {
             { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/10.jpeg" ] },
             { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/11.jpeg" ] },
             { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/14.jpeg" ] },
-
+            { data: "15/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/15.jpeg" ] },
 
             // { data: "", captura: ["" ] },
 
@@ -508,7 +511,9 @@ const unidades = {
            { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/10.jpeg"] },
            { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/11.jpeg"] },
            { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/14.jpeg"] },
+           { data: "15/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/15.jpeg"] },
            
+
 
             // { data: "", captura: [""] },
 
