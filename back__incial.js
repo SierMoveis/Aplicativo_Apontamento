@@ -194,7 +194,8 @@ const unidades = {
            { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/14.jpeg"] },
            { data: "15/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/15.jpeg"] },
            { data: "16/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/16.jpeg"] },
-
+           { data: "17/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/17.jpeg"] },
+           
 
             // { data: "", captura: [""] },
 
