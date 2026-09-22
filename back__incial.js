@@ -612,7 +612,7 @@ const unidades = {
             { data: "16/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/16.jpeg"] },
             { data: "17/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/17.jpeg"] },
             { data: "18/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/18.jpeg"] },
-
+            { data: "21/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/21.jpeg"] },
 
             // { data: "", captura: [""] },
 
