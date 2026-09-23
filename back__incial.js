@@ -203,6 +203,8 @@ const unidades = {
            { data: "17/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/17.jpeg"] },
            { data: "18/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/18.jpeg"] },
            { data: "21/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/21.jpeg"] },
+           { data: "22/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/22.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
