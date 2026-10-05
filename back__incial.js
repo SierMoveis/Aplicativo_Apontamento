@@ -467,6 +467,8 @@ const unidades = {
             { data: "30/09/2026", captura: ["capturas/Unidade 2/Usinagem/2026/09-SETEMBRO/USINAGEM/30.JPG", "capturas/Unidade 2/Usinagem/2026/09-SETEMBRO/MM/30.jpg"] },
 
             { data: "01/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/USINAGEM/01.JPG", "capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/MM/01.jpg"] },
+            { data: "02/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/USINAGEM/02.JPG", "capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/MM/02.jpg"] },
+
 
 
 
@@ -588,7 +590,7 @@ const unidades = {
             { data: "30/09/2026", captura: ["capturas/Unidade 3/Usinagem/2026/09-SETEMBRO/30.JPG"] }, 
             
             { data: "01/10/2026", captura: ["capturas/Unidade 3/Usinagem/2026/10-OUTUBRO/01.JPG"] }, 
-            
+            { data: "02/10/2026", captura: ["capturas/Unidade 3/Usinagem/2026/10-OUTUBRO/02.JPG"] }, 
 
 
 
