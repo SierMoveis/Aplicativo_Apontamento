@@ -227,6 +227,7 @@ const unidades = {
            { data: "30/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/30.jpeg"] },
            { data: "01/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/1.jpeg"] },
            { data: "05/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/05.jpeg"] },
+           { data: "06/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/06.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -410,7 +411,7 @@ const unidades = {
             { data: "01/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/01.JPG"] },
             { data: "02/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/02.JPG"] },
             { data: "05/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/05.JPG"] },
-
+            { data: "06/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/06.JPG"] },
 
 
             // { data: "", captura: [""] },
@@ -475,7 +476,7 @@ const unidades = {
             { data: "01/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/USINAGEM/01.JPG", "capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/MM/01.jpg"] },
             { data: "02/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/USINAGEM/02.JPG", "capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/MM/02.jpg"] },
             { data: "05/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/USINAGEM/05.JPG", "capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/MM/05.jpg"] },
-
+            { data: "06/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/USINAGEM/06.JPG", "capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/MM/06.jpg"] },
 
 
             ],
@@ -600,7 +601,7 @@ const unidades = {
             { data: "01/10/2026", captura: ["capturas/Unidade 3/Usinagem/2026/10-OUTUBRO/01.JPG"] }, 
             { data: "02/10/2026", captura: ["capturas/Unidade 3/Usinagem/2026/10-OUTUBRO/02.JPG"] }, 
             { data: "05/10/2025", captura: ["capturas/Unidade 3/Usinagem/2026/10-OUTUBRO/05.JPG"] }, 
-
+            { data: "06/10/2026", captura: ["capturas/Unidade 3/Usinagem/2026/10-OUTUBRO/06.JPG"] }, 
 
             
             
