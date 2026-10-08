@@ -652,6 +652,7 @@ const unidades = {
             { data: "29/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/29.jpeg"] },
             { data: "30/09/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/09 SETEMBRO/30.jpeg"] },
             { data: "01/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/01.jpeg"] },
+            { data: "07/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/07.jpeg"] },
 
             // { data: "", captura: [""] },
 
