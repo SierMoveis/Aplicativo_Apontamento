@@ -556,7 +556,7 @@ const unidades = {
             { data: "02/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/02-PT1.JPG", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/02-PT2.JPG"] },
             { data: "05/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/05-PT1.JPG", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/05-PT2.JPG"] },
             { data: "06/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/06-PT1.JPG", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/06-PT2.JPG"] },
-
+            { data: "08/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/08-PT1.JPG", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/08-PT2.JPG"] },
             
 
             
