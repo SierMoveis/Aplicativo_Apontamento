@@ -201,6 +201,8 @@ const unidades = {
             { data: "30/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/30.jpeg" ] },
             { data: "01/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/01.jpeg" ] },
             { data: "07/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/07.jpeg" ] },
+            { data: "13/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/13.jpeg" ] },
+
 
             // { data: "", captura: ["" ] },
 
