@@ -129,7 +129,7 @@ const unidades = {
             { data: "30/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Expedição/MetasTv/30.jpeg", "capturas/Unidade 1/2026/09 SETEMBRO/Expedição/Embalagem/30.jpeg"] },
             { data: "01/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/01.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/01.jpeg"] },
             { data: "07/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/07.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/07.jpeg"] },
-
+            { data: "13/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/13.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/13.jpeg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -238,6 +238,8 @@ const unidades = {
            { data: "05/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/05.jpeg"] },
            { data: "06/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/06.jpeg"] },
            { data: "07/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/07.jpeg"] },
+           { data: "13/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Montagem/13.jpeg"] },
+
 
             // { data: "", captura: [""] },
 
@@ -618,7 +620,7 @@ const unidades = {
             { data: "01/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/01.jpeg"] },
             { data: "07/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/07.jpeg"] },
             { data: "08/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/08.jpeg"] },
-
+            { data: "13/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/13.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -1105,7 +1107,7 @@ const unidades = {
             { data: "06/10/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/10 OUT/06 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/06 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/06 HOME.jpeg"] },
             { data: "07/10/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/10 OUT/07 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/07 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/07 HOME.jpeg"] },
             { data: "08/10/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/10 OUT/08 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/08 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/08 HOME.jpeg"] },
-
+            { data: "14/10/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/10 OUT/13 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/13 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/10 OUT/13 MAQUIMOVEL.jpeg"] },
 
             
             // { data: "", captura: ["", "", ""] },
