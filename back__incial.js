@@ -286,7 +286,7 @@ const unidades = {
             { data: "06/10/2026", captura: ["capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/6-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/6-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/6-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/6-PT4.JPG"] },
             { data: "07/10/2026", captura: ["capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/7-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/7-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/7-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/7-PT4.JPG"] },
             { data: "13/10/2026", captura: ["capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/13-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/13-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/13-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/13-PT4.JPG"] },
-
+            { data: "14/10/2026", captura: ["capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/14-PT1.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/14-PT2.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/14-PT3.JPG", "capturas/Unidade 2/Estofaria/2026/10-OUTUBRO/14-PT4.JPG"] },
             
 
 
