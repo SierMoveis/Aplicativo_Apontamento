@@ -1334,7 +1334,7 @@ const unidades = {
         ],
 
 
-    UR2: {
+    UR2: {},
 
         Estofaria: [
 
