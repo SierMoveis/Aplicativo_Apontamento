@@ -1329,7 +1329,12 @@ const unidades = {
 
              // { data: "", captura: ["", "", ""] },
            
+             
         ],
+
+    UR2:{   
+    },
+     
 
         Estofaria: [
 
