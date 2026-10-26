@@ -1332,9 +1332,8 @@ const unidades = {
              
         ],
 
-    UR2:{   
-    },
-     
+
+    UR2: {},
 
         Estofaria: [
 
@@ -1365,8 +1364,7 @@ const unidades = {
 
         exp2: [
             
-           
-           
+                  
             { data: "06/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/06 1PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/06 2PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/06 G.jpg"] },
             { data: "14/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/14 1PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/14 2PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/14 G.jpg"] },
             { data: "20/03/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/201PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/202PT.jpg", "capturas/Retrabalhos/2026/Unidade 2/Expedição/MARÇO/20G.jpg"] },
