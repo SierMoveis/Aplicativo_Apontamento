@@ -537,7 +537,7 @@ const unidades = {
             { data: "20/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/20 PT1.jpeg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/20 PT2.jpeg"] },
             { data: "21/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/21 PT1...jpeg","capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/21 PT2...jpeg"] },
             { data: "22/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/22 PT1...jpeg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/22 PT2...jpeg"] },
-            
+            { data: "23/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/23 PT1.jpeg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/23 PT2.jpeg"] },
             
 
 
@@ -1334,7 +1334,7 @@ const unidades = {
         ],
 
 
-    UR2: {},
+    UR2: {
 
         Estofaria: [
 
