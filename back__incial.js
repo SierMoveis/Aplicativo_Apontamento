@@ -1306,16 +1306,7 @@ const unidades = {
 
     UR2: {
 
-us_curvado: [
 
-{ data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 G.jpeg"] },
-          
-
-          
-            // { data: "", captura: ["", "", ""] },
-
-
-        ],
 
 
 
@@ -1386,6 +1377,18 @@ us_curvado: [
            { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 G.jpeg"] },
 
             // { data: "", captura: ["", "", "", "", ""] },
+
+
+        ],
+
+        Us_curvado: [
+
+        { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 G.jpeg"] },
+          
+
+          
+            // { data: "", captura: ["", "", ""] },
+
 
 
         ],
