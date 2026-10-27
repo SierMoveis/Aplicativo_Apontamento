@@ -1371,7 +1371,7 @@ const unidades = {
 
         ],
 
-        Us_un2: [
+        Usinagemcurvados: [
            
           
            { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 G.jpeg"] },
