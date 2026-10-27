@@ -1343,11 +1343,13 @@ const unidades = {
 
         ],
 
-        Tecido: [
-         { data: "", captura: ["", "", "", ""] },
+        us_curvado: [
 
-            //    { data: "", captura: ["", "", "", ""] },
-            //    { data: "", captura: ["", "", "", ""] },
+
+         { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 G.jpeg"] },
+
+            
+            //    { data: "", captura: ["", "", ""] },
 
 
         ],
@@ -1363,31 +1365,22 @@ const unidades = {
         Ispeção_Qualidade_Fundo: [
 
       
-       { data: "04/09/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Inspeção de Qualidade/09 SETEMBRO/04 PT 01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Inspeção de Qualidade/09 SETEMBRO/04 PT 02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Inspeção de Qualidade/09 SETEMBRO/04 G.jpeg"] },
        
-
        // { data: "", captura: ["", "", ""] },
 
 
         ],
 
-        Usinagemcurvados: [
-           
-          
-           { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT03.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 G.jpeg"] },
+    
 
-            // { data: "", captura: ["", "", "", "", ""] },
+        Us_un2: [
 
+      { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT03.jpeg","capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 PT04.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Usinagem/OUTUBRO/23 G.jpeg"] },
 
-        ],
-
-        Us_curvado: [
-
-        { data: "23/10/2026", captura: ["capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT01.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 PT02.jpeg", "capturas/Retrabalhos/2026/Unidade 2/Curvados/OUTUBRO/23 G.jpeg"] },
           
 
           
-            // { data: "", captura: ["", "", ""] },
+            // { data: "", captura: ["", "", "","", ""] },
 
 
 
