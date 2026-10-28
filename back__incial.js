@@ -191,36 +191,7 @@ const unidades = {
 
         Usinagem: [
 
-   
-           
-            { data: "31/08/2026", captura: ["capturas/Unidade 1/2026/08 AGOSTO/Usinagem - Cnc/31.jpeg" ] },
-
-            { data: "01/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/01.jpeg" ] },
-            { data: "02/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/2.jpeg" ] },
-            { data: "03/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/03.jpeg"] },
-            { data: "08/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/08.jpeg" ] },
-            { data: "09/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/09.jpeg" ] },
-            { data: "10/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/10.jpeg" ] },
-            { data: "11/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/11.jpeg" ] },
-            { data: "14/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/14.jpeg" ] },
-            { data: "15/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/15.jpeg" ] },
-            { data: "16/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/16.jpeg"] },
-            { data: "17/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/17.jpeg" ] },
-            { data: "21/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/21.jpeg" ] },
-            { data: "22/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Montagem/22.jpeg" ] },
-            { data: "23/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/23.jpeg" ] },
-            { data: "24/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/24.jpeg" ] },
-            { data: "29/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/29.jpeg" ] },
-            { data: "30/09/2026", captura: ["capturas/Unidade 1/2026/09 SETEMBRO/Usinagem - Cnc/30.jpeg" ] },
-            { data: "01/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/01.jpeg" ] },
-            { data: "07/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/07.jpeg" ] },
-            { data: "13/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/13.jpeg" ] },
-            { data: "14/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/14.jpeg" ] },
-            { data: "15/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/15.jpeg" ] },
-            { data: "19/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/19.jpeg" ] },
-            { data: "20/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/20.jpeg" ] },
-            { data: "21/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/21.jpeg" ] }, 
-            { data: "22/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/22.jpeg" ] },
+         { data: "26/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/26.jpeg" ] },
 
             // { data: "", captura: ["" ] },
 
@@ -431,8 +402,10 @@ const unidades = {
             { data: "22/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/22.JPG"] },
             { data: "23/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/23.JPG"] },
             { data: "26/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/26.JPG"] },
+            { data: "27/10/2026", captura: ["capturas/Unidade 2/Usinagem/2026/10-OUTUBRO/CNC/27.JPG"] },
 
 
+            
 
 
             // { data: "", captura: [""] },
