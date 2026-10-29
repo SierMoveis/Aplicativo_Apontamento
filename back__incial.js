@@ -353,9 +353,10 @@ const unidades = {
             { data: "23/10/2026", captura: ["capturas/Unidade 2/Expedição/2026/10-OUTUBRO/23.JPG"] },
             { data: "26/10/2026", captura: ["capturas/Unidade 2/Expedição/2026/10-OUTUBRO/26.JPG"] },
             { data: "27/10/2026", captura: ["capturas/Unidade 2/Expedição/2026/10-OUTUBRO/27.JPG"] },
-            
+            { data: "28/10/2026", captura: ["capturas/Unidade 2/Expedição/2026/10-OUTUBRO/28.JPG"] },
             
 
+            
             
 
             // { data: "", captura: [""] },
