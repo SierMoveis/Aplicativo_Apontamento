@@ -180,7 +180,7 @@ const unidades = {
             { data: "22/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/22.jpeg"] },
             { data: "26/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/26.jpeg"] },
             { data: "27/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/27.jpeg"] },
-
+            { data: "28/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/28.jpeg"] },
 
             // { data: "", captura: [""] },
 
