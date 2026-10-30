@@ -138,7 +138,7 @@ const unidades = {
             { data: "22/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/22.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/22.jpeg"] },
             { data: "27/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/27.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/27.jpeg"] },
             { data: "28/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/28.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/28.jpeg"] },
-
+            { data: "29/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/29.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/29.jpeg"] },
 
             // { data: "", captura: ["", ""] },
 
@@ -197,7 +197,7 @@ const unidades = {
          { data: "26/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/26.jpeg" ] },
          { data: "27/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/27.jpeg" ] },
          { data: "28/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/28.jpeg" ] },
-
+         { data: "29/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Usinagem - Cnc/29.jpeg" ] },
 
             // { data: "", captura: ["" ] },
 
@@ -537,6 +537,8 @@ const unidades = {
             { data: "26/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/26 PT1.jpeg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/26 PT2.jpeg"] },
             { data: "27/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/27 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/27 PT2.jpg"] },
             { data: "28/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/28 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/28 PT2.jpg"] },
+            { data: "29/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/29 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/29 PT2.jpg"] },
+            
 
             
             
