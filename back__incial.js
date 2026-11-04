@@ -558,8 +558,10 @@ const unidades = {
             { data: "29/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/29 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/29 PT2.jpg"] },
             { data: "30/10/2026", captura: ["capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/30 PT1.jpg", "capturas/Unidade 2/Acabamento/2026/10-OUTUBRO/30 PT2.jpg"] },
 
+            { data: "03/11/2026", captura: ["capturas/Unidade 2/Acabamento/2026/11-NOVEMBRO/03-PT1.JPG", "capturas/Unidade 2/Acabamento/2026/11-NOVEMBRO/03-PT2.JPG"] },
             
             
+
             
             // { data: "", captura: ["", ""] },
 
