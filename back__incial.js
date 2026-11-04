@@ -186,7 +186,7 @@ const unidades = {
             { data: "27/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/27.jpeg"] },
             { data: "28/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/28.jpeg"] },
             { data: "29/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/29.jpeg"] },
-
+            { data: "30/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Acabamento/30.jpeg"] },
 
             // { data: "", captura: [""] },
 
