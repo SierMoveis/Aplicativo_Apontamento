@@ -142,6 +142,8 @@ const unidades = {
             { data: "31/10/2026", captura: ["capturas/Unidade 1/2026/10 OUTUBRO/Expedição/MetasTv/30.jpeg", "capturas/Unidade 1/2026/10 OUTUBRO/Expedição/Embalagem/30.jpeg"] },
             { data: "04/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/04.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/04.jpeg"] },
             { data: "05/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/05.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/05.jpeg"] },
+            { data: "09/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/09.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/09.jpeg"] },
+
 
             // { data: "", captura: ["", ""] },
 
@@ -191,6 +193,7 @@ const unidades = {
             { data: "03/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/03.jpeg"] },
             { data: "04/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/04.jpeg"] },
             { data: "05/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/05.jpeg"] },
+            { data: "09/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/09.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -211,6 +214,7 @@ const unidades = {
          { data: "04/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/04.jpeg" ] },
          { data: "05/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/05.jpeg" ] },
          { data: "06/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/06.jpeg" ] },
+         { data: "09/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/09.jpeg"] },
 
         // { data: "", captura: ["" ] },
 
@@ -264,6 +268,7 @@ const unidades = {
            { data: "04/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/04.jpeg"] },
            { data: "05/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/05.jpeg"] },
            { data: "06/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/06.jpeg" ] },
+           { data: "09/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/09.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -683,8 +688,8 @@ const unidades = {
             { data: "30/10/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/10 OUTUBRO/30.jpeg"] },
             { data: "04/11/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/11 NOVEMBRO/04.jpeg"] },
             { data: "05/11/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/11 NOVEMBRO/05.jpeg"] },
-            { data: "06/11/2026", captura: ["capturas/Retrabalhos/2026/Unidade 4/NOVEMBRO/06.jpeg"] },
-
+            { data: "06/11/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/11 NOVEMBRO/06.jpeg"] },
+            { data: "09/11/2026", captura: ["capturas/Unidade 4/Usinagem/2026/Usinagem/11 NOVEMBRO/09.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -1189,7 +1194,9 @@ const unidades = {
             { data: "04/11/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/11 NOV/04 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/04 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/04 MAQUIMOVEL.jpeg"] },
             { data: "05/11/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/11 NOV/05 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/05 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/05 MAQUIMOVEL.jpeg"] },
             { data: "06/11/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/11 NOV/06 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/06 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/06 HOME.jpeg"] },
+            { data: "09/11/2026", captura: ["capturas/Unidade 4/Tempo_parado/2026/11 NOV/09 HOME.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/09 ITALPRESSE.jpeg", "capturas/Unidade 4/Tempo_parado/2026/11 NOV/09 MAQUIMOVEL.jpeg"] },
             
+
             // { data: "", captura: ["", "", ""] },
 
 
