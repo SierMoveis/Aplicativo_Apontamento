@@ -473,8 +473,10 @@ const unidades = {
             { data: "06/11/2026", captura: ["capturas/Unidade 2/Usinagem/2026/11-NOVEMBRO/CNC/06.jpg"] },
             { data: "09/11/2026", captura: ["capturas/Unidade 2/Usinagem/2026/11-NOVEMBRO/CNC/09.jpg"] },
             { data: "10/11/2026", captura: ["capturas/Unidade 2/Usinagem/2026/11-NOVEMBRO/CNC/10.jpg"] },
-
+            { data: "11/11/2026", captura: ["capturas/Unidade 2/Usinagem/2026/11-NOVEMBRO/CNC/11.jpg"] },
             
+            
+
             
             // { data: "", captura: [""] },
 
