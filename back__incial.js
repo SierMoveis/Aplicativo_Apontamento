@@ -201,6 +201,9 @@ const unidades = {
             { data: "10/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/10.jpeg"] },
             { data: "11/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/11.jpeg"] },
             { data: "12/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/12.jpeg"] },
+            { data: "16/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/16.jpeg"] },
+
+
 
             // { data: "", captura: [""] },
 
@@ -384,7 +387,9 @@ const unidades = {
             { data: "11/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/11.JPG"] },
             { data: "12/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/12.JPG"] },
             { data: "13/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/13.JPG"] },
+            { data: "16/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/16.JPG"] },
 
+            
             
             
             // { data: "", captura: [""] },
