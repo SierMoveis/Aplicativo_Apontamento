@@ -150,7 +150,7 @@ const unidades = {
             { data: "16/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/16.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/16.jpeg"] },
             { data: "17/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/17.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/17.jpeg"] },
             { data: "18/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/18.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/18.jpeg"] },
-
+            { data: "19/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/MetasTv/19.jpeg", "capturas/Unidade 1/2026/11 NOVEMBRO/Expedição/Embalagem/19.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -208,6 +208,7 @@ const unidades = {
             { data: "16/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/16.jpeg"] },
             { data: "17/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/17.jpeg"] },
             { data: "18/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/18.jpeg"] },
+            { data: "19/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Acabamento/19.jpeg"] },
 
             // { data: "", captura: [""] },
 
@@ -235,6 +236,7 @@ const unidades = {
          { data: "16/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/16.jpeg" ] },
          { data: "17/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/17.jpeg" ] },
          { data: "18/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/18.jpeg"] },
+         { data: "19/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Usinagem - Cnc/19.jpeg"] },
 
 
         // { data: "", captura: ["" ] },
@@ -296,6 +298,7 @@ const unidades = {
            { data: "16/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/16.jpeg"] },
            { data: "17/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/17.jpeg"] },
            { data: "18/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/18.jpeg"] },
+           { data: "19/11/2026", captura: ["capturas/Unidade 1/2026/11 NOVEMBRO/Montagem/19.jpeg"] },
 
             // { data: "", captura: [""] },
 
