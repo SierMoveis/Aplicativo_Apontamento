@@ -416,6 +416,7 @@ const unidades = {
             { data: "18/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/18.JPG"] },
             { data: "19/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/19.JPG"] },
             { data: "23/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/23.JPG"] },
+            { data: "24/11/2026", captura: ["capturas/Unidade 2/Expedição/2026/11-NOVEMBRO/24.JPG"] },
             
             
 
